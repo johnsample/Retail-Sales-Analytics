@@ -1,0 +1,1001 @@
+﻿Row_ID,Order_ID,Order_Date,Order_Month,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,City,Region,Category,Product,Quantity,Discount,Sales,Profit,Payment_Mode
+1,ORD-2025-0001,02-05-2025 00:00,May-25,05-05-2025 00:00,Standard,CUST-0104,Rahul Verma,Consumer,Kolkata,East,Office Supplies,Calculator,3,0.1,1684.8,296.69,Net Banking
+2,ORD-2025-0002,22-01-2025 00:00,Jan-25,27-01-2025 00:00,Express,CUST-0170,Divya Rao,Consumer,Bhubaneswar,East,Home & Kitchen,Coffee Mug,1,0.05,282.12,79.32,UPI
+3,ORD-2025-0003,03-11-2025 00:00,Nov-25,08-11-2025 00:00,Same Day,CUST-0014,Ishita Roy,Consumer,Ahmedabad,West,Furniture,Desk Lamp,5,0.1,5816.56,1772.43,UPI
+4,ORD-2025-0004,04-02-2025 00:00,Feb-25,05-02-2025 00:00,Standard,CUST-0134,Neha Gupta,Corporate,Bhubaneswar,East,Electronics,USB-C Hub,1,0.1,1316.56,188.56,UPI
+5,ORD-2025-0005,17-12-2025 00:00,Dec-25,21-12-2025 00:00,Standard,CUST-0082,Sanjay Menon,Small Business,Mysuru,South,Home & Kitchen,Storage Box,2,0.2,1372.99,141.24,UPI
+6,ORD-2025-0006,11-12-2025 00:00,Dec-25,12-12-2025 00:00,Standard,CUST-0139,Manish Yadav,Corporate,Jaipur,North,Electronics,USB-C Hub,1,0,1539.81,550.86,Debit Card
+7,ORD-2025-0007,15-05-2025 00:00,May-25,16-05-2025 00:00,Standard,CUST-0151,Arjun Patel,Corporate,Lucknow,North,Home & Kitchen,Electric Kettle,2,0,3642.36,1173.49,Debit Card
+8,ORD-2025-0008,14-09-2025 00:00,Sep-25,19-09-2025 00:00,Standard,CUST-0137,Sanjay Menon,Consumer,Chennai,South,Home & Kitchen,Water Bottle,1,0.15,426.75,40.43,UPI
+9,ORD-2025-0009,19-08-2025 00:00,Aug-25,24-08-2025 00:00,Same Day,CUST-0071,Manish Yadav,Consumer,Hyderabad,South,Electronics,Wireless Mouse,2,0.15,1363.71,308.05,Net Banking
+10,ORD-2025-0010,13-02-2025 00:00,Feb-25,17-02-2025 00:00,Express,CUST-0092,Vikram Rao,Small Business,Mumbai,West,Home & Kitchen,Water Bottle,4,0.2,1659.48,206.65,UPI
+11,ORD-2025-0011,17-07-2025 00:00,Jul-25,20-07-2025 00:00,Standard,CUST-0172,Sanjay Menon,Consumer,Hyderabad,South,Furniture,Office Chair,2,0.05,10361.81,3054.5,UPI
+12,ORD-2025-0012,25-09-2025 00:00,Sep-25,27-09-2025 00:00,Same Day,CUST-0187,Nikhil Jain,Small Business,Bengaluru,South,Furniture,Desk Lamp,1,0.05,1260.25,416.4,Credit Card
+13,ORD-2025-0013,21-06-2025 00:00,Jun-25,23-06-2025 00:00,Express,CUST-0203,Nikhil Jain,Corporate,Bengaluru,South,Electronics,Wireless Mouse,1,0,837.8,303.74,UPI
+14,ORD-2025-0014,15-12-2025 00:00,Dec-25,18-12-2025 00:00,Standard,CUST-0195,Manish Yadav,Consumer,Bengaluru,South,Furniture,Bookshelf,1,0.1,4176.72,702.12,UPI
+15,ORD-2025-0015,31-05-2025 00:00,May-25,02-06-2025 00:00,Express,CUST-0249,Shreya Kapoor,Consumer,Delhi,North,Home & Kitchen,Coffee Mug,1,0.05,277.17,52.32,UPI
+16,ORD-2025-0016,09-01-2025 00:00,Jan-25,10-01-2025 00:00,Express,CUST-0152,Aarav Sharma,Corporate,Mumbai,West,Electronics,USB-C Hub,4,0.1,5315.03,726.94,UPI
+17,ORD-2025-0017,02-06-2025 00:00,Jun-25,07-06-2025 00:00,Standard,CUST-0163,Divya Rao,Small Business,Chennai,South,Electronics,USB-C Hub,2,0.2,2346.58,304.72,UPI
+18,ORD-2025-0018,14-07-2025 00:00,Jul-25,15-07-2025 00:00,Standard,CUST-0214,NULL,Corporate,Hyderabad,South,Electronics,Power Bank,2,0.15,1999.18,252.22,Net Banking
+19,ORD-2025-0019,11-10-2025 00:00,Oct-25,12-10-2025 00:00,Standard,CUST-0035,Nikhil Jain,Consumer,Kolkata,East,Office Supplies,Desk Organizer,3,0.1,1177.97,145.91,Net Banking
+20,ORD-2025-0020,07-10-2025 00:00,Oct-25,12-10-2025 00:00,Same Day,CUST-0225,Shreya Kapoor,Consumer,Pune,West,Office Supplies,Calculator,2,0,1290.66,233.33,UPI
+21,ORD-2025-0021,27-02-2025 00:00,Feb-25,02-03-2025 00:00,Express,CUST-0086,Priya Nair,Consumer,Mysuru,South,Home & Kitchen,Lunch Box,2,0.2,1126.24,232.31,UPI
+22,ORD-2025-0022,19-06-2025 00:00,Jun-25,21-06-2025 00:00,Same Day,CUST-0250,Vikram Rao,Consumer,Jaipur,North,Office Supplies,Notebook,3,0.05,528.91,100.47,Debit Card
+23,ORD-2025-0023,18-11-2025 00:00,Nov-25,21-11-2025 00:00,Standard,CUST-0058,Nikhil Jain,Consumer,Chennai,South,Furniture,Desk Lamp,1,0.05,1229.8,283.44,Cash
+24,ORD-2025-0024,18-04-2025 00:00,Apr-25,23-04-2025 00:00,Standard,CUST-0094,Sanjay Menon,Corporate,Mumbai,West,Office Supplies,File Folder,2,0.15,152.35,10.44,UPI
+25,ORD-2025-0025,30-04-2025 00:00,Apr-25,03-05-2025 00:00,Standard,CUST-0117,Rohan Mehta,Corporate,Bhubaneswar,East,Electronics,Keyboard,3,0,3873.22,1395.93,UPI
+26,ORD-2025-0026,29-09-2025 00:00,Sep-25,04-10-2025 00:00,Express,CUST-0247,Rahul Verma,Consumer,Pune,West,Home & Kitchen,Coffee Mug,3,0.15,780.59,125,UPI
+27,ORD-2025-0027,26-08-2025 00:00,Aug-25,30-08-2025 00:00,Express,CUST-0085,Vikram Rao,Consumer,Bhubaneswar,East,Home & Kitchen,Water Bottle,1,0,482.8,171.71,Credit Card
+28,ORD-2025-0028,29-06-2025 00:00,Jun-25,01-07-2025 00:00,Express,CUST-0069,Kiran Joshi,Consumer,Lucknow,North,Furniture,Study Table,4,0.2,22678.69,2504.01,UPI
+29,ORD-2025-0029,01-06-2025 00:00,Jun-25,05-06-2025 00:00,Standard,CUST-0179,Aditya Kumar,Small Business,Bhubaneswar,East,Furniture,Office Chair,2,0.2,8700.01,466.27,UPI
+30,ORD-2025-0030,05-04-2025 00:00,Apr-25,07-04-2025 00:00,Standard,CUST-0090,Kavya Iyer,Consumer,Kolkata,East,Home & Kitchen,Coffee Mug,1,0,285.21,62.86,Debit Card
+31,ORD-2025-0031,24-04-2025 00:00,Apr-25,29-04-2025 00:00,Standard,CUST-0249,Sneha Reddy,Consumer,Jaipur,North,Office Supplies,Desk Organizer,2,0.15,798.4,233.35,Debit Card
+32,ORD-2025-0032,06-04-2025 00:00,Apr-25,11-04-2025 00:00,Express,CUST-0099,Rohan Mehta,Consumer,Chennai,South,Home & Kitchen,Water Bottle,2,0.05,923.32,168.86,Credit Card
+33,ORD-2025-0033,10-04-2025 00:00,Apr-25,14-04-2025 00:00,Standard,CUST-0028,Meera Shah,Corporate,Pune,West,Office Supplies,Notebook,1,0,188.25,46.15,Credit Card
+34,ORD-2025-0034,22-02-2025 00:00,Feb-25,23-02-2025 00:00,Same Day,CUST-0142,Arjun Patel,Corporate,Mumbai,West,Office Supplies,Calculator,1,0.05,593.63,69.61,Credit Card
+35,ORD-2025-0035,10-09-2025 00:00,Sep-25,15-09-2025 00:00,Express,CUST-0194,Arjun Patel,Consumer,Jaipur,North,Furniture,Desk Lamp,3,0.1,3410,684.71,UPI
+36,ORD-2025-0036,23-11-2025 00:00,Nov-25,24-11-2025 00:00,Express,CUST-0019,Pooja Das,Corporate,Bengaluru,South,Furniture,Folding Chair,4,0,7262.12,2296.57,Credit Card
+37,ORD-2025-0037,13-11-2025 00:00,Nov-25,14-11-2025 00:00,Standard,CUST-0249,Nikhil Jain,Consumer,Mysuru,South,Home & Kitchen,Lunch Box,2,0,1432.14,374.96,Credit Card
+38,ORD-2025-0038,30-10-2025 00:00,Oct-25,04-11-2025 00:00,Same Day,CUST-0164,Rahul Verma,Corporate,Bhubaneswar,East,Office Supplies,Pen Set,5,0.1,515.34,32.38,UPI
+39,ORD-2025-0039,24-05-2025 00:00,May-25,25-05-2025 00:00,Standard,CUST-0102,Pooja Das,Consumer,Bengaluru,South,Electronics,Wireless Mouse,2,0.1,1497.92,200.76,UPI
+40,ORD-2025-0040,28-01-2025 00:00,Jan-25,01-02-2025 00:00,Standard,CUST-0191,Nikhil Jain,Consumer,Lucknow,North,Electronics,USB-C Hub,2,0,2956.13,941.5,Credit Card
+41,ORD-2025-0041,13-09-2025 00:00,Sep-25,18-09-2025 00:00,Same Day,CUST-0242,Kiran Joshi,Consumer,Chennai,South,Furniture,Folding Chair,3,0.2,4366.57,568.98,Credit Card
+42,ORD-2025-0042,05-08-2025 00:00,Aug-25,08-08-2025 00:00,Standard,CUST-0099,Aarav Sharma,Consumer,Bengaluru,South,Home & Kitchen,Coffee Mug,2,0.15,525.69,54.67,UPI
+43,ORD-2025-0043,22-02-2025 00:00,Feb-25,27-02-2025 00:00,Standard,CUST-0201,Meera Shah,Consumer,Mumbai,West,Furniture,Folding Chair,5,0.1,8303.62,2046.97,UPI
+44,ORD-2025-0044,05-04-2025 00:00,Apr-25,07-04-2025 00:00,Express,CUST-0050,Pooja Das,Small Business,Bengaluru,South,Electronics,Wireless Mouse,3,0,2396.56,682.12,Net Banking
+45,ORD-2025-0045,26-07-2025 00:00,Jul-25,31-07-2025 00:00,Standard,CUST-0166,Priya Nair,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,2,0.1,3459.32,569.74,Credit Card
+46,ORD-2025-0046,15-06-2025 00:00,Jun-25,16-06-2025 00:00,Express,CUST-0051,Nikhil Jain,Small Business,Chennai,South,Office Supplies,Desk Organizer,4,0.05,1758.5,499.74,UPI
+47,ORD-2025-0047,03-02-2025 00:00,Feb-25,08-02-2025 00:00,Standard,CUST-0203,Manish Yadav,Consumer,Bengaluru,South,Home & Kitchen,Coffee Mug,1,0.1,264.99,67.1,Credit Card
+48,ORD-2025-0048,03-07-2025 00:00,Jul-25,04-07-2025 00:00,Express,CUST-0178,Manish Yadav,Consumer,Pune,West,Furniture,Bookshelf,3,0,14344.45,4482.46,UPI
+49,ORD-2025-0049,21-08-2025 00:00,Aug-25,25-08-2025 00:00,Standard,CUST-0045,Rohan Mehta,Consumer,Pune,West,Electronics,Power Bank,1,0,1163.79,333.06,Credit Card
+50,ORD-2025-0050,23-04-2025 00:00,Apr-25,26-04-2025 00:00,Standard,CUST-0214,Meera Shah,Corporate,Bengaluru,South,Furniture,Bookshelf,1,0.2,3563.13,519.19,UPI
+51,ORD-2025-0051,07-01-2025 00:00,Jan-25,10-01-2025 00:00,Standard,CUST-0237,Ishita Roy,Consumer,Lucknow,North,Office Supplies,Calculator,1,0.05,641.9,172.38,Credit Card
+52,ORD-2025-0052,30-09-2025 00:00,Sep-25,02-10-2025 00:00,Standard,CUST-0025,Sneha Reddy,Consumer,Ahmedabad,West,Electronics,Wireless Mouse,2,0,1603.65,538.35,Debit Card
+53,ORD-2025-0053,24-08-2025 00:00,Aug-25,27-08-2025 00:00,Express,CUST-0064,Priya Nair,Consumer,Pune,West,Office Supplies,File Folder,2,0.15,151.15,27.4,Credit Card
+54,ORD-2025-0054,11-03-2025 00:00,Mar-25,15-03-2025 00:00,Express,CUST-0152,Rohan Mehta,Consumer,Bengaluru,South,Office Supplies,Notebook,1,0,186.31,71.55,Credit Card
+55,ORD-2025-0055,08-08-2025 00:00,Aug-25,11-08-2025 00:00,Standard,CUST-0248,Ananya Singh,Corporate,Delhi,North,Office Supplies,File Folder,1,0.05,88.63,18.12,Net Banking
+56,ORD-2025-0056,28-04-2025 00:00,Apr-25,02-05-2025 00:00,Standard,CUST-0047,Aarav Sharma,Corporate,Chennai,South,Furniture,Study Table,4,0,27787.25,7587.52,UPI
+57,ORD-2025-0057,27-06-2025 00:00,Jun-25,29-06-2025 00:00,Standard,CUST-0168,Priya Nair,Consumer,Hyderabad,South,Furniture,Bookshelf,1,0.1,4159.22,802.94,UPI
+58,ORD-2025-0058,04-04-2025 00:00,Apr-25,05-04-2025 00:00,Standard,CUST-0117,Aditya Kumar,Small Business,Kolkata,East,Electronics,Wireless Mouse,2,0.1,1488.64,259.47,UPI
+59,ORD-2025-0059,12-11-2025 00:00,Nov-25,15-11-2025 00:00,Express,CUST-0154,Sneha Reddy,Consumer,Delhi,North,Electronics,USB-C Hub,3,0.15,3694.12,173.35,Credit Card
+60,ORD-2025-0060,02-06-2025 00:00,Jun-25,03-06-2025 00:00,Standard,CUST-0104,Kavya Iyer,Corporate,Pune,West,Furniture,Bookshelf,2,0.1,8608.98,2200.01,UPI
+61,ORD-2025-0061,21-04-2025 00:00,Apr-25,26-04-2025 00:00,Standard,CUST-0157,Ananya Singh,Corporate,Delhi,North,Home & Kitchen,Lunch Box,3,0,2096.04,484.93,Debit Card
+62,ORD-2025-0062,03-05-2025 00:00,May-25,05-05-2025 00:00,Standard,CUST-0228,Kiran Joshi,Consumer,Hyderabad,South,Home & Kitchen,Water Bottle,2,0.15,834.9,52.22,UPI
+63,ORD-2025-0063,05-04-2025 00:00,Apr-25,08-04-2025 00:00,Standard,CUST-0069,Shreya Kapoor,Consumer,Hyderabad,South,Home & Kitchen,Electric Kettle,3,0.15,4676.42,744.46,Net Banking
+64,ORD-2025-0064,29-07-2025 00:00,Jul-25,30-07-2025 00:00,Standard,CUST-0236,Sneha Reddy,Small Business,Kolkata,East,Furniture,Study Table,1,0.1,6145.41,789.64,Debit Card
+65,ORD-2025-0065,20-02-2025 00:00,Feb-25,25-02-2025 00:00,Same Day,CUST-0001,Meera Shah,Consumer,Bengaluru,South,Electronics,Keyboard,2,0.1,2245.67,198.22,UPI
+66,ORD-2025-0066,29-05-2025 00:00,May-25,30-05-2025 00:00,Express,CUST-0154,Rohan Mehta,Consumer,Bengaluru,South,Electronics,Wireless Mouse,4,0.1,2946.66,833.73,Credit Card
+67,ORD-2025-0067,17-01-2025 00:00,Jan-25,20-01-2025 00:00,Standard,CUST-0025,Vikram Rao,Consumer,Ahmedabad,West,Home & Kitchen,Coffee Mug,1,0.15,242.28,2.32,UPI
+68,ORD-2025-0068,18-02-2025 00:00,Feb-25,19-02-2025 00:00,Standard,CUST-0220,Kavya Iyer,Consumer,Kolkata,East,Office Supplies,Calculator,2,0,1359.94,515.29,Credit Card
+69,ORD-2025-0069,07-06-2025 00:00,Jun-25,12-06-2025 00:00,Express,CUST-0019,Ishita Roy,Consumer,Kolkata,East,Electronics,Bluetooth Speaker,3,0.05,5479.79,1517.27,Debit Card
+70,ORD-2025-0070,15-11-2025 00:00,Nov-25,19-11-2025 00:00,Same Day,CUST-0032,Neha Gupta,Consumer,Bengaluru,South,Office Supplies,File Folder,2,0.1,156.85,14.23,Debit Card
+71,ORD-2025-0071,09-11-2025 00:00,Nov-25,12-11-2025 00:00,Standard,CUST-0054,Sanjay Menon,Corporate,Mysuru,South,Office Supplies,File Folder,4,0.1,315.29,43.71,Net Banking
+72,ORD-2025-0072,30-04-2025 00:00,Apr-25,03-05-2025 00:00,Standard,CUST-0142,Divya Rao,Consumer,Chennai,South,Furniture,Study Table,1,0.15,6224.39,563.03,Debit Card
+73,ORD-2025-0073,12-10-2025 00:00,Oct-25,16-10-2025 00:00,Express,CUST-0011,Neha Gupta,Small Business,Chennai,South,Furniture,Folding Chair,1,0.2,1468.55,25.53,UPI
+74,ORD-2025-0074,14-08-2025 00:00,Aug-25,19-08-2025 00:00,Express,CUST-0024,Nikhil Jain,Small Business,Mumbai,West,Electronics,USB-C Hub,1,0.15,1247.96,34.23,Credit Card
+75,ORD-2025-0075,09-02-2025 00:00,Feb-25,11-02-2025 00:00,Standard,CUST-0235,Meera Shah,Small Business,Mysuru,South,Home & Kitchen,Water Bottle,1,0.05,480.38,145.26,Credit Card
+76,ORD-2025-0076,11-02-2025 00:00,Feb-25,15-02-2025 00:00,Standard,CUST-0230,Pooja Das,Consumer,Kolkata,East,Electronics,Power Bank,3,0.1,3236.68,958.21,UPI
+77,ORD-2025-0077,25-08-2025 00:00,Aug-25,26-08-2025 00:00,Express,CUST-0213,Meera Shah,Consumer,Pune,West,Electronics,Wireless Mouse,3,0.05,2275.85,514.87,UPI
+78,ORD-2025-0078,29-05-2025 00:00,May-25,01-06-2025 00:00,Express,CUST-0039,Kavya Iyer,Corporate,Mumbai,West,Furniture,Bookshelf,2,0,9003.64,2646.58,Credit Card
+79,ORD-2025-0079,28-05-2025 00:00,May-25,31-05-2025 00:00,Standard,CUST-0109,Aditya Kumar,Consumer,Delhi,North,Furniture,Folding Chair,1,0,1816.1,682.22,Debit Card
+80,ORD-2025-0080,14-04-2025 00:00,Apr-25,16-04-2025 00:00,Standard,CUST-0108,Pooja Das,Small Business,Delhi,North,Electronics,Wireless Mouse,3,0.1,2148.6,626.06,UPI
+81,ORD-2025-0081,17-01-2025 00:00,Jan-25,19-01-2025 00:00,Standard,CUST-0080,Manish Yadav,Corporate,Bhubaneswar,East,Electronics,Power Bank,3,0.25,2749.16,144,Cash
+82,ORD-2025-0082,31-12-2025 00:00,Dec-25,02-01-2026 00:00,Same Day,CUST-0151,Vikram Rao,Consumer,Mysuru,South,Furniture,Office Chair,2,0,10491.46,2120.72,Debit Card
+83,ORD-2025-0083,13-04-2025 00:00,Apr-25,14-04-2025 00:00,Standard,CUST-0045,Priya Nair,Small Business,Kolkata,East,Electronics,Keyboard,4,0.1,4746.62,1146.11,Credit Card
+84,ORD-2025-0084,15-12-2025 00:00,Dec-25,16-12-2025 00:00,Standard,CUST-0108,Priya Nair,Consumer,Ahmedabad,West,Office Supplies,File Folder,1,0.1,82.93,17.77,Cash
+85,ORD-2025-0085,08-02-2025 00:00,Feb-25,12-02-2025 00:00,Standard,CUST-0236,Divya Rao,Small Business,Mysuru,South,Electronics,Power Bank,4,0.15,3894.25,835.8,Net Banking
+86,ORD-2025-0086,26-06-2025 00:00,Jun-25,29-06-2025 00:00,Express,CUST-0146,Arjun Patel,Consumer,Ahmedabad,West,Home & Kitchen,Water Bottle,2,0.15,845.53,167.49,UPI
+87,ORD-2025-0087,06-07-2025 00:00,Jul-25,08-07-2025 00:00,Standard,CUST-0039,Meera Shah,Corporate,Bengaluru,South,Home & Kitchen,Water Bottle,2,0,1027.74,357.29,NULL
+88,ORD-2025-0088,04-03-2025 00:00,Mar-25,09-03-2025 00:00,Standard,CUST-0057,Rohan Mehta,Consumer,Hyderabad,South,Home & Kitchen,Storage Box,1,0.2,742.98,163.96,Debit Card
+89,ORD-2025-0089,09-04-2025 00:00,Apr-25,13-04-2025 00:00,Standard,CUST-0178,Ishita Roy,Corporate,Pune,West,Office Supplies,Calculator,5,0.2,2728.68,600.65,UPI
+90,ORD-2025-0090,09-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0220,Rohan Mehta,Consumer,Delhi,North,Home & Kitchen,Electric Kettle,3,0,5176.53,883.26,Cash
+91,ORD-2025-0091,04-05-2025 00:00,May-25,07-05-2025 00:00,Standard,CUST-0060,Divya Rao,Corporate,Mumbai,West,Electronics,Wireless Mouse,3,0.05,2328.03,604.17,UPI
+92,ORD-2025-0092,20-12-2025 00:00,Dec-25,23-12-2025 00:00,Standard,CUST-0080,Kavya Iyer,Consumer,Chennai,South,Home & Kitchen,Electric Kettle,3,0.05,5314.03,1175.71,UPI
+93,ORD-2025-0093,22-12-2025 00:00,Dec-25,25-12-2025 00:00,Express,CUST-0058,Manish Yadav,Small Business,Kolkata,East,Electronics,Power Bank,1,0.2,983.44,202.03,UPI
+94,ORD-2025-0094,25-07-2025 00:00,Jul-25,30-07-2025 00:00,Standard,CUST-0046,Nikhil Jain,Corporate,Ahmedabad,West,Home & Kitchen,Electric Kettle,1,0.2,1440.27,322.59,UPI
+95,ORD-2025-0095,15-03-2025 00:00,Mar-25,16-03-2025 00:00,Express,CUST-0222,Arjun Patel,Consumer,Chennai,South,Office Supplies,Calculator,1,0.05,646.09,198.65,Net Banking
+96,ORD-2025-0096,12-07-2025 00:00,Jul-25,14-07-2025 00:00,Same Day,CUST-0175,Pooja Das,Corporate,Hyderabad,South,Furniture,Study Table,1,0.15,5696.13,163.54,UPI
+97,ORD-2025-0097,27-02-2025 00:00,Feb-25,01-03-2025 00:00,Same Day,CUST-0099,Kiran Joshi,Small Business,Kolkata,East,Home & Kitchen,Electric Kettle,3,0.05,4952.28,1100.4,Credit Card
+98,ORD-2025-0098,25-03-2025 00:00,Mar-25,28-03-2025 00:00,Standard,CUST-0092,Sanjay Menon,Consumer,Hyderabad,South,Home & Kitchen,Lunch Box,4,0.15,2322.71,57.47,Debit Card
+99,ORD-2025-0099,15-01-2025 00:00,Jan-25,17-01-2025 00:00,Express,CUST-0012,Ishita Roy,Small Business,Mumbai,West,Office Supplies,Notebook,5,0.1,786.76,223.16,Credit Card
+100,ORD-2025-0100,27-01-2025 00:00,Jan-25,29-01-2025 00:00,Standard,CUST-0181,Rahul Verma,Consumer,Bengaluru,South,Home & Kitchen,Water Bottle,1,0,512.03,140.15,Credit Card
+101,ORD-2025-0101,15-11-2025 00:00,Nov-25,20-11-2025 00:00,Standard,CUST-0205,Nikhil Jain,Consumer,Bhubaneswar,East,Electronics,Wireless Mouse,1,0.1,702.49,79.66,UPI
+102,ORD-2025-0102,24-09-2025 00:00,Sep-25,27-09-2025 00:00,Same Day,CUST-0160,Sanjay Menon,Consumer,Jaipur,North,Office Supplies,Desk Organizer,4,0.15,1469.55,266.41,Debit Card
+103,ORD-2025-0103,02-01-2025 00:00,Jan-25,03-01-2025 00:00,Standard,CUST-0116,Vikram Rao,Consumer,Delhi,North,Furniture,Study Table,1,0.05,6375.02,1544.83,Credit Card
+104,ORD-2025-0104,26-12-2025 00:00,Dec-25,29-12-2025 00:00,Standard,CUST-0073,Vikram Rao,Corporate,Mysuru,South,Furniture,Study Table,1,0.15,5725.59,131.68,UPI
+105,ORD-2025-0105,08-09-2025 00:00,Sep-25,11-09-2025 00:00,Express,CUST-0154,Rahul Verma,Consumer,Bhubaneswar,East,Home & Kitchen,Coffee Mug,3,0.05,885.79,231.41,UPI
+106,ORD-2025-0106,25-01-2025 00:00,Jan-25,30-01-2025 00:00,Standard,CUST-0173,Kavya Iyer,Small Business,Pune,West,Office Supplies,Pen Set,2,0.15,206.36,41.77,Credit Card
+107,ORD-2025-0107,06-02-2025 00:00,Feb-25,07-02-2025 00:00,Standard,CUST-0189,Sanjay Menon,Consumer,Mysuru,South,Electronics,USB-C Hub,1,0.15,1273.29,319.47,Credit Card
+108,ORD-2025-0108,30-12-2025 00:00,Dec-25,03-01-2026 00:00,Standard,CUST-0105,Sneha Reddy,Consumer,Delhi,North,Home & Kitchen,Coffee Mug,2,0.05,568.38,132.64,UPI
+109,ORD-2025-0109,05-07-2025 00:00,Jul-25,10-07-2025 00:00,Express,CUST-0143,Aarav Sharma,Consumer,Hyderabad,South,Furniture,Study Table,2,0.05,12913.34,2490.52,Debit Card
+110,ORD-2025-0110,20-10-2025 00:00,Oct-25,25-10-2025 00:00,Standard,CUST-0125,Sanjay Menon,Corporate,Bhubaneswar,East,Home & Kitchen,Coffee Mug,2,0.1,515.01,91.97,Credit Card
+111,ORD-2025-0111,12-06-2025 00:00,Jun-25,17-06-2025 00:00,Standard,CUST-0164,Kiran Joshi,Consumer,Kolkata,East,Furniture,Office Chair,1,0.05,4967.57,911.05,UPI
+112,ORD-2025-0112,13-05-2025 00:00,May-25,17-05-2025 00:00,Standard,CUST-0118,Shreya Kapoor,Consumer,Lucknow,North,Home & Kitchen,Coffee Mug,3,0,904.88,178.56,Debit Card
+113,ORD-2025-0113,08-11-2025 00:00,Nov-25,12-11-2025 00:00,Standard,CUST-0148,Ishita Roy,Small Business,Mumbai,West,Office Supplies,File Folder,3,0.15,237.86,40.32,UPI
+114,ORD-2025-0114,02-09-2025 00:00,Sep-25,05-09-2025 00:00,Standard,CUST-0234,Shreya Kapoor,Small Business,Bengaluru,South,Electronics,Keyboard,1,0.1,1147.61,210.45,Net Banking
+115,ORD-2025-0115,11-08-2025 00:00,Aug-25,14-08-2025 00:00,Standard,CUST-0128,Kiran Joshi,Consumer,Jaipur,North,Electronics,Keyboard,2,0.2,2076.08,118.82,Net Banking
+116,ORD-2025-0116,18-12-2025 00:00,Dec-25,23-12-2025 00:00,Express,CUST-0119,Aditya Kumar,Corporate,Mumbai,West,Furniture,Study Table,1,0.15,6224.8,1528.04,Credit Card
+117,ORD-2025-0117,16-10-2025 00:00,Oct-25,17-10-2025 00:00,Standard,CUST-0069,Rohan Mehta,Consumer,Bhubaneswar,East,Furniture,Office Chair,1,0.15,4541.25,407.23,Debit Card
+118,ORD-2025-0118,14-03-2025 00:00,Mar-25,19-03-2025 00:00,Express,CUST-0125,Ananya Singh,Consumer,Bengaluru,South,Home & Kitchen,Water Bottle,2,0.2,803.75,37.6,Debit Card
+119,ORD-2025-0119,09-05-2025 00:00,May-25,10-05-2025 00:00,Express,CUST-0143,Manish Yadav,Consumer,Jaipur,North,Home & Kitchen,Coffee Mug,1,0.2,235.09,12.02,Credit Card
+120,ORD-2025-0120,21-12-2025 00:00,Dec-25,23-12-2025 00:00,Standard,CUST-0072,Divya Rao,Small Business,Chennai,South,Electronics,Wireless Mouse,1,0,819.72,244.37,Net Banking
+121,ORD-2025-0121,27-10-2025 00:00,Oct-25,31-10-2025 00:00,Express,CUST-0242,Pooja Das,Small Business,Bhubaneswar,East,Home & Kitchen,Water Bottle,1,0.1,453.95,68.23,UPI
+122,ORD-2025-0122,20-02-2025 00:00,Feb-25,24-02-2025 00:00,Standard,CUST-0125,Sneha Reddy,Consumer,Bhubaneswar,East,Electronics,Power Bank,5,0.15,5317.13,1178.63,UPI
+123,ORD-2025-0123,07-06-2025 00:00,Jun-25,09-06-2025 00:00,Express,CUST-0094,Aditya Kumar,Consumer,Chennai,South,Office Supplies,File Folder,2,0,178.2,31.44,Cash
+124,ORD-2025-0124,25-03-2025 00:00,Mar-25,29-03-2025 00:00,Standard,CUST-0173,Neha Gupta,Consumer,Lucknow,North,Home & Kitchen,Water Bottle,1,0.2,382.71,-8.08,UPI
+125,ORD-2025-0125,28-09-2025 00:00,Sep-25,30-09-2025 00:00,Same Day,CUST-0152,Divya Rao,Corporate,Pune,West,Furniture,Folding Chair,2,0.15,2958.84,468.47,UPI
+126,ORD-2025-0126,26-05-2025 00:00,May-25,29-05-2025 00:00,Standard,CUST-0175,Nikhil Jain,Corporate,Hyderabad,South,Office Supplies,Desk Organizer,2,0.15,774.48,135.16,Cash
+127,ORD-2025-0127,09-06-2025 00:00,Jun-25,12-06-2025 00:00,Standard,CUST-0153,Priya Nair,Consumer,Pune,West,Electronics,Wireless Mouse,1,0.1,699.82,141.97,Credit Card
+128,ORD-2025-0128,07-10-2025 00:00,Oct-25,11-10-2025 00:00,Standard,CUST-0032,Vikram Rao,Corporate,Pune,West,Furniture,Study Table,2,0.15,12277.51,1909.98,UPI
+129,ORD-2025-0129,11-03-2025 00:00,Mar-25,12-03-2025 00:00,Express,CUST-0188,Arjun Patel,Consumer,Chennai,South,Furniture,Desk Lamp,2,0.05,2497.02,656.38,Debit Card
+130,ORD-2025-0130,16-09-2025 00:00,Sep-25,18-09-2025 00:00,Standard,CUST-0098,Shreya Kapoor,Consumer,Chennai,South,Electronics,Keyboard,2,0.05,2590.06,635.41,Credit Card
+131,ORD-2025-0131,07-06-2025 00:00,Jun-25,08-06-2025 00:00,Standard,CUST-0136,Shreya Kapoor,Consumer,Jaipur,North,Home & Kitchen,Electric Kettle,1,0.1,1671.2,555.38,UPI
+132,ORD-2025-0132,05-09-2025 00:00,Sep-25,09-09-2025 00:00,Standard,CUST-0150,Ishita Roy,Corporate,Delhi,North,Electronics,Bluetooth Speaker,1,0.15,1572.77,140.33,Cash
+133,ORD-2025-0133,19-10-2025 00:00,Oct-25,20-10-2025 00:00,Standard,CUST-0002,Rohan Mehta,Consumer,Pune,West,Furniture,Desk Lamp,1,0,1263.58,369.43,Cash
+134,ORD-2025-0134,23-05-2025 00:00,May-25,27-05-2025 00:00,Same Day,CUST-0042,Ananya Singh,Small Business,Hyderabad,South,Electronics,Keyboard,4,0,5378.6,1940.4,UPI
+135,ORD-2025-0135,12-06-2025 00:00,Jun-25,14-06-2025 00:00,Same Day,CUST-0210,Neha Gupta,Small Business,Ahmedabad,West,Home & Kitchen,Lunch Box,1,0,674.8,210.16,UPI
+136,ORD-2025-0136,25-01-2025 00:00,Jan-25,30-01-2025 00:00,Standard,CUST-0025,Sanjay Menon,Small Business,Bengaluru,South,Home & Kitchen,Storage Box,2,0.15,1508.06,368.79,Credit Card
+137,ORD-2025-0137,09-06-2025 00:00,Jun-25,14-06-2025 00:00,Standard,CUST-0031,Manish Yadav,Corporate,Hyderabad,South,Home & Kitchen,Storage Box,2,0,1711.28,379.84,UPI
+138,ORD-2025-0138,24-03-2025 00:00,Mar-25,25-03-2025 00:00,Standard,CUST-0115,Vikram Rao,Corporate,Mysuru,South,Electronics,Bluetooth Speaker,1,0.15,1556.4,332.92,UPI
+139,ORD-2025-0139,04-11-2025 00:00,Nov-25,08-11-2025 00:00,Standard,CUST-0116,Rahul Verma,Consumer,Mumbai,West,Office Supplies,Notebook,2,0.05,342.92,89.04,Credit Card
+140,ORD-2025-0140,03-03-2025 00:00,Mar-25,06-03-2025 00:00,Standard,CUST-0215,Vikram Rao,Corporate,Pune,West,Home & Kitchen,Electric Kettle,5,0,8921.76,1923.04,UPI
+141,ORD-2025-0141,09-06-2025 00:00,Jun-25,13-06-2025 00:00,Express,CUST-0149,Shreya Kapoor,Consumer,Mumbai,West,Home & Kitchen,Electric Kettle,1,0,1775.87,564.84,UPI
+142,ORD-2025-0142,15-08-2025 00:00,Aug-25,16-08-2025 00:00,Standard,CUST-0042,Kiran Joshi,Consumer,Hyderabad,South,Electronics,Keyboard,1,0.15,1116.75,88.05,UPI
+143,ORD-2025-0143,07-04-2025 00:00,Apr-25,09-04-2025 00:00,Express,CUST-0028,Aditya Kumar,Consumer,Bengaluru,South,Furniture,Office Chair,3,0,17206.9,6143.82,UPI
+144,ORD-2025-0144,10-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0249,Aditya Kumar,Corporate,Bengaluru,South,Office Supplies,Notebook,1,0.1,NULL,26.11,Cash
+145,ORD-2025-0145,16-08-2025 00:00,Aug-25,19-08-2025 00:00,Express,CUST-0051,Aditya Kumar,Consumer,Mumbai,West,Electronics,Wireless Mouse,2,0.05,1589.56,297.64,Credit Card
+146,ORD-2025-0146,03-12-2025 00:00,Dec-25,04-12-2025 00:00,Standard,CUST-0036,Sneha Reddy,Corporate,Pune,West,Home & Kitchen,Coffee Mug,1,0.1,281.91,56.62,Debit Card
+147,ORD-2025-0147,15-09-2025 00:00,Sep-25,20-09-2025 00:00,Express,CUST-0124,Priya Nair,Consumer,Lucknow,North,Office Supplies,Pen Set,3,0.05,344.82,67.76,UPI
+148,ORD-2025-0148,24-04-2025 00:00,Apr-25,28-04-2025 00:00,Standard,CUST-0174,Nikhil Jain,Corporate,Jaipur,North,Home & Kitchen,Water Bottle,2,0.1,874.91,231.9,UPI
+149,ORD-2025-0149,29-05-2025 00:00,May-25,02-06-2025 00:00,Express,CUST-0089,Kiran Joshi,Consumer,Bhubaneswar,East,Home & Kitchen,Water Bottle,4,0.05,1811.6,446.31,UPI
+150,ORD-2025-0150,29-03-2025 00:00,Mar-25,02-04-2025 00:00,Standard,CUST-0184,Rahul Verma,Consumer,Mysuru,South,Furniture,Bookshelf,1,0.1,4235.46,885.33,Credit Card
+151,ORD-2025-0151,28-12-2025 00:00,Dec-25,30-12-2025 00:00,Express,CUST-0193,Sneha Reddy,Consumer,Jaipur,North,Furniture,Desk Lamp,3,0,3705.79,1097.39,Credit Card
+152,ORD-2025-0152,19-08-2025 00:00,Aug-25,22-08-2025 00:00,Express,CUST-0244,Sneha Reddy,Consumer,Jaipur,North,Home & Kitchen,Lunch Box,2,0.15,1151.23,185.1,Debit Card
+153,ORD-2025-0153,16-03-2025 00:00,Mar-25,19-03-2025 00:00,Standard,CUST-0186,Sneha Reddy,Consumer,Jaipur,North,Electronics,Wireless Mouse,5,0.05,3925.04,1072.36,Debit Card
+154,ORD-2025-0154,25-12-2025 00:00,Dec-25,30-12-2025 00:00,Standard,CUST-0173,Shreya Kapoor,Consumer,Lucknow,North,Home & Kitchen,Lunch Box,2,0.1,1198.95,285.53,Cash
+155,ORD-2025-0155,11-09-2025 00:00,Sep-25,13-09-2025 00:00,Standard,CUST-0147,Nikhil Jain,Corporate,Delhi,North,Office Supplies,Desk Organizer,1,0,454.47,121.28,UPI
+156,ORD-2025-0156,11-07-2025 00:00,Jul-25,14-07-2025 00:00,Standard,CUST-0183,Aarav Sharma,Consumer,Lucknow,North,Furniture,Desk Lamp,3,0.15,3292.64,761.58,UPI
+157,ORD-2025-0157,10-06-2025 00:00,Jun-25,11-06-2025 00:00,Standard,CUST-0143,Ananya Singh,Small Business,Kolkata,East,Furniture,Bookshelf,3,0.05,13287.44,3364.18,Debit Card
+158,ORD-2025-0158,19-02-2025 00:00,Feb-25,22-02-2025 00:00,Express,CUST-0237,Ananya Singh,Consumer,Mumbai,West,Furniture,Study Table,1,0.05,6334.02,1960.78,UPI
+159,ORD-2025-0159,15-12-2025 00:00,Dec-25,20-12-2025 00:00,Same Day,CUST-0100,Ananya Singh,Corporate,Chennai,South,Home & Kitchen,Coffee Mug,2,0.2,477.49,54.68,UPI
+160,ORD-2025-0160,24-10-2025 00:00,Oct-25,28-10-2025 00:00,Same Day,CUST-0217,Sneha Reddy,Consumer,Bengaluru,South,Home & Kitchen,Lunch Box,3,0,2019.69,552.28,UPI
+161,ORD-2025-0161,30-04-2025 00:00,Apr-25,02-05-2025 00:00,Standard,CUST-0205,Ananya Singh,Consumer,Ahmedabad,West,Electronics,USB-C Hub,1,0.2,1171.85,14.8,Credit Card
+162,ORD-2025-0162,15-07-2025 00:00,Jul-25,17-07-2025 00:00,Express,CUST-0210,Aditya Kumar,Small Business,Mysuru,South,Electronics,USB-C Hub,4,0,5942.69,1808.64,Credit Card
+163,ORD-2025-0163,09-11-2025 00:00,Nov-25,14-11-2025 00:00,Express,CUST-0218,Arjun Patel,Corporate,Lucknow,North,Home & Kitchen,Coffee Mug,2,0.05,595.44,194,Credit Card
+164,ORD-2025-0164,27-04-2025 00:00,Apr-25,01-05-2025 00:00,Express,CUST-0033,Nikhil Jain,Small Business,Jaipur,North,Home & Kitchen,Storage Box,1,0,891.63,318.28,UPI
+165,ORD-2025-0165,08-04-2025 00:00,Apr-25,10-04-2025 00:00,Same Day,CUST-0112,Priya Nair,Consumer,Jaipur,North,Office Supplies,Desk Organizer,3,0.1,1213.14,331.38,Cash
+166,ORD-2025-0166,28-02-2025 00:00,Feb-25,02-03-2025 00:00,Standard,CUST-0032,Vikram Rao,Small Business,Delhi,North,Office Supplies,File Folder,3,0,282.91,72.63,Credit Card
+167,ORD-2025-0167,20-03-2025 00:00,Mar-25,24-03-2025 00:00,Standard,CUST-0058,Nikhil Jain,Consumer,Pune,West,Home & Kitchen,Storage Box,1,0,932.32,332,UPI
+168,ORD-2025-0168,16-06-2025 00:00,Jun-25,20-06-2025 00:00,Standard,CUST-0197,Manish Yadav,Consumer,Bengaluru,South,Office Supplies,File Folder,2,0.15,152.26,26.35,UPI
+169,ORD-2025-0169,13-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0042,Shreya Kapoor,Corporate,Bhubaneswar,East,Electronics,USB-C Hub,3,0.05,4227.71,616.54,UPI
+170,ORD-2025-0170,08-08-2025 00:00,Aug-25,09-08-2025 00:00,Express,CUST-0176,Aditya Kumar,Consumer,Chennai,South,Furniture,Folding Chair,4,0,6860.22,1875.27,Debit Card
+171,ORD-2025-0171,16-01-2025 00:00,Jan-25,17-01-2025 00:00,Express,CUST-0013,Priya Nair,Consumer,Jaipur,North,Home & Kitchen,Lunch Box,3,0.1,1871.78,158.9,Net Banking
+172,ORD-2025-0172,08-10-2025 00:00,Oct-25,12-10-2025 00:00,Express,CUST-0189,Rohan Mehta,Small Business,Mumbai,West,Office Supplies,Desk Organizer,2,0.1,841.61,269.32,Credit Card
+173,ORD-2025-0173,30-12-2025 00:00,Dec-25,31-12-2025 00:00,Express,CUST-0220,Divya Rao,Corporate,Jaipur,North,Furniture,Desk Lamp,2,0.2,2048.84,181.29,Cash
+174,ORD-2025-0174,04-12-2025 00:00,Dec-25,06-12-2025 00:00,Standard,CUST-0017,Arjun Patel,Small Business,Chennai,South,Electronics,Power Bank,1,0.05,1152.01,304.2,Cash
+175,ORD-2025-0175,05-09-2025 00:00,Sep-25,09-09-2025 00:00,Express,CUST-0001,Kavya Iyer,Consumer,Hyderabad,South,Electronics,Wireless Mouse,3,0,2440.55,874.29,UPI
+176,ORD-2025-0176,21-01-2025 00:00,Jan-25,24-01-2025 00:00,Express,CUST-0228,Pooja Das,Consumer,Jaipur,North,Office Supplies,Pen Set,1,0.05,117,32.8,Cash
+177,ORD-2025-0177,01-04-2025 00:00,Apr-25,03-04-2025 00:00,Express,CUST-0072,Rahul Verma,Consumer,Chennai,South,Electronics,Keyboard,4,0.15,4393.22,693.3,Cash
+178,ORD-2025-0178,12-04-2025 00:00,Apr-25,13-04-2025 00:00,Express,CUST-0201,Shreya Kapoor,Small Business,Jaipur,North,Office Supplies,Notebook,2,0,352.52,63.74,Debit Card
+179,ORD-2025-0179,30-04-2025 00:00,Apr-25,05-05-2025 00:00,Standard,CUST-0064,Aarav Sharma,Consumer,Ahmedabad,West,Furniture,Desk Lamp,2,0.1,2347.72,686.8,UPI
+180,ORD-2025-0180,15-07-2025 00:00,Jul-25,18-07-2025 00:00,Express,CUST-0110,Rohan Mehta,Small Business,Jaipur,North,Furniture,Bookshelf,1,0.15,4066.65,431.36,Debit Card
+181,ORD-2025-0181,19-02-2025 00:00,Feb-25,24-02-2025 00:00,Express,CUST-0195,Pooja Das,Consumer,Bhubaneswar,East,Office Supplies,Notebook,2,0.25,270.58,42.8,UPI
+182,ORD-2025-0182,06-03-2025 00:00,Mar-25,11-03-2025 00:00,Same Day,CUST-0174,Sanjay Menon,Consumer,Chennai,South,Home & Kitchen,Storage Box,3,0.2,2199.55,483.07,UPI
+183,ORD-2025-0183,28-06-2025 00:00,Jun-25,02-07-2025 00:00,Standard,CUST-0076,Kiran Joshi,Small Business,Chennai,South,Electronics,Power Bank,2,0.15,2074.26,524.34,UPI
+184,ORD-2025-0184,19-09-2025 00:00,Sep-25,20-09-2025 00:00,Express,CUST-0027,Kavya Iyer,Consumer,Ahmedabad,West,Electronics,Bluetooth Speaker,5,0.05,8571.87,2609.45,Credit Card
+185,ORD-2025-0185,25-08-2025 00:00,Aug-25,29-08-2025 00:00,Standard,CUST-0046,Nikhil Jain,Consumer,Bengaluru,South,Office Supplies,Calculator,2,0.1,1135.72,195.41,UPI
+186,ORD-2025-0186,14-11-2025 00:00,Nov-25,16-11-2025 00:00,Standard,CUST-0037,Nikhil Jain,Corporate,Ahmedabad,West,Electronics,Keyboard,3,0.1,3434.87,292.52,UPI
+187,ORD-2025-0187,27-05-2025 00:00,May-25,30-05-2025 00:00,Standard,CUST-0108,Manish Yadav,Consumer,Ahmedabad,West,Office Supplies,Notebook,2,0.15,294.72,51.74,Net Banking
+188,ORD-2025-0188,07-09-2025 00:00,Sep-25,12-09-2025 00:00,Standard,CUST-0237,Sanjay Menon,Consumer,Bengaluru,South,Furniture,Desk Lamp,3,0.25,2777.07,-135.08,Debit Card
+189,ORD-2025-0189,23-03-2025 00:00,Mar-25,28-03-2025 00:00,Express,CUST-0225,Pooja Das,Consumer,Hyderabad,South,Furniture,Study Table,2,0.1,12120.76,2269.11,UPI
+190,ORD-2025-0190,23-09-2025 00:00,Sep-25,25-09-2025 00:00,Standard,CUST-0003,Shreya Kapoor,Corporate,Jaipur,North,Home & Kitchen,Electric Kettle,2,0.2,2774.45,460.41,Debit Card
+191,ORD-2025-0191,25-09-2025 00:00,Sep-25,28-09-2025 00:00,Standard,CUST-0101,Nikhil Jain,Consumer,Delhi,North,Office Supplies,Desk Organizer,3,0.15,1141.63,281.84,Credit Card
+192,ORD-2025-0192,09-04-2025 00:00,Apr-25,14-04-2025 00:00,Express,CUST-0188,Pooja Das,Corporate,Mumbai,West,Home & Kitchen,Storage Box,3,0.1,2372.78,535.41,Cash
+193,ORD-2025-0193,09-11-2025 00:00,Nov-25,13-11-2025 00:00,Standard,CUST-0156,Arjun Patel,Corporate,Ahmedabad,West,Home & Kitchen,Water Bottle,1,0.1,444.29,82.43,UPI
+194,ORD-2025-0194,06-05-2025 00:00,May-25,09-05-2025 00:00,Express,CUST-0162,Divya Rao,Consumer,Chennai,South,Home & Kitchen,Storage Box,1,0.1,793.83,114.7,Net Banking
+195,ORD-2025-0195,10-12-2025 00:00,Dec-25,13-12-2025 00:00,Standard,CUST-0174,Aditya Kumar,Consumer,Bengaluru,South,Office Supplies,File Folder,1,0.1,81.26,23.02,UPI
+196,ORD-2025-0196,05-05-2025 00:00,May-25,10-05-2025 00:00,Express,CUST-0196,Ishita Roy,Small Business,Mumbai,West,Electronics,Bluetooth Speaker,1,0.2,1588.46,291.84,Net Banking
+197,ORD-2025-0197,09-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0086,Manish Yadav,Consumer,Bengaluru,South,Electronics,USB-C Hub,2,0.05,2749.6,558.83,Cash
+198,ORD-2025-0198,21-01-2025 00:00,Jan-25,25-01-2025 00:00,Standard,CUST-0191,Rahul Verma,Consumer,Bengaluru,South,Furniture,Study Table,2,0.15,12291.76,2087.7,Cash
+199,ORD-2025-0199,02-08-2025 00:00,Aug-25,03-08-2025 00:00,Express,CUST-0008,Arjun Patel,Consumer,Bengaluru,South,Electronics,Power Bank,3,0.05,3517.11,955.01,Credit Card
+200,ORD-2025-0200,16-02-2025 00:00,Feb-25,20-02-2025 00:00,Standard,CUST-0005,Nikhil Jain,Corporate,Mumbai,West,Electronics,Bluetooth Speaker,2,0.05,3441.4,520.08,Credit Card
+201,ORD-2025-0201,24-08-2025 00:00,Aug-25,28-08-2025 00:00,Standard,CUST-0102,Aditya Kumar,Consumer,Chennai,South,Electronics,Wireless Mouse,2,0.25,1242.07,63.15,Debit Card
+202,ORD-2025-0202,07-08-2025 00:00,Aug-25,09-08-2025 00:00,Standard,CUST-0135,Kiran Joshi,Consumer,Jaipur,North,Office Supplies,Desk Organizer,2,0.15,760.67,94.29,Net Banking
+203,ORD-2025-0203,24-11-2025 00:00,Nov-25,27-11-2025 00:00,Standard,CUST-0175,Meera Shah,Consumer,Bengaluru,South,Electronics,Power Bank,2,0.05,2235.25,625.69,Debit Card
+204,ORD-2025-0204,25-10-2025 00:00,Oct-25,30-10-2025 00:00,Standard,CUST-0184,Sanjay Menon,Small Business,Pune,West,Home & Kitchen,Electric Kettle,3,0.15,4522.64,308.19,UPI
+205,ORD-2025-0205,06-02-2025 00:00,Feb-25,11-02-2025 00:00,Express,CUST-0127,Aarav Sharma,Small Business,Bengaluru,South,Home & Kitchen,Lunch Box,1,0.1,645.04,104.16,Debit Card
+206,ORD-2025-0206,24-12-2025 00:00,Dec-25,27-12-2025 00:00,Express,CUST-0173,Priya Nair,Consumer,Mysuru,South,Electronics,Wireless Mouse,1,0.1,708.23,195.11,UPI
+207,ORD-2025-0207,24-05-2025 00:00,May-25,28-05-2025 00:00,Express,CUST-0159,Priya Nair,Consumer,Delhi,North,Home & Kitchen,Coffee Mug,1,0.2,230.71,2.87,Cash
+208,ORD-2025-0208,17-11-2025 00:00,Nov-25,18-11-2025 00:00,Express,CUST-0053,Manish Yadav,Corporate,Pune,West,Home & Kitchen,Lunch Box,1,0.1,637.94,67.7,UPI
+209,ORD-2025-0209,28-05-2025 00:00,May-25,30-05-2025 00:00,Express,CUST-0152,Sanjay Menon,Corporate,Lucknow,North,Home & Kitchen,Coffee Mug,3,0.1,786.47,102.25,Credit Card
+210,ORD-2025-0210,04-12-2025 00:00,Dec-25,06-12-2025 00:00,Standard,CUST-0185,Nikhil Jain,Consumer,Bhubaneswar,East,Electronics,Keyboard,2,0.05,2522.82,770.96,UPI
+211,ORD-2025-0211,21-11-2025 00:00,Nov-25,25-11-2025 00:00,Standard,CUST-0065,Aditya Kumar,Consumer,Ahmedabad,West,Electronics,Wireless Mouse,2,0.1,1472.85,381.01,Cash
+212,ORD-2025-0212,26-06-2025 00:00,Jun-25,30-06-2025 00:00,Standard,CUST-0157,Aarav Sharma,Small Business,Mysuru,South,Office Supplies,File Folder,4,0.1,329.67,98.12,Cash
+213,ORD-2025-0213,24-01-2025 00:00,Jan-25,28-01-2025 00:00,Same Day,CUST-0201,Shreya Kapoor,Corporate,Mumbai,West,Furniture,Folding Chair,4,0,6929.46,1494.89,Debit Card
+214,ORD-2025-0214,10-02-2025 00:00,Feb-25,13-02-2025 00:00,Standard,CUST-0236,Rohan Mehta,Consumer,Pune,West,Electronics,Power Bank,5,0.1,5372.68,1405.33,Debit Card
+215,ORD-2025-0215,25-11-2025 00:00,Nov-25,28-11-2025 00:00,Express,CUST-0087,Kiran Joshi,Consumer,Hyderabad,South,Office Supplies,Calculator,4,0,2659.93,711.12,UPI
+216,ORD-2025-0216,29-05-2025 00:00,May-25,02-06-2025 00:00,Express,CUST-0235,Rahul Verma,Corporate,Mysuru,South,Home & Kitchen,Storage Box,3,0.25,2065.88,286.28,Cash
+217,ORD-2025-0217,13-01-2025 00:00,Jan-25,18-01-2025 00:00,Express,CUST-0142,Neha Gupta,Consumer,Bhubaneswar,East,Home & Kitchen,Electric Kettle,1,0.15,1592.01,175.02,Debit Card
+218,ORD-2025-0218,16-08-2025 00:00,Aug-25,18-08-2025 00:00,Standard,CUST-0156,Divya Rao,Corporate,Pune,West,Office Supplies,File Folder,1,0.15,76.65,8.65,Credit Card
+219,ORD-2025-0219,10-08-2025 00:00,Aug-25,11-08-2025 00:00,Standard,CUST-0245,Aarav Sharma,Corporate,Pune,West,Home & Kitchen,Lunch Box,1,0.15,571.58,101.07,UPI
+220,ORD-2025-0220,16-08-2025 00:00,Aug-25,19-08-2025 00:00,Express,CUST-0217,Kavya Iyer,Consumer,Kolkata,East,Furniture,Desk Lamp,3,0.1,3340.21,223.73,UPI
+221,ORD-2025-0221,24-07-2025 00:00,Jul-25,28-07-2025 00:00,Same Day,CUST-0137,Arjun Patel,Consumer,Jaipur,North,Home & Kitchen,Electric Kettle,4,0.1,6459.44,1914.67,Debit Card
+222,ORD-2025-0222,18-07-2025 00:00,Jul-25,20-07-2025 00:00,Standard,CUST-0083,Aditya Kumar,Small Business,Pune,West,Furniture,Desk Lamp,NULL,0,2700.9,649.94,Credit Card
+223,ORD-2025-0223,21-02-2025 00:00,Feb-25,25-02-2025 00:00,Express,CUST-0026,Nikhil Jain,Small Business,Kolkata,East,Home & Kitchen,Storage Box,1,0.05,857.36,289.08,Credit Card
+224,ORD-2025-0224,12-08-2025 00:00,Aug-25,17-08-2025 00:00,Express,CUST-0062,Ishita Roy,Consumer,Mysuru,South,Electronics,Wireless Mouse,1,0.15,709.65,60.49,UPI
+225,ORD-2025-0225,23-08-2025 00:00,Aug-25,27-08-2025 00:00,Express,CUST-0011,Pooja Das,Small Business,Pune,West,Office Supplies,Desk Organizer,2,0,930.93,196.32,UPI
+226,ORD-2025-0226,23-12-2025 00:00,Dec-25,24-12-2025 00:00,Standard,CUST-0210,Ananya Singh,Consumer,Lucknow,North,Home & Kitchen,Lunch Box,2,0,1456.63,540.63,Debit Card
+227,ORD-2025-0227,04-09-2025 00:00,Sep-25,09-09-2025 00:00,Standard,CUST-0094,Aarav Sharma,Consumer,Bengaluru,South,Home & Kitchen,Coffee Mug,5,1.25,1393.16,235.11,Debit Card
+228,ORD-2025-0228,15-03-2025 00:00,Mar-25,19-03-2025 00:00,Standard,CUST-0171,Neha Gupta,Consumer,Pune,West,Home & Kitchen,Coffee Mug,4,0.1,1061.01,97.94,Cash
+229,ORD-2025-0229,30-12-2025 00:00,Dec-25,04-01-2026 00:00,Standard,CUST-0247,Priya Nair,Small Business,Pune,West,Furniture,Bookshelf,2,0,8738.51,1377.57,UPI
+230,ORD-2025-0230,12-06-2025 00:00,Jun-25,15-06-2025 00:00,Standard,CUST-0018,Kiran Joshi,Consumer,Chennai,South,Home & Kitchen,Water Bottle,2,0.15,886.55,152.6,Credit Card
+231,ORD-2025-0231,31-12-2025 00:00,Dec-25,04-01-2026 00:00,Standard,CUST-0105,Arjun Patel,Consumer,Bengaluru,South,Office Supplies,File Folder,1,0,86.42,21.51,UPI
+232,ORD-2025-0232,19-05-2025 00:00,May-25,22-05-2025 00:00,Express,CUST-0109,Vikram Rao,Small Business,Jaipur,North,Home & Kitchen,Electric Kettle,5,0.1,8036.81,1872.83,Net Banking
+233,ORD-2025-0233,30-08-2025 00:00,Aug-25,03-09-2025 00:00,Standard,CUST-0112,Vikram Rao,Consumer,Hyderabad,South,Home & Kitchen,Electric Kettle,3,0.2,4190,568.28,Debit Card
+234,ORD-2025-0234,07-10-2025 00:00,Oct-25,10-10-2025 00:00,Express,CUST-0024,Neha Gupta,Small Business,Chennai,South,Office Supplies,Pen Set,2,0.1,223.25,58.5,Credit Card
+235,ORD-2025-0235,17-12-2025 00:00,Dec-25,22-12-2025 00:00,Standard,CUST-0054,Ananya Singh,Consumer,Delhi,North,Office Supplies,Calculator,1,0.2,533.81,130.81,Net Banking
+236,ORD-2025-0236,30-10-2025 00:00,Oct-25,03-11-2025 00:00,Express,CUST-0239,Rohan Mehta,Small Business,Hyderabad,South,Electronics,Power Bank,1,0,1254.97,457.8,Credit Card
+237,ORD-2025-0237,04-07-2025 00:00,Jul-25,07-07-2025 00:00,Standard,CUST-0022,Kavya Iyer,Corporate,Jaipur,North,Office Supplies,Calculator,1,0.05,648.35,192.6,UPI
+238,ORD-2025-0238,19-05-2025 00:00,May-25,21-05-2025 00:00,Same Day,CUST-0111,Arjun Patel,Consumer,Kolkata,East,Office Supplies,Pen Set,1,0.1,107.8,24.72,Credit Card
+239,ORD-2025-0239,14-04-2025 00:00,Apr-25,17-04-2025 00:00,Standard,CUST-0126,Nikhil Jain,Consumer,Bengaluru,South,Office Supplies,File Folder,4,0.2,296.74,64.75,UPI
+240,ORD-2025-0240,18-02-2025 00:00,Feb-25,22-02-2025 00:00,Standard,CUST-0081,Rahul Verma,Consumer,Hyderabad,South,Electronics,USB-C Hub,1,0,1524.64,464.75,Credit Card
+241,ORD-2025-0241,19-03-2025 00:00,Mar-25,21-03-2025 00:00,Standard,CUST-0216,Manish Yadav,Corporate,Mysuru,South,Office Supplies,File Folder,1,0.15,77.39,6.41,Credit Card
+242,ORD-2025-0242,13-01-2025 00:00,Jan-25,16-01-2025 00:00,Express,CUST-0089,Shreya Kapoor,Corporate,Bengaluru,South,Office Supplies,Calculator,1,0.1,611.47,179,Debit Card
+243,ORD-2025-0243,24-04-2025 00:00,Apr-25,27-04-2025 00:00,Standard,CUST-0225,Nikhil Jain,Consumer,Jaipur,North,Office Supplies,Desk Organizer,3,0.05,1298.92,395.09,UPI
+244,ORD-2025-0244,30-11-2025 00:00,Nov-25,05-12-2025 00:00,Standard,CUST-0112,Rohan Mehta,Corporate,Bengaluru,South,Electronics,USB-C Hub,4,0.1,5163.47,506.07,UPI
+245,ORD-2025-0245,20-03-2025 00:00,Mar-25,23-03-2025 00:00,Same Day,CUST-0024,Ishita Roy,Small Business,Bengaluru,South,Electronics,USB-C Hub,2,0.15,2621,401.82,Net Banking
+246,ORD-2025-0246,21-11-2025 00:00,Nov-25,25-11-2025 00:00,Express,CUST-0169,Nikhil Jain,Consumer,Lucknow,North,Electronics,Power Bank,1,0.25,890.58,-29.74,UPI
+247,ORD-2025-0247,04-05-2025 00:00,May-25,06-05-2025 00:00,Standard,CUST-0219,Sanjay Menon,Small Business,Mysuru,South,Electronics,Keyboard,2,0.05,2514.94,829.39,UPI
+248,ORD-2025-0248,05-11-2025 00:00,Nov-25,07-11-2025 00:00,Standard,CUST-0073,Aarav Sharma,Corporate,Chennai,South,Electronics,USB-C Hub,2,0.1,2753.19,670.62,Credit Card
+249,ORD-2025-0249,24-03-2025 00:00,Mar-25,26-03-2025 00:00,Standard,CUST-0179,Divya Rao,Consumer,Bhubaneswar,East,Office Supplies,Desk Organizer,1,0,447.71,113.61,Debit Card
+250,ORD-2025-0250,07-01-2025 00:00,Jan-25,08-01-2025 00:00,Standard,CUST-0073,Kiran Joshi,Corporate,Bhubaneswar,East,Furniture,Office Chair,2,0.05,10491.97,1606.35,Debit Card
+251,ORD-2025-0251,01-09-2025 00:00,Sep-25,04-09-2025 00:00,Express,CUST-0132,Rohan Mehta,Consumer,Lucknow,North,Electronics,Wireless Mouse,1,0.1,689.21,64.84,Net Banking
+252,ORD-2025-0252,17-06-2025 00:00,Jun-25,18-06-2025 00:00,Same Day,CUST-0063,Aarav Sharma,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,3,0.15,4996.62,1407.49,UPI
+253,ORD-2025-0253,27-11-2025 00:00,Nov-25,29-11-2025 00:00,Express,CUST-0127,Manish Yadav,Consumer,Mysuru,South,Electronics,Bluetooth Speaker,3,0.1,5061.77,1150.17,UPI
+254,ORD-2025-0254,01-04-2025 00:00,Apr-25,04-04-2025 00:00,Standard,CUST-0107,Vikram Rao,Consumer,Lucknow,North,Home & Kitchen,Lunch Box,2,0.05,1364.06,377.77,UPI
+255,ORD-2025-0255,27-02-2025 00:00,Feb-25,02-03-2025 00:00,Standard,CUST-0114,Aditya Kumar,Small Business,Mysuru,South,Home & Kitchen,Water Bottle,3,0.1,1365.89,188.16,UPI
+256,ORD-2025-0256,13-09-2025 00:00,Sep-25,18-09-2025 00:00,Standard,CUST-0129,Rahul Verma,Consumer,Lucknow,North,Home & Kitchen,Lunch Box,1,0.05,662.03,224.69,Debit Card
+257,ORD-2025-0257,30-08-2025 00:00,Aug-25,02-09-2025 00:00,Standard,CUST-0069,Aarav Sharma,Consumer,Mumbai,West,Electronics,Power Bank,3,0.2,2967.99,244.96,UPI
+258,ORD-2025-0258,10-12-2025 00:00,Dec-25,11-12-2025 00:00,Express,CUST-0133,Sneha Reddy,Corporate,Mumbai,West,Office Supplies,Notebook,3,0,557.72,199.59,UPI
+259,ORD-2025-0259,19-04-2025 00:00,Apr-25,22-04-2025 00:00,Express,CUST-0087,Nikhil Jain,Consumer,Bengaluru,South,Electronics,Wireless Mouse,1,0.05,747.58,168.85,Credit Card
+260,ORD-2025-0260,22-04-2025 00:00,Apr-25,27-04-2025 00:00,Express,CUST-0134,Pooja Das,Consumer,Mumbai,West,Office Supplies,Notebook,2,0.15,295.76,72.42,UPI
+261,ORD-2025-0261,02-05-2025 00:00,May-25,04-05-2025 00:00,Standard,CUST-0234,Aditya Kumar,Consumer,Kolkata,East,Electronics,Wireless Mouse,3,0.2,1943.42,178.2,UPI
+262,ORD-2025-0262,13-03-2025 00:00,Mar-25,16-03-2025 00:00,Standard,CUST-0019,Rahul Verma,Corporate,Pune,West,Office Supplies,Desk Organizer,1,0.25,339.42,23,Debit Card
+263,ORD-2025-0263,03-04-2025 00:00,Apr-25,08-04-2025 00:00,Same Day,CUST-0039,Nikhil Jain,Consumer,Mysuru,South,Electronics,Keyboard,2,0.2,2119.27,250.94,UPI
+264,ORD-2025-0264,03-03-2025 00:00,Mar-25,04-03-2025 00:00,Standard,CUST-0029,Aditya Kumar,Corporate,Bengaluru,South,Home & Kitchen,Coffee Mug,5,0.15,1316.16,187.96,UPI
+265,ORD-2025-0265,27-03-2025 00:00,Mar-25,28-03-2025 00:00,Express,CUST-0206,Manish Yadav,Small Business,Jaipur,North,Electronics,USB-C Hub,2,0.2,2394.83,336.03,Credit Card
+266,ORD-2025-0266,26-05-2025 00:00,May-25,29-05-2025 00:00,Standard,CUST-0006,Pooja Das,Consumer,Mumbai,West,Office Supplies,Desk Organizer,2,0.1,792.25,196.82,Debit Card
+267,ORD-2025-0267,29-11-2025 00:00,Nov-25,04-12-2025 00:00,Same Day,CUST-0234,Rahul Verma,Consumer,Jaipur,North,Home & Kitchen,Storage Box,5,0.1,4243.41,1248.35,UPI
+268,ORD-2025-0268,27-11-2025 00:00,Nov-25,29-11-2025 00:00,Standard,CUST-0130,Nikhil Jain,Consumer,Ahmedabad,West,Office Supplies,Desk Organizer,2,0.1,797.85,72.58,Debit Card
+269,ORD-2025-0269,23-12-2025 00:00,Dec-25,28-12-2025 00:00,Express,CUST-0099,Arjun Patel,Consumer,Hyderabad,South,Electronics,Wireless Mouse,3,0.1,2124.98,314.06,Debit Card
+270,ORD-2025-0270,03-08-2025 00:00,Aug-25,06-08-2025 00:00,Express,CUST-0245,Neha Gupta,Consumer,Jaipur,North,Office Supplies,File Folder,1,0.05,84.93,15.19,Credit Card
+271,ORD-2025-0271,04-04-2025 00:00,Apr-25,08-04-2025 00:00,Standard,CUST-0218,Priya Nair,Consumer,Jaipur,North,Furniture,Bookshelf,1,0,4702.18,1164.86,Credit Card
+272,ORD-2025-0272,10-08-2025 00:00,Aug-25,15-08-2025 00:00,Standard,CUST-0122,Meera Shah,Consumer,Pune,West,Office Supplies,Notebook,2,0.1,318.31,75.71,Credit Card
+273,ORD-2025-0273,06-12-2025 00:00,Dec-25,08-12-2025 00:00,Standard,CUST-0001,Arjun Patel,Consumer,Hyderabad,South,Electronics,Power Bank,2,0.25,1834.28,170.86,UPI
+274,ORD-2025-0274,25-06-2025 00:00,Jun-25,26-06-2025 00:00,Standard,CUST-0157,Vikram Rao,Small Business,Mumbai,West,Home & Kitchen,Lunch Box,2,0.2,1162.9,47.82,Cash
+275,ORD-2025-0275,25-06-2025 00:00,Jun-25,28-06-2025 00:00,Express,CUST-0224,Neha Gupta,Consumer,Bengaluru,South,Home & Kitchen,Lunch Box,2,0,1467.75,509.66,Credit Card
+276,ORD-2025-0276,31-10-2025 00:00,Oct-25,05-11-2025 00:00,Express,CUST-0114,Nikhil Jain,Corporate,Bengaluru,South,Furniture,Folding Chair,5,0.2,7003.16,1400.39,UPI
+277,ORD-2025-0277,07-12-2025 00:00,Dec-25,12-12-2025 00:00,Same Day,CUST-0127,Manish Yadav,Consumer,Lucknow,North,Home & Kitchen,Lunch Box,2,0.1,1269.14,239.95,Debit Card
+278,ORD-2025-0278,02-07-2025 00:00,Jul-25,06-07-2025 00:00,Same Day,CUST-0012,Ishita Roy,Corporate,Chennai,South,Office Supplies,File Folder,4,0.05,342.95,104.51,Cash
+279,ORD-2025-0279,04-06-2025 00:00,Jun-25,06-06-2025 00:00,Express,CUST-0087,Rohan Mehta,Corporate,Kolkata,East,Furniture,Office Chair,4,0.2,16910.64,-796.35,Net Banking
+280,ORD-2025-0280,23-05-2025 00:00,May-25,27-05-2025 00:00,Standard,CUST-0174,Meera Shah,Consumer,Bengaluru,South,Electronics,Bluetooth Speaker,2,0.1,3261.76,466.64,Debit Card
+281,ORD-2025-0281,20-01-2025 00:00,Jan-25,23-01-2025 00:00,Express,CUST-0066,Arjun Patel,Small Business,Kolkata,East,Electronics,Bluetooth Speaker,2,0.1,3465.72,386.65,Debit Card
+282,ORD-2025-0282,28-05-2025 00:00,May-25,02-06-2025 00:00,Express,CUST-0116,Divya Rao,Corporate,Delhi,North,Electronics,Bluetooth Speaker,1,0.1,1696,486.5,Credit Card
+283,ORD-2025-0283,29-03-2025 00:00,Mar-25,30-03-2025 00:00,Express,CUST-0239,Kavya Iyer,Small Business,Delhi,North,Office Supplies,Desk Organizer,1,0.15,401.52,119.82,Debit Card
+284,ORD-2025-0284,30-09-2025 00:00,Sep-25,02-10-2025 00:00,Standard,CUST-0178,Vikram Rao,Consumer,Ahmedabad,West,Electronics,USB-C Hub,2,0.05,2972.84,1063.05,UPI
+285,ORD-2025-0285,20-10-2025 00:00,Oct-25,21-10-2025 00:00,Standard,CUST-0104,Aditya Kumar,Consumer,Hyderabad,South,Office Supplies,Pen Set,2,0.1,226.1,56.19,UPI
+286,ORD-2025-0286,05-05-2025 00:00,May-25,10-05-2025 00:00,Express,CUST-0223,Ishita Roy,Consumer,Lucknow,North,Electronics,USB-C Hub,1,0.05,1361.76,369.27,Cash
+287,ORD-2025-0287,09-07-2025 00:00,Jul-25,14-07-2025 00:00,Standard,CUST-0152,Rahul Verma,Consumer,Ahmedabad,West,Electronics,Keyboard,3,0.1,3499.76,475.25,UPI
+288,ORD-2025-0288,16-04-2025 00:00,Apr-25,21-04-2025 00:00,Express,CUST-0176,Ishita Roy,Corporate,Ahmedabad,West,Home & Kitchen,Water Bottle,5,0.05,2350.96,575.3,Debit Card
+289,ORD-2025-0289,06-08-2025 00:00,Aug-25,09-08-2025 00:00,Express,CUST-0076,Pooja Das,Corporate,Bengaluru,South,Home & Kitchen,Electric Kettle,3,0.2,4327.43,473.04,Debit Card
+290,ORD-2025-0290,12-08-2025 00:00,Aug-25,17-08-2025 00:00,Standard,CUST-0077,Meera Shah,Corporate,Ahmedabad,West,Electronics,Keyboard,3,0.1,3644.04,590.46,UPI
+291,ORD-2025-0291,08-08-2025 00:00,Aug-25,13-08-2025 00:00,Standard,CUST-0226,Divya Rao,Consumer,Kolkata,East,Furniture,Office Chair,1,0.1,4839.55,1189.63,Net Banking
+292,ORD-2025-0292,13-09-2025 00:00,Sep-25,16-09-2025 00:00,Standard,CUST-0069,Shreya Kapoor,Corporate,Pune,West,Home & Kitchen,Water Bottle,2,0.15,834.51,70.15,UPI
+293,ORD-2025-0293,13-01-2025 00:00,Jan-25,18-01-2025 00:00,Express,CUST-0205,Nikhil Jain,Consumer,Hyderabad,South,Electronics,Keyboard,1,0.05,1279.79,268.49,Credit Card
+294,ORD-2025-0294,19-04-2025 00:00,Apr-25,22-04-2025 00:00,Standard,CUST-0241,Divya Rao,Corporate,Delhi,North,Office Supplies,Notebook,2,0.2,280.46,-8.15,Debit Card
+295,ORD-2025-0295,26-09-2025 00:00,Sep-25,29-09-2025 00:00,Standard,CUST-0168,Manish Yadav,Corporate,Mysuru,South,Office Supplies,Calculator,2,0.2,991.17,132.01,Net Banking
+296,ORD-2025-0296,09-11-2025 00:00,Nov-25,13-11-2025 00:00,Express,CUST-0075,Priya Nair,Consumer,Ahmedabad,West,Office Supplies,Calculator,2,0.05,1287.91,222.85,UPI
+297,ORD-2025-0297,09-07-2025 00:00,Jul-25,13-07-2025 00:00,Standard,CUST-0139,Vikram Rao,Consumer,Jaipur,North,Office Supplies,Calculator,2,0.05,1220.15,205.77,Debit Card
+298,ORD-2025-0298,08-12-2025 00:00,Dec-25,10-12-2025 00:00,Standard,CUST-0200,Rohan Mehta,Consumer,Mumbai,West,Electronics,Power Bank,2,0.2,1883.49,37.31,Credit Card
+299,ORD-2025-0299,25-12-2025 00:00,Dec-25,29-12-2025 00:00,Standard,CUST-0028,Priya Nair,Corporate,Chennai,South,Electronics,Power Bank,1,0,1210.67,310.61,Credit Card
+300,ORD-2025-0300,04-11-2025 00:00,Nov-25,06-11-2025 00:00,Express,CUST-0238,Manish Yadav,Consumer,Bengaluru,South,Office Supplies,Pen Set,1,0.25,91.94,0.59,UPI
+301,ORD-2025-0301,23-10-2025 00:00,Oct-25,24-10-2025 00:00,Standard,CUST-0132,Ananya Singh,Consumer,Bhubaneswar,East,Electronics,Bluetooth Speaker,1,0.05,1882.61,634.69,UPI
+302,ORD-2025-0302,17-10-2025 00:00,Oct-25,20-10-2025 00:00,Express,CUST-0026,Shreya Kapoor,Corporate,Delhi,North,Electronics,USB-C Hub,1,0.1,1314.92,244.35,Credit Card
+303,ORD-2025-0303,28-09-2025 00:00,Sep-25,01-10-2025 00:00,Standard,CUST-0162,Ishita Roy,Small Business,Chennai,South,Home & Kitchen,Electric Kettle,3,0,5241.81,1179.46,Net Banking
+304,ORD-2025-0304,29-05-2025 00:00,May-25,30-05-2025 00:00,Standard,CUST-0225,Shreya Kapoor,Consumer,Pune,West,Office Supplies,Notebook,1,0,186.54,45.33,Credit Card
+305,ORD-2025-0305,11-03-2025 00:00,Mar-25,12-03-2025 00:00,Standard,CUST-0091,Ishita Roy,Consumer,Jaipur,North,Electronics,USB-C Hub,1,0,1430.83,436.12,Cash
+306,ORD-2025-0306,19-07-2025 00:00,Jul-25,22-07-2025 00:00,Standard,CUST-0055,Arjun Patel,Consumer,Delhi,North,Office Supplies,Desk Organizer,2,0.35,880.73,303.93,Net Banking
+307,ORD-2025-0307,07-07-2025 00:00,Jul-25,10-07-2025 00:00,Standard,CUST-0090,Kiran Joshi,Corporate,Kolkata,East,Electronics,Wireless Mouse,2,0.15,1379.86,218.98,UPI
+308,ORD-2025-0308,05-07-2025 00:00,Jul-25,10-07-2025 00:00,Standard,CUST-0089,Pooja Das,Consumer,Lucknow,North,Home & Kitchen,Storage Box,3,0,2626.9,876.92,UPI
+309,ORD-2025-0309,01-12-2025 00:00,Dec-25,02-12-2025 00:00,Express,CUST-0190,Sanjay Menon,Consumer,Bengaluru,South,Home & Kitchen,Water Bottle,1,0.15,406.18,7.39,Credit Card
+310,ORD-2025-0310,13-03-2025 00:00,Mar-25,18-03-2025 00:00,Express,CUST-0159,Rahul Verma,Consumer,Pune,West,Electronics,Wireless Mouse,2,0,1610.22,375.96,Debit Card
+311,ORD-2025-0311,20-01-2025 00:00,Jan-25,23-01-2025 00:00,Standard,CUST-0014,Meera Shah,Consumer,Mysuru,South,Electronics,Wireless Mouse,1,0.1,730.35,79.78,Credit Card
+312,ORD-2025-0312,10-04-2025 00:00,Apr-25,13-04-2025 00:00,Express,CUST-0061,Nikhil Jain,Small Business,Kolkata,East,Electronics,Bluetooth Speaker,1,0.15,1598.53,104.53,Net Banking
+313,ORD-2025-0313,27-08-2025 00:00,Aug-25,31-08-2025 00:00,Same Day,CUST-0132,Kiran Joshi,Consumer,Pune,West,Office Supplies,File Folder,3,0.15,230.79,61.82,Credit Card
+314,ORD-2025-0314,08-06-2025 00:00,Jun-25,09-06-2025 00:00,Standard,CUST-0108,Manish Yadav,Consumer,Pune,West,Furniture,Bookshelf,1,0.25,3384.77,-236.02,UPI
+315,ORD-2025-0315,09-08-2025 00:00,Aug-25,13-08-2025 00:00,Express,CUST-0094,Ananya Singh,Small Business,Pune,West,Electronics,Keyboard,2,0.15,2195.91,120.84,UPI
+316,ORD-2025-0316,28-09-2025 00:00,Sep-25,30-09-2025 00:00,Standard,CUST-0112,Rahul Verma,Small Business,Ahmedabad,West,Electronics,Power Bank,2,0.1,2161.24,526.54,Debit Card
+317,ORD-2025-0317,02-08-2025 00:00,Aug-25,05-08-2025 00:00,Express,CUST-0011,Kiran Joshi,Small Business,Bengaluru,South,Furniture,Desk Lamp,3,0.05,3867.55,1139.48,UPI
+318,ORD-2025-0318,06-10-2025 00:00,Oct-25,08-10-2025 00:00,Standard,CUST-0215,Priya Nair,Consumer,Mysuru,South,Furniture,Office Chair,1,0.2,4453.2,798.92,Credit Card
+319,ORD-2025-0319,07-05-2025 00:00,May-25,08-05-2025 00:00,Standard,CUST-0010,Rahul Verma,Consumer,Jaipur,North,Home & Kitchen,Coffee Mug,3,0.05,814.01,229.23,Cash
+320,ORD-2025-0320,23-02-2025 00:00,Feb-25,26-02-2025 00:00,Standard,CUST-0245,Divya Rao,Consumer,Mysuru,South,Home & Kitchen,Water Bottle,4,0.1,1713.66,247.02,Debit Card
+321,ORD-2025-0321,03-09-2025 00:00,Sep-25,05-09-2025 00:00,Standard,CUST-0072,Vikram Rao,Consumer,Bhubaneswar,East,Office Supplies,Pen Set,2,0.1,206.54,32.04,Credit Card
+322,ORD-2025-0322,04-03-2025 00:00,Mar-25,09-03-2025 00:00,Standard,CUST-0090,Divya Rao,Consumer,Bhubaneswar,East,Electronics,USB-C Hub,2,0,2943.3,929.01,UPI
+323,ORD-2025-0323,29-06-2025 00:00,Jun-25,03-07-2025 00:00,Standard,CUST-0175,Meera Shah,Corporate,Ahmedabad,West,Furniture,Folding Chair,1,0.15,1568.77,191.62,UPI
+324,ORD-2025-0324,08-10-2025 00:00,Oct-25,12-10-2025 00:00,Standard,CUST-0182,Sneha Reddy,Corporate,Kolkata,East,Electronics,Power Bank,4,0.1,4276.57,1182.61,UPI
+325,ORD-2025-0325,25-11-2025 00:00,Nov-25,28-11-2025 00:00,Express,CUST-0185,Shreya Kapoor,Corporate,Pune,West,Home & Kitchen,Lunch Box,1,0.2,554.24,87.23,Cash
+326,ORD-2025-0326,20-11-2025 00:00,Nov-25,25-11-2025 00:00,Standard,CUST-0095,Vikram Rao,Consumer,Ahmedabad,West,Office Supplies,File Folder,3,0.05,269.06,100.04,UPI
+327,ORD-2025-0327,05-04-2025 00:00,Apr-25,10-04-2025 00:00,Standard,CUST-0194,Nikhil Jain,Consumer,Jaipur,North,Office Supplies,Desk Organizer,2,0.1,831.71,195.52,Debit Card
+328,ORD-2025-0328,04-01-2025 00:00,Jan-25,06-01-2025 00:00,Standard,CUST-0203,Aarav Sharma,Corporate,Delhi,North,Electronics,Bluetooth Speaker,3,0.1,5139.4,1318.33,Debit Card
+329,ORD-2025-0329,23-10-2025 00:00,Oct-25,25-10-2025 00:00,Standard,CUST-0234,Nikhil Jain,Small Business,Delhi,North,Home & Kitchen,Coffee Mug,2,0,608.4,136.35,Debit Card
+330,ORD-2025-0330,23-09-2025 00:00,Sep-25,27-09-2025 00:00,Express,CUST-0118,Neha Gupta,Consumer,Pune,West,Electronics,USB-C Hub,1,0,1565.41,538.95,Debit Card
+331,ORD-2025-0331,02-12-2025 00:00,Dec-25,04-12-2025 00:00,Standard,CUST-0073,Pooja Das,Consumer,Hyderabad,South,Electronics,Wireless Mouse,3,0,2321.12,550.15,Debit Card
+332,ORD-2025-0332,04-05-2025 00:00,May-25,08-05-2025 00:00,Express,CUST-0078,Priya Nair,Consumer,Ahmedabad,West,Home & Kitchen,Storage Box,2,0.1,1565.55,344.37,Net Banking
+333,ORD-2025-0333,30-11-2025 00:00,Nov-25,05-12-2025 00:00,Same Day,CUST-0076,Ananya Singh,Corporate,Ahmedabad,West,Furniture,Folding Chair,2,0,3634.31,1158.2,UPI
+334,ORD-2025-0334,13-06-2025 00:00,Jun-25,17-06-2025 00:00,Standard,CUST-0123,Divya Rao,Consumer,Hyderabad,South,Office Supplies,Calculator,2,0.05,1290.07,407.16,Debit Card
+335,ORD-2025-0335,18-07-2025 00:00,Jul-25,22-07-2025 00:00,Standard,CUST-0005,Kiran Joshi,Small Business,Bengaluru,South,Furniture,Desk Lamp,3,0.1,3656.1,880.91,Debit Card
+336,ORD-2025-0336,24-03-2025 00:00,Mar-25,29-03-2025 00:00,Standard,CUST-0070,Priya Nair,Corporate,Bengaluru,South,Electronics,Bluetooth Speaker,1,0.05,1886.61,494.36,UPI
+337,ORD-2025-0337,23-02-2025 00:00,Feb-25,26-02-2025 00:00,Same Day,CUST-0046,Rahul Verma,Small Business,Hyderabad,South,Electronics,Wireless Mouse,1,0,801.55,166.57,UPI
+338,ORD-2025-0338,29-01-2025 00:00,Jan-25,01-02-2025 00:00,Express,CUST-0108,Pooja Das,Corporate,Mysuru,South,Office Supplies,Notebook,3,0.15,452.79,38.23,UPI
+339,ORD-2025-0339,20-06-2025 00:00,Jun-25,25-06-2025 00:00,Standard,CUST-0111,Kiran Joshi,Small Business,Pune,West,Home & Kitchen,Lunch Box,5,0,3555.71,852.33,UPI
+340,ORD-2025-0340,26-10-2025 00:00,Oct-25,31-10-2025 00:00,Standard,CUST-0039,Manish Yadav,Corporate,Lucknow,North,Electronics,Keyboard,1,0.1,1173.94,346.21,Credit Card
+341,ORD-2025-0341,02-10-2025 00:00,Oct-25,06-10-2025 00:00,Express,CUST-0232,Kavya Iyer,Corporate,Lucknow,North,Electronics,Keyboard,3,0,3822.09,927.68,Debit Card
+342,ORD-2025-0342,03-06-2025 00:00,Jun-25,07-06-2025 00:00,Standard,CUST-0088,Divya Rao,Consumer,Ahmedabad,West,Office Supplies,Desk Organizer,2,0,887.28,165.24,Debit Card
+343,ORD-2025-0343,01-11-2025 00:00,Nov-25,03-11-2025 00:00,Standard,CUST-0023,Ishita Roy,Corporate,Hyderabad,South,Furniture,Office Chair,3,0.05,15534.67,2222.48,Net Banking
+344,ORD-2025-0344,04-02-2025 00:00,Feb-25,08-02-2025 00:00,Standard,CUST-0093,Kiran Joshi,Consumer,Chennai,South,Office Supplies,Calculator,1,0,682.35,220.62,Net Banking
+345,ORD-2025-0345,01-09-2025 00:00,Sep-25,03-09-2025 00:00,Same Day,CUST-0022,Nikhil Jain,Small Business,Kolkata,East,Office Supplies,Pen Set,3,0.1,309.79,28,UPI
+346,ORD-2025-0346,01-01-2025 00:00,Jan-25,05-01-2025 00:00,Express,CUST-0171,Sneha Reddy,Corporate,Mysuru,South,Office Supplies,Calculator,2,0.05,1221.63,373.34,Credit Card
+347,ORD-2025-0347,01-09-2025 00:00,Sep-25,04-09-2025 00:00,Standard,CUST-0156,Divya Rao,Corporate,Delhi,North,Home & Kitchen,Lunch Box,1,0.2,569.18,52.93,Cash
+348,ORD-2025-0348,08-02-2025 00:00,Feb-25,09-02-2025 00:00,Standard,CUST-0108,Pooja Das,Small Business,Bengaluru,South,Office Supplies,Calculator,2,0.05,1275.56,448.71,Debit Card
+349,ORD-2025-0349,31-03-2025 00:00,Mar-25,05-04-2025 00:00,Express,CUST-0019,Arjun Patel,Consumer,Bengaluru,South,Electronics,Power Bank,1,0.25,889.73,1.67,Net Banking
+350,ORD-2025-0350,16-12-2025 00:00,Dec-25,19-12-2025 00:00,Standard,CUST-0029,Aarav Sharma,Corporate,Bengaluru,South,Electronics,Keyboard,1,0.15,1086.69,54.28,UPI
+351,ORD-2025-0351,20-06-2025 00:00,Jun-25,22-06-2025 00:00,Standard,CUST-0187,Aditya Kumar,Small Business,Bhubaneswar,East,Furniture,Folding Chair,1,0.1,1600.19,406.97,Credit Card
+352,ORD-2025-0352,14-05-2025 00:00,May-25,16-05-2025 00:00,Standard,CUST-0144,Meera Shah,Consumer,Delhi,North,Office Supplies,Calculator,2,0.2,1069.58,107.95,Credit Card
+353,ORD-2025-0353,03-08-2025 00:00,Aug-25,08-08-2025 00:00,Standard,CUST-0039,Sanjay Menon,Corporate,Jaipur,North,Electronics,Wireless Mouse,1,0.2,656.06,77.04,UPI
+354,ORD-2025-0354,21-04-2025 00:00,Apr-25,26-04-2025 00:00,Standard,CUST-0122,Shreya Kapoor,Consumer,Bhubaneswar,East,Electronics,Keyboard,1,0.1,1221.99,187.06,UPI
+355,ORD-2025-0355,29-11-2025 00:00,Nov-25,04-12-2025 00:00,Standard,CUST-0169,Nikhil Jain,Corporate,Chennai,South,Electronics,Power Bank,4,0.1,4121.6,1054.07,UPI
+356,ORD-2025-0356,07-07-2025 00:00,Jul-25,09-07-2025 00:00,Standard,CUST-0023,Aditya Kumar,Corporate,Jaipur,North,Home & Kitchen,Water Bottle,4,0.25,1535.44,26.24,Debit Card
+357,ORD-2025-0357,15-11-2025 00:00,Nov-25,16-11-2025 00:00,Express,CUST-0137,Kavya Iyer,Corporate,Kolkata,East,Electronics,Power Bank,2,0,2291.39,645.81,Credit Card
+358,ORD-2025-0358,06-01-2025 00:00,Jan-25,11-01-2025 00:00,Standard,CUST-0111,Ishita Roy,Corporate,Mysuru,South,Electronics,Wireless Mouse,1,0.25,583.49,72.61,Credit Card
+359,ORD-2025-0359,27-05-2025 00:00,May-25,30-05-2025 00:00,Same Day,CUST-0045,Pooja Das,Consumer,Mysuru,South,Office Supplies,File Folder,2,0.1,159.16,22.82,Debit Card
+360,ORD-2025-0360,06-07-2025 00:00,Jul-25,07-07-2025 00:00,Express,CUST-0177,Arjun Patel,Corporate,Mysuru,South,Furniture,Bookshelf,3,0.05,13543.11,2769.96,UPI
+361,ORD-2025-0361,28-01-2025 00:00,Jan-25,31-01-2025 00:00,Standard,CUST-0247,Kavya Iyer,Consumer,Ahmedabad,West,Office Supplies,Calculator,2,0,1286.48,445.9,Credit Card
+362,ORD-2025-0362,07-06-2025 00:00,Jun-25,12-06-2025 00:00,Standard,CUST-0057,Vikram Rao,Corporate,Ahmedabad,West,Office Supplies,Desk Organizer,2,0.1,817.6,155.99,Credit Card
+363,ORD-2025-0363,06-12-2025 00:00,Dec-25,09-12-2025 00:00,Standard,CUST-0031,Kavya Iyer,Corporate,Delhi,North,Electronics,Bluetooth Speaker,1,0.1,1668.28,226.96,Credit Card
+364,ORD-2025-0364,25-01-2025 00:00,Jan-25,27-01-2025 00:00,Standard,CUST-0038,Ananya Singh,Consumer,Pune,West,Electronics,Power Bank,2,0.1,2051.69,326.93,Credit Card
+365,ORD-2025-0365,29-08-2025 00:00,Aug-25,02-09-2025 00:00,Express,CUST-0228,Kiran Joshi,Consumer,Chennai,South,Home & Kitchen,Electric Kettle,1,0,1782.34,479.37,UPI
+366,ORD-2025-0366,01-07-2025 00:00,Jul-25,04-07-2025 00:00,Standard,CUST-0080,Pooja Das,Corporate,Chennai,South,Furniture,Study Table,3,0.1,18435.72,4042.61,UPI
+367,ORD-2025-0367,27-12-2025 00:00,Dec-25,30-12-2025 00:00,Standard,CUST-0244,Ishita Roy,Consumer,Pune,West,Office Supplies,Calculator,2,0,1246.41,395.73,Credit Card
+368,ORD-2025-0368,28-07-2025 00:00,Jul-25,31-07-2025 00:00,Express,CUST-0079,Ishita Roy,Small Business,Delhi,North,Home & Kitchen,Storage Box,3,0.15,2305.61,252.11,Cash
+369,ORD-2025-0369,08-03-2025 00:00,Mar-25,09-03-2025 00:00,Same Day,CUST-0042,Kiran Joshi,Consumer,Lucknow,North,Electronics,Power Bank,1,0,1155.55,411.95,Credit Card
+370,ORD-2025-0370,03-09-2025 00:00,Sep-25,07-09-2025 00:00,Express,CUST-0151,Meera Shah,Consumer,Delhi,North,Office Supplies,File Folder,1,0.1,78.65,5.27,Net Banking
+371,ORD-2025-0371,10-05-2025 00:00,May-25,11-05-2025 00:00,Standard,CUST-0070,Rahul Verma,Consumer,Hyderabad,South,Electronics,Keyboard,2,0,2657.57,748.01,Credit Card
+372,ORD-2025-0372,14-11-2025 00:00,Nov-25,15-11-2025 00:00,Express,CUST-0183,Meera Shah,Consumer,Chennai,South,Furniture,Folding Chair,2,0,3551.31,779.93,Net Banking
+373,ORD-2025-0373,20-08-2025 00:00,Aug-25,23-08-2025 00:00,Express,CUST-0042,Nikhil Jain,Consumer,Bengaluru,South,Office Supplies,Desk Organizer,1,0.1,394.82,87.3,Cash
+374,ORD-2025-0374,03-08-2025 00:00,Aug-25,08-08-2025 00:00,Express,CUST-0075,Manish Yadav,Consumer,Hyderabad,South,Home & Kitchen,Coffee Mug,1,0.15,249.78,61.18,UPI
+375,ORD-2025-0375,03-07-2025 00:00,Jul-25,06-07-2025 00:00,Standard,CUST-0059,Vikram Rao,Consumer,Chennai,South,Electronics,Power Bank,5,0.05,5872.91,1022.06,Debit Card
+376,ORD-2025-0376,14-04-2025 00:00,Apr-25,17-04-2025 00:00,Standard,CUST-0087,Rohan Mehta,Small Business,Chennai,South,Furniture,Desk Lamp,4,0,5434.74,1986.97,Debit Card
+377,ORD-2025-0377,15-08-2025 00:00,Aug-25,20-08-2025 00:00,Same Day,CUST-0099,Shreya Kapoor,Consumer,Mumbai,West,Furniture,Desk Lamp,2,0.1,2450.72,355.44,Debit Card
+378,ORD-2025-0378,19-02-2025 00:00,Feb-25,21-02-2025 00:00,Express,CUST-0036,Kavya Iyer,Corporate,Bhubaneswar,East,Home & Kitchen,Water Bottle,3,0,1429.22,213.23,Debit Card
+379,ORD-2025-0379,13-09-2025 00:00,Sep-25,17-09-2025 00:00,Standard,CUST-0236,Meera Shah,Consumer,Delhi,North,Home & Kitchen,Coffee Mug,5,0.1,1351.45,132.79,Credit Card
+380,ORD-2025-0380,07-02-2025 00:00,Feb-25,10-02-2025 00:00,Express,CUST-0056,Shreya Kapoor,Consumer,Ahmedabad,West,Office Supplies,Calculator,2,0.1,1140.75,315.68,Debit Card
+381,ORD-2025-0381,02-12-2025 00:00,Dec-25,04-12-2025 00:00,Express,CUST-0094,Ananya Singh,Consumer,Lucknow,North,Electronics,Keyboard,3,0,3720.1,578.48,Cash
+382,ORD-2025-0382,04-07-2025 00:00,Jul-25,06-07-2025 00:00,Express,CUST-0022,Priya Nair,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,2,0.1,3247.37,197.57,UPI
+383,ORD-2025-0383,04-08-2025 00:00,Aug-25,08-08-2025 00:00,Standard,CUST-0032,Aarav Sharma,Corporate,Ahmedabad,West,Electronics,Keyboard,4,0.1,4682.2,1098.17,UPI
+384,ORD-2025-0384,23-04-2025 00:00,Apr-25,28-04-2025 00:00,Express,CUST-0171,Vikram Rao,Small Business,Ahmedabad,West,Electronics,Keyboard,3,0.05,3547.09,778.5,Cash
+385,ORD-2025-0385,12-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0193,Sneha Reddy,Small Business,Lucknow,North,Home & Kitchen,Lunch Box,2,0,1466.07,388.33,Cash
+386,ORD-2025-0386,28-11-2025 00:00,Nov-25,30-11-2025 00:00,Standard,CUST-0216,Ananya Singh,Small Business,Lucknow,North,Electronics,Power Bank,1,0,1167.2,227.46,Net Banking
+387,ORD-2025-0387,09-04-2025 00:00,Apr-25,14-04-2025 00:00,Standard,CUST-0169,Neha Gupta,Consumer,Pune,West,Electronics,Bluetooth Speaker,2,0.05,3743.73,701.3,Net Banking
+388,ORD-2025-0388,26-07-2025 00:00,Jul-25,29-07-2025 00:00,Standard,CUST-0035,Ishita Roy,Consumer,Bengaluru,South,Electronics,Keyboard,1,0.15,1119.05,281.49,Cash
+389,ORD-2025-0389,16-01-2025 00:00,Jan-25,20-01-2025 00:00,Standard,CUST-0220,Aarav Sharma,Small Business,Bengaluru,South,Office Supplies,Calculator,5,0,3230.52,901.67,Credit Card
+390,ORD-2025-0390,18-04-2025 00:00,Apr-25,20-04-2025 00:00,Standard,CUST-0071,Manish Yadav,Corporate,Ahmedabad,West,Electronics,Bluetooth Speaker,5,0.1,8440.44,1806.62,UPI
+391,ORD-2025-0391,09-05-2025 00:00,May-25,14-05-2025 00:00,Standard,CUST-0097,Kiran Joshi,Small Business,Pune,West,Office Supplies,File Folder,3,0.1,240.61,30.38,Net Banking
+392,ORD-2025-0392,13-11-2025 00:00,Nov-25,15-11-2025 00:00,Same Day,CUST-0119,Divya Rao,Corporate,Ahmedabad,West,Office Supplies,File Folder,2,0.2,147.79,32.28,UPI
+393,ORD-2025-0393,12-03-2025 00:00,Mar-25,15-03-2025 00:00,Same Day,CUST-0105,Aarav Sharma,Corporate,Mysuru,South,Furniture,Folding Chair,2,0.1,3343.75,611.74,Debit Card
+394,ORD-2025-0394,06-05-2025 00:00,May-25,10-05-2025 00:00,Standard,CUST-0170,Manish Yadav,Corporate,Ahmedabad,West,Home & Kitchen,Coffee Mug,3,0.15,734.41,142.98,Debit Card
+395,ORD-2025-0395,10-05-2025 00:00,May-25,14-05-2025 00:00,Standard,CUST-0188,Aarav Sharma,Small Business,Bhubaneswar,East,Furniture,Bookshelf,1,0.1,4146.26,914.9,Debit Card
+396,ORD-2025-0396,30-04-2025 00:00,Apr-25,01-05-2025 00:00,Standard,CUST-0121,Rohan Mehta,Consumer,Pune,West,Office Supplies,Calculator,1,0.1,561,39.59,UPI
+397,ORD-2025-0397,01-06-2025 00:00,Jun-25,03-06-2025 00:00,Standard,CUST-0101,Kiran Joshi,Consumer,Kolkata,East,Furniture,Study Table,1,0.1,6320.87,1707.89,UPI
+398,ORD-2025-0398,16-02-2025 00:00,Feb-25,19-02-2025 00:00,Standard,CUST-0220,Arjun Patel,Small Business,Mysuru,South,Home & Kitchen,Storage Box,2,0.1,1546.11,318.42,UPI
+399,ORD-2025-0399,30-06-2025 00:00,Jun-25,03-07-2025 00:00,Standard,CUST-0161,Pooja Das,Small Business,Lucknow,North,Office Supplies,Pen Set,1,0.1,106.4,10.17,UPI
+400,ORD-2025-0400,28-04-2025 00:00,Apr-25,02-05-2025 00:00,Standard,CUST-0049,Neha Gupta,Consumer,Chennai,South,Office Supplies,Pen Set,5,0.15,525.56,52.16,UPI
+401,ORD-2025-0401,21-08-2025 00:00,Aug-25,24-08-2025 00:00,Standard,CUST-0121,Kiran Joshi,Consumer,Pune,West,Furniture,Desk Lamp,2,0,2497.42,576.75,UPI
+402,ORD-2025-0402,18-02-2025 00:00,Feb-25,22-02-2025 00:00,Express,CUST-0126,Priya Nair,Corporate,Kolkata,East,Office Supplies,Pen Set,2,0.2,200.87,26.36,Credit Card
+403,ORD-2025-0403,06-10-2025 00:00,Oct-25,07-10-2025 00:00,Standard,CUST-0187,Meera Shah,Corporate,Lucknow,North,Office Supplies,Pen Set,5,0,620.35,182.27,Debit Card
+404,ORD-2025-0404,14-05-2025 00:00,May-25,19-05-2025 00:00,Standard,CUST-0123,Manish Yadav,Consumer,Chennai,South,Home & Kitchen,Storage Box,1,0.1,841.25,262.41,Credit Card
+405,ORD-2025-0405,15-05-2025 00:00,May-25,18-05-2025 00:00,Express,CUST-0069,Arjun Patel,Consumer,Kolkata,East,Furniture,Desk Lamp,4,0,5289.73,1783.34,UPI
+406,ORD-2025-0406,24-11-2025 00:00,Nov-25,26-11-2025 00:00,Same Day,CUST-0014,Neha Gupta,Small Business,Mumbai,West,Electronics,Keyboard,3,0.2,3169.64,414.15,Credit Card
+407,ORD-2025-0407,11-08-2025 00:00,Aug-25,14-08-2025 00:00,Standard,CUST-0098,Neha Gupta,Corporate,Lucknow,North,Electronics,Wireless Mouse,3,0,2392.75,879.14,Net Banking
+408,ORD-2025-0408,19-09-2025 00:00,Sep-25,24-09-2025 00:00,Express,CUST-0073,Priya Nair,Consumer,Mysuru,South,Furniture,Bookshelf,1,0.15,3974.31,549.55,UPI
+409,ORD-2025-0409,28-12-2025 00:00,Dec-25,01-01-2026 00:00,Express,CUST-0086,Pooja Das,Consumer,Mumbai,West,Office Supplies,Pen Set,3,0,360.24,75.41,Net Banking
+410,ORD-2025-0410,08-07-2025 00:00,Jul-25,12-07-2025 00:00,Standard,CUST-0134,Nikhil Jain,Corporate,Bengaluru,South,Home & Kitchen,Water Bottle,3,0.2,1175.56,-7.73,UPI
+411,ORD-2025-0411,08-02-2025 00:00,Feb-25,09-02-2025 00:00,Standard,CUST-0096,Pooja Das,Consumer,Delhi,North,Office Supplies,Calculator,1,0.05,613.12,200.38,UPI
+412,ORD-2025-0412,27-11-2025 00:00,Nov-25,29-11-2025 00:00,Standard,CUST-0031,Vikram Rao,Consumer,Lucknow,North,Office Supplies,File Folder,1,0.1,80.21,-250,Cash
+413,ORD-2025-0413,03-09-2025 00:00,Sep-25,05-09-2025 00:00,Standard,CUST-0172,Neha Gupta,Consumer,Mumbai,West,Electronics,Wireless Mouse,1,0.1,707.05,161.25,Net Banking
+414,ORD-2025-0414,30-03-2025 00:00,Mar-25,03-04-2025 00:00,Standard,CUST-0186,Divya Rao,Consumer,Hyderabad,South,Home & Kitchen,Coffee Mug,2,0.05,587.88,135.17,Net Banking
+415,ORD-2025-0415,01-07-2025 00:00,Jul-25,06-07-2025 00:00,Standard,CUST-0186,Pooja Das,Small Business,Jaipur,North,Electronics,Keyboard,2,0,2550.56,825.32,Debit Card
+416,ORD-2025-0416,09-10-2025 00:00,Oct-25,11-10-2025 00:00,Standard,CUST-0188,Rohan Mehta,Consumer,Pune,West,Office Supplies,Calculator,3,0,1964.75,706.57,Cash
+417,ORD-2025-0417,27-06-2025 00:00,Jun-25,29-06-2025 00:00,Standard,CUST-0099,Sanjay Menon,Consumer,Hyderabad,South,Furniture,Study Table,2,0,13964.86,3411.06,Debit Card
+418,ORD-2025-0418,09-08-2025 00:00,Aug-25,14-08-2025 00:00,Same Day,CUST-0168,Kiran Joshi,Consumer,Bhubaneswar,East,Office Supplies,Desk Organizer,2,0,897.17,312.54,UPI
+419,ORD-2025-0419,27-10-2025 00:00,Oct-25,31-10-2025 00:00,Standard,CUST-0009,Pooja Das,Consumer,Delhi,North,Home & Kitchen,Storage Box,2,0,1776.81,553.52,Debit Card
+420,ORD-2025-0420,13-04-2025 00:00,Apr-25,15-04-2025 00:00,Standard,CUST-0166,Sneha Reddy,Corporate,Mumbai,West,Furniture,Bookshelf,5,0,22967.68,4971.5,UPI
+421,ORD-2025-0421,15-06-2025 00:00,Jun-25,20-06-2025 00:00,Standard,CUST-0246,Sneha Reddy,Small Business,Chennai,South,Furniture,Folding Chair,1,0.15,1513.72,311.18,UPI
+422,ORD-2025-0422,02-03-2025 00:00,Mar-25,07-03-2025 00:00,Standard,CUST-0247,Priya Nair,Corporate,Mysuru,South,Office Supplies,File Folder,3,0.1,235.24,16.66,UPI
+423,ORD-2025-0423,17-03-2025 00:00,Mar-25,21-03-2025 00:00,Standard,CUST-0218,Nikhil Jain,Consumer,Mysuru,South,Furniture,Folding Chair,3,0,5289.02,1430.91,UPI
+424,ORD-2025-0424,21-10-2025 00:00,Oct-25,25-10-2025 00:00,Standard,CUST-0130,Nikhil Jain,Corporate,Pune,West,Furniture,Study Table,1,0.1,6425.77,1511.45,Debit Card
+425,ORD-2025-0425,21-03-2025 00:00,Mar-25,22-03-2025 00:00,Standard,CUST-0192,Pooja Das,Consumer,Kolkata,East,Electronics,Bluetooth Speaker,2,0.2,3128.88,117.55,Debit Card
+426,ORD-2025-0426,17-03-2025 00:00,Mar-25,22-03-2025 00:00,Standard,CUST-0087,Shreya Kapoor,Consumer,Jaipur,North,Furniture,Study Table,5,0.1,31234.6,3394.33,Net Banking
+427,ORD-2025-0427,14-02-2025 00:00,Feb-25,16-02-2025 00:00,Express,CUST-0019,Kiran Joshi,Consumer,Mysuru,South,Office Supplies,Notebook,4,0.15,592.15,71.85,UPI
+428,ORD-2025-0428,11-02-2025 00:00,Feb-25,12-02-2025 00:00,Standard,CUST-0102,Manish Yadav,Consumer,Mysuru,South,Electronics,Bluetooth Speaker,3,0,5514.22,966.71,UPI
+429,ORD-2025-0429,27-02-2025 00:00,Feb-25,28-02-2025 00:00,Same Day,CUST-0171,Manish Yadav,Corporate,Mumbai,West,Home & Kitchen,Electric Kettle,1,0,1743.01,478.53,UPI
+430,ORD-2025-0430,23-09-2025 00:00,Sep-25,24-09-2025 00:00,Express,CUST-0127,Divya Rao,Small Business,Kolkata,East,Home & Kitchen,Water Bottle,2,0.1,933.58,247.79,Credit Card
+431,ORD-2025-0431,17-07-2025 00:00,Jul-25,18-07-2025 00:00,Same Day,CUST-0131,Neha Gupta,Corporate,Bhubaneswar,East,Office Supplies,Notebook,1,0.1,158.42,32.24,UPI
+432,ORD-2025-0432,21-06-2025 00:00,Jun-25,26-06-2025 00:00,Express,CUST-0198,Manish Yadav,Consumer,Pune,West,Electronics,Power Bank,1,0,1243.32,386.7,UPI
+433,ORD-2025-0433,28-04-2025 00:00,Apr-25,30-04-2025 00:00,Standard,CUST-0175,Priya Nair,Consumer,Mysuru,South,Home & Kitchen,Electric Kettle,4,0.15,6398.42,1163.27,Debit Card
+434,ORD-2025-0434,08-02-2025 00:00,Feb-25,12-02-2025 00:00,Standard,CUST-0158,Pooja Das,Small Business,Mumbai,West,Furniture,Study Table,5,0,33584.63,11497.84,UPI
+435,ORD-2025-0435,29-07-2025 00:00,Jul-25,30-07-2025 00:00,Standard,CUST-0129,Sanjay Menon,Consumer,Mysuru,South,Electronics,Power Bank,1,0.15,1055.01,115.67,UPI
+436,ORD-2025-0436,17-03-2025 00:00,Mar-25,21-03-2025 00:00,Standard,CUST-0047,Vikram Rao,Consumer,Chennai,South,Electronics,USB-C Hub,2,0.05,2773.56,780.26,Credit Card
+437,ORD-2025-0437,23-03-2025 00:00,Mar-25,27-03-2025 00:00,Express,CUST-0164,Ishita Roy,Consumer,Bhubaneswar,East,Home & Kitchen,Lunch Box,4,0,2782.05,530.81,UPI
+438,ORD-2025-0438,08-08-2025 00:00,Aug-25,12-08-2025 00:00,Express,CUST-0194,Aditya Kumar,Consumer,Delhi,North,Furniture,Office Chair,5,0.25,21317.11,2494.09,UPI
+439,ORD-2025-0439,05-08-2025 00:00,Aug-25,06-08-2025 00:00,Same Day,CUST-0108,Ishita Roy,Consumer,Pune,West,Electronics,Power Bank,1,0.2,982.92,228.05,Debit Card
+440,ORD-2025-0440,17-01-2025 00:00,Jan-25,21-01-2025 00:00,Express,CUST-0247,Vikram Rao,Corporate,Lucknow,North,Office Supplies,Pen Set,2,0.1,213.95,65.02,UPI
+441,ORD-2025-0441,19-03-2025 00:00,Mar-25,21-03-2025 00:00,Same Day,CUST-0086,Neha Gupta,Consumer,Chennai,South,Furniture,Study Table,1,0.2,5552.95,780.1,UPI
+442,ORD-2025-0442,18-05-2025 00:00,May-25,19-05-2025 00:00,Express,CUST-0137,Kiran Joshi,Consumer,Ahmedabad,West,Office Supplies,Notebook,1,0.2,140.7,1.73,UPI
+443,ORD-2025-0443,17-06-2025 00:00,Jun-25,20-06-2025 00:00,Express,CUST-0068,Meera Shah,Small Business,Chennai,South,Home & Kitchen,Lunch Box,3,0,2048.1,535.77,UPI
+444,ORD-2025-0444,18-03-2025 00:00,Mar-25,22-03-2025 00:00,Express,CUST-0022,Sanjay Menon,Consumer,Chennai,South,Furniture,Office Chair,2,0.25,8022.36,816.42,Cash
+445,ORD-2025-0445,13-01-2025 00:00,Jan-25,14-01-2025 00:00,Standard,CUST-0202,Aarav Sharma,Consumer,Delhi,North,Home & Kitchen,Storage Box,4,0.2,2763,124.27,Credit Card
+446,ORD-2025-0446,23-11-2025 00:00,Nov-25,28-11-2025 00:00,Standard,CUST-0200,Aditya Kumar,Consumer,Chennai,South,Furniture,Bookshelf,1,0.1,4167.79,735.35,UPI
+447,ORD-2025-0447,18-07-2025 00:00,Jul-25,19-07-2025 00:00,Standard,CUST-0238,Ananya Singh,Consumer,Jaipur,North,Home & Kitchen,Storage Box,1,0.1,805.47,218.68,Net Banking
+448,ORD-2025-0448,21-02-2025 00:00,Feb-25,22-02-2025 00:00,Standard,CUST-0166,Arjun Patel,Consumer,Bengaluru,South,Furniture,Desk Lamp,4,0.1,4656.93,885.98,UPI
+449,ORD-2025-0449,13-08-2025 00:00,Aug-25,16-08-2025 00:00,Express,CUST-0208,Arjun Patel,Corporate,Kolkata,East,Office Supplies,Pen Set,3,0.15,305.65,44.71,Cash
+450,ORD-2025-0450,08-05-2025 00:00,May-25,10-05-2025 00:00,Standard,CUST-0220,Priya Nair,Small Business,Kolkata,East,Home & Kitchen,Electric Kettle,1,0.1,1683.77,520.34,Credit Card
+451,ORD-2025-0451,28-06-2025 00:00,Jun-25,02-07-2025 00:00,Express,CUST-0011,Aarav Sharma,Small Business,Jaipur,North,Office Supplies,Desk Organizer,4,0.2,1434.82,34.75,UPI
+452,ORD-2025-0452,03-05-2025 00:00,May-25,04-05-2025 00:00,Standard,CUST-0129,Aditya Kumar,Consumer,Kolkata,East,Electronics,Keyboard,1,0.15,1105.72,160.26,UPI
+453,ORD-2025-0453,22-09-2025 00:00,Sep-25,24-09-2025 00:00,Same Day,CUST-0114,Pooja Das,Consumer,Bhubaneswar,East,Office Supplies,Pen Set,2,0.2,191.3,4.85,Net Banking
+454,ORD-2025-0454,08-07-2025 00:00,Jul-25,13-07-2025 00:00,Standard,CUST-0072,Arjun Patel,Consumer,Chennai,South,Office Supplies,Notebook,2,0.05,347.55,72.85,Debit Card
+455,ORD-2025-0455,27-07-2025 00:00,Jul-25,30-07-2025 00:00,Express,CUST-0186,Ananya Singh,Small Business,Chennai,South,Electronics,Power Bank,4,0.2,3674.49,57.57,Cash
+456,ORD-2025-0456,07-12-2025 00:00,Dec-25,11-12-2025 00:00,Express,CUST-0093,Divya Rao,Corporate,Ahmedabad,West,Electronics,Power Bank,1,0,1200.68,312.04,Debit Card
+457,ORD-2025-0457,23-11-2025 00:00,Nov-25,24-11-2025 00:00,Standard,CUST-0166,Meera Shah,Small Business,Hyderabad,South,Home & Kitchen,Storage Box,1,0.1,836.64,276.11,Credit Card
+458,ORD-2025-0458,01-11-2025 00:00,Nov-25,04-11-2025 00:00,Express,CUST-0042,Vikram Rao,Corporate,Delhi,North,Electronics,Bluetooth Speaker,5,0.1,8834.68,1588.82,UPI
+459,ORD-2025-0459,28-03-2025 00:00,Mar-25,30-03-2025 00:00,Standard,CUST-0006,Ananya Singh,Corporate,Jaipur,North,Furniture,Study Table,3,0.1,18921.56,4461.76,UPI
+460,ORD-2025-0460,24-01-2025 00:00,Jan-25,28-01-2025 00:00,Same Day,CUST-0116,Kiran Joshi,Corporate,Bhubaneswar,East,Furniture,Study Table,3,0.1,19162.71,4825.28,UPI
+461,ORD-2025-0461,29-11-2025 00:00,Nov-25,30-11-2025 00:00,Same Day,CUST-0228,Divya Rao,Consumer,Delhi,North,Furniture,Bookshelf,1,0.1,3938.21,239.56,Debit Card
+462,ORD-2025-0462,25-04-2025 00:00,Apr-25,29-04-2025 00:00,Same Day,CUST-0210,Priya Nair,Consumer,Mysuru,South,Electronics,Wireless Mouse,2,0.15,1351.23,230.88,UPI
+463,ORD-2025-0463,26-01-2025 00:00,Jan-25,27-01-2025 00:00,Same Day,CUST-0199,Sneha Reddy,Consumer,Ahmedabad,West,Furniture,Bookshelf,4,0.05,16783.23,2962.08,Debit Card
+464,ORD-2025-0464,13-10-2025 00:00,Oct-25,17-10-2025 00:00,Standard,CUST-0065,Arjun Patel,Consumer,Bengaluru,South,Electronics,Power Bank,2,0,2312.6,775.64,UPI
+465,ORD-2025-0465,19-10-2025 00:00,Oct-25,23-10-2025 00:00,Express,CUST-0022,Priya Nair,Corporate,Mumbai,West,Furniture,Desk Lamp,1,0,1340.76,443.39,Debit Card
+466,ORD-2025-0466,07-07-2025 00:00,Jul-25,10-07-2025 00:00,Standard,CUST-0244,Divya Rao,Corporate,Pune,West,Furniture,Folding Chair,1,0.1,1672.92,200.75,Net Banking
+467,ORD-2025-0467,30-07-2025 00:00,Jul-25,02-08-2025 00:00,Express,CUST-0135,Meera Shah,Consumer,Chennai,South,Home & Kitchen,Coffee Mug,3,0,933.79,308.97,UPI
+468,ORD-2025-0468,28-12-2025 00:00,Dec-25,29-12-2025 00:00,Express,CUST-0062,Ishita Roy,Corporate,Lucknow,North,Home & Kitchen,Coffee Mug,4,0.25,908.13,53.21,UPI
+469,ORD-2025-0469,21-06-2025 00:00,Jun-25,24-06-2025 00:00,Standard,CUST-0064,Ananya Singh,Consumer,Hyderabad,South,Furniture,Folding Chair,2,0,3652.79,1130.45,Net Banking
+470,ORD-2025-0470,19-12-2025 00:00,Dec-25,23-12-2025 00:00,Express,CUST-0133,Arjun Patel,Small Business,Jaipur,North,Electronics,Keyboard,3,0,3794.43,1312.85,Net Banking
+471,ORD-2025-0471,04-07-2025 00:00,Jul-25,09-07-2025 00:00,Same Day,CUST-0174,Sneha Reddy,Consumer,Mysuru,South,Electronics,Bluetooth Speaker,1,0.2,1456.67,149.31,UPI
+472,ORD-2025-0472,05-03-2025 00:00,Mar-25,09-03-2025 00:00,Standard,CUST-0069,Neha Gupta,Corporate,Mysuru,South,Home & Kitchen,Water Bottle,1,0,513.3,179.6,Debit Card
+473,ORD-2025-0473,24-02-2025 00:00,Feb-25,27-02-2025 00:00,Express,CUST-0053,Ananya Singh,Corporate,Mysuru,South,Electronics,Wireless Mouse,2,0,1677.3,534.88,Credit Card
+474,ORD-2025-0474,26-05-2025 00:00,May-25,31-05-2025 00:00,Express,CUST-0181,Ishita Roy,Consumer,Hyderabad,South,Home & Kitchen,Water Bottle,2,0.1,909.59,285.08,UPI
+475,ORD-2025-0475,08-10-2025 00:00,Oct-25,11-10-2025 00:00,Standard,CUST-0215,Kavya Iyer,Corporate,Jaipur,North,Furniture,Study Table,5,0,34668.75,7636.08,Credit Card
+476,ORD-2025-0476,16-10-2025 00:00,Oct-25,19-10-2025 00:00,Same Day,CUST-0135,Pooja Das,Consumer,Lucknow,North,Office Supplies,Pen Set,3,0.15,317.57,74.99,Credit Card
+477,ORD-2025-0477,10-06-2025 00:00,Jun-25,13-06-2025 00:00,Standard,CUST-0030,Divya Rao,Corporate,Lucknow,North,Electronics,Wireless Mouse,2,0.15,1351.25,204.56,Credit Card
+478,ORD-2025-0478,19-02-2025 00:00,Feb-25,21-02-2025 00:00,Standard,CUST-0074,Nikhil Jain,Consumer,Pune,West,Office Supplies,Notebook,1,0.2,147.15,14.45,UPI
+479,ORD-2025-0479,20-02-2025 00:00,Feb-25,22-02-2025 00:00,Standard,CUST-0183,Rohan Mehta,Consumer,Ahmedabad,West,Home & Kitchen,Coffee Mug,4,0.1,1122.68,271.44,Credit Card
+480,ORD-2025-0480,30-04-2025 00:00,Apr-25,03-05-2025 00:00,Standard,CUST-0067,Ishita Roy,Small Business,Lucknow,North,Home & Kitchen,Lunch Box,2,0.1,1279.14,332.58,UPI
+481,ORD-2025-0481,01-04-2025 00:00,Apr-25,05-04-2025 00:00,Standard,CUST-0130,Arjun Patel,Consumer,Jaipur,North,Furniture,Bookshelf,3,0.15,11861.73,844.91,Net Banking
+482,ORD-2025-0482,23-05-2025 00:00,May-25,27-05-2025 00:00,Standard,CUST-0177,Manish Yadav,Consumer,Kolkata,East,Office Supplies,File Folder,3,0,262.08,44.73,UPI
+483,ORD-2025-0483,30-11-2025 00:00,Nov-25,01-12-2025 00:00,Express,CUST-0146,Rohan Mehta,Corporate,Delhi,North,Furniture,Bookshelf,1,0,4383.54,1420.31,UPI
+484,ORD-2025-0484,13-02-2025 00:00,Feb-25,17-02-2025 00:00,Express,CUST-0250,Shreya Kapoor,Consumer,Lucknow,North,Electronics,Bluetooth Speaker,1,0.1,1637.43,204.69,Cash
+485,ORD-2025-0485,13-12-2025 00:00,Dec-25,14-12-2025 00:00,Standard,CUST-0174,Arjun Patel,Small Business,Jaipur,North,Electronics,Power Bank,4,0,4737.01,837.93,Credit Card
+486,ORD-2025-0486,02-01-2025 00:00,Jan-25,07-01-2025 00:00,Standard,CUST-0093,Shreya Kapoor,Consumer,Mysuru,South,Office Supplies,Notebook,3,0,557.42,221.19,UPI
+487,ORD-2025-0487,19-11-2025 00:00,Nov-25,20-11-2025 00:00,Standard,CUST-0048,Manish Yadav,Corporate,Jaipur,North,Furniture,Study Table,3,0.1,18966.32,2336.94,Debit Card
+488,ORD-2025-0488,05-11-2025 00:00,Nov-25,09-11-2025 00:00,Express,CUST-0200,Ishita Roy,Corporate,Jaipur,North,Furniture,Folding Chair,3,0.2,4318.41,481.19,Cash
+489,ORD-2025-0489,11-09-2025 00:00,Sep-25,15-09-2025 00:00,Standard,CUST-0077,Ishita Roy,Corporate,Lucknow,North,Electronics,Power Bank,4,0,4618.02,953.88,UPI
+490,ORD-2025-0490,20-09-2025 00:00,Sep-25,24-09-2025 00:00,Standard,CUST-0218,Ishita Roy,Consumer,Lucknow,North,Electronics,Wireless Mouse,4,0,3225.91,1163.14,Cash
+491,ORD-2025-0491,05-07-2025 00:00,Jul-25,10-07-2025 00:00,Standard,CUST-0077,Ishita Roy,Consumer,Jaipur,North,Furniture,Office Chair,1,0.1,4896.73,554.5,Cash
+492,ORD-2025-0492,17-01-2025 00:00,Jan-25,20-01-2025 00:00,Standard,CUST-0084,Sneha Reddy,Small Business,Jaipur,North,Home & Kitchen,Coffee Mug,1,0.1,262.06,29.2,Debit Card
+493,ORD-2025-0493,16-01-2025 00:00,Jan-25,20-01-2025 00:00,Standard,CUST-0240,Nikhil Jain,Consumer,Bengaluru,South,Electronics,Keyboard,1,0.05,1209.18,229.12,Credit Card
+494,ORD-2025-0494,16-09-2025 00:00,Sep-25,20-09-2025 00:00,Standard,CUST-0198,Kiran Joshi,Corporate,Mysuru,South,Electronics,Wireless Mouse,1,0.15,697.89,148.38,UPI
+495,ORD-2025-0495,31-01-2025 00:00,Jan-25,03-02-2025 00:00,Standard,CUST-0232,Sneha Reddy,Consumer,Pune,West,Home & Kitchen,Coffee Mug,1,0.2,248.91,55.96,UPI
+496,ORD-2025-0496,06-02-2025 00:00,Feb-25,08-02-2025 00:00,Standard,CUST-0182,Neha Gupta,Consumer,Jaipur,North,Home & Kitchen,Lunch Box,1,0,698.55,201.76,UPI
+497,ORD-2025-0497,10-04-2025 00:00,Apr-25,13-04-2025 00:00,Standard,CUST-0207,Ishita Roy,Consumer,Kolkata,East,Electronics,Bluetooth Speaker,3,0.15,4673.58,817.08,UPI
+498,ORD-2025-0498,28-02-2025 00:00,Feb-25,02-03-2025 00:00,Same Day,CUST-0136,Aditya Kumar,Corporate,Hyderabad,South,Furniture,Desk Lamp,3,0,3909.8,1126.31,UPI
+499,ORD-2025-0499,30-12-2025 00:00,Dec-25,03-01-2026 00:00,Standard,CUST-0075,Vikram Rao,Consumer,Chennai,South,Office Supplies,Pen Set,5,0,580.4,121.43,Debit Card
+500,ORD-2025-0500,31-05-2025 00:00,May-25,05-06-2025 00:00,Standard,CUST-0121,Manish Yadav,Corporate,Bhubaneswar,East,Home & Kitchen,Electric Kettle,4,0,7475.74,2925.46,Debit Card
+501,ORD-2025-0501,14-08-2025 00:00,Aug-25,17-08-2025 00:00,Standard,CUST-0143,Nikhil Jain,Consumer,Bengaluru,South,Office Supplies,Desk Organizer,1,0.2,373.77,43.32,UPI
+502,ORD-2025-0502,04-12-2025 00:00,Dec-25,09-12-2025 00:00,Same Day,CUST-0207,Aditya Kumar,Corporate,Pune,West,Office Supplies,Notebook,1,0,172.82,54.06,UPI
+503,ORD-2025-0503,18-07-2025 00:00,Jul-25,23-07-2025 00:00,Standard,CUST-0093,Neha Gupta,Consumer,Jaipur,North,Home & Kitchen,Storage Box,5,0.1,4215.43,843.95,UPI
+504,ORD-2025-0504,10-04-2025 00:00,Apr-25,15-04-2025 00:00,Standard,CUST-0063,Sanjay Menon,Consumer,Pune,West,Office Supplies,Pen Set,1,0.1,103.73,22.9,Debit Card
+505,ORD-2025-0505,22-02-2025 00:00,Feb-25,24-02-2025 00:00,Standard,CUST-0153,Vikram Rao,Consumer,Ahmedabad,West,Office Supplies,File Folder,2,0,188.21,74.08,UPI
+506,ORD-2025-0506,26-12-2025 00:00,Dec-25,29-12-2025 00:00,Standard,CUST-0034,Neha Gupta,Corporate,Lucknow,North,Office Supplies,Pen Set,4,0.1,427.28,65.76,Credit Card
+507,ORD-2025-0507,08-10-2025 00:00,Oct-25,11-10-2025 00:00,Standard,CUST-0074,Sneha Reddy,Consumer,Lucknow,North,Office Supplies,Notebook,1,0,187.05,65.11,Debit Card
+508,ORD-2025-0508,23-12-2025 00:00,Dec-25,24-12-2025 00:00,Standard,CUST-0006,Aditya Kumar,Consumer,Lucknow,North,Furniture,Office Chair,2,0.1,9860.63,1055.57,Net Banking
+509,ORD-2025-0509,21-07-2025 00:00,Jul-25,23-07-2025 00:00,Express,CUST-0097,Sanjay Menon,Small Business,Jaipur,North,Home & Kitchen,Coffee Mug,3,0.1,844.57,149.38,Credit Card
+510,ORD-2025-0510,09-02-2025 00:00,Feb-25,14-02-2025 00:00,Standard,CUST-0137,Rahul Verma,Small Business,Bengaluru,South,Home & Kitchen,Lunch Box,3,0,2013.64,488.93,Debit Card
+511,ORD-2025-0511,01-06-2025 00:00,Jun-25,03-06-2025 00:00,Standard,CUST-0235,Rahul Verma,Corporate,Jaipur,North,Home & Kitchen,Coffee Mug,1,0.15,249.36,17.16,UPI
+512,ORD-2025-0512,24-08-2025 00:00,Aug-25,25-08-2025 00:00,Express,CUST-0221,Rohan Mehta,Consumer,Bhubaneswar,East,Office Supplies,Desk Organizer,2,0.1,841.48,196.39,UPI
+513,ORD-2025-0513,25-04-2025 00:00,Apr-25,26-04-2025 00:00,Standard,CUST-0136,Neha Gupta,Corporate,Mumbai,West,Furniture,Study Table,1,0.15,5865.86,1419.08,UPI
+514,ORD-2025-0514,28-04-2025 00:00,Apr-25,02-05-2025 00:00,Express,CUST-0104,Aarav Sharma,Consumer,Jaipur,North,Furniture,Study Table,1,0.25,5253.82,574.11,Credit Card
+515,ORD-2025-0515,15-07-2025 00:00,Jul-25,19-07-2025 00:00,Same Day,CUST-0225,Vikram Rao,Consumer,Hyderabad,South,Electronics,Bluetooth Speaker,3,0.2,4363.03,519.07,UPI
+516,ORD-2025-0516,29-11-2025 00:00,Nov-25,03-12-2025 00:00,Standard,CUST-0159,Ishita Roy,Corporate,Lucknow,North,Furniture,Study Table,2,0.1,13037.22,1821.97,UPI
+517,ORD-2025-0517,23-01-2025 00:00,Jan-25,26-01-2025 00:00,Standard,CUST-0229,Divya Rao,Consumer,Hyderabad,South,Electronics,Wireless Mouse,4,0.1,2883.81,443.28,UPI
+518,ORD-2025-0518,23-11-2025 00:00,Nov-25,26-11-2025 00:00,Express,CUST-0086,Kavya Iyer,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,2,0.2,3187.84,630.94,Debit Card
+519,ORD-2025-0519,28-08-2025 00:00,Aug-25,01-09-2025 00:00,Express,CUST-0221,Ishita Roy,Small Business,Bhubaneswar,East,Furniture,Study Table,1,0.1,6523.95,1226.81,UPI
+520,ORD-2025-0520,28-11-2025 00:00,Nov-25,29-11-2025 00:00,Express,CUST-0096,Vikram Rao,Corporate,Jaipur,North,Home & Kitchen,Electric Kettle,3,0,5194.94,1513.1,Credit Card
+521,ORD-2025-0521,01-07-2025 00:00,Jul-25,02-07-2025 00:00,Express,CUST-0096,Shreya Kapoor,Corporate,Hyderabad,South,Home & Kitchen,Lunch Box,1,0.05,641.27,75.42,Net Banking
+522,ORD-2025-0522,13-05-2025 00:00,May-25,14-05-2025 00:00,Express,CUST-0022,Kavya Iyer,Corporate,Mumbai,West,Home & Kitchen,Storage Box,3,0.1,2537.6,393.93,UPI
+523,ORD-2025-0523,14-10-2025 00:00,Oct-25,18-10-2025 00:00,Express,CUST-0113,Meera Shah,Corporate,Mysuru,South,Furniture,Study Table,5,0.1,31658.29,4074.56,UPI
+524,ORD-2025-0524,08-05-2025 00:00,May-25,12-05-2025 00:00,Standard,CUST-0146,Kiran Joshi,Consumer,Pune,West,Furniture,Bookshelf,3,0.25,10744.27,-426.33,UPI
+525,ORD-2025-0525,22-11-2025 00:00,Nov-25,25-11-2025 00:00,Express,CUST-0145,Kavya Iyer,Consumer,Ahmedabad,West,Home & Kitchen,Storage Box,1,0.1,812.91,138.67,Debit Card
+526,ORD-2025-0526,30-10-2025 00:00,Oct-25,01-11-2025 00:00,Standard,CUST-0113,Pooja Das,Consumer,Mysuru,South,Furniture,Bookshelf,2,0.1,8271.91,1029.9,Debit Card
+527,ORD-2025-0527,07-11-2025 00:00,Nov-25,08-11-2025 00:00,Same Day,CUST-0071,Aarav Sharma,Small Business,Hyderabad,South,Electronics,Wireless Mouse,2,0.2,1233.05,74.72,Cash
+528,ORD-2025-0528,23-01-2025 00:00,Jan-25,26-01-2025 00:00,Express,CUST-0140,Priya Nair,Corporate,Hyderabad,South,Electronics,Bluetooth Speaker,3,0.2,4641.08,1049.31,Credit Card
+529,ORD-2025-0529,03-02-2025 00:00,Feb-25,07-02-2025 00:00,Standard,CUST-0077,Arjun Patel,Small Business,Mysuru,South,Electronics,Power Bank,1,0.1,1048,114.57,UPI
+530,ORD-2025-0530,02-03-2025 00:00,Mar-25,04-03-2025 00:00,Express,CUST-0157,Aditya Kumar,Consumer,Mumbai,West,Home & Kitchen,Electric Kettle,2,0.2,2756.19,345.27,Debit Card
+531,ORD-2025-0531,02-06-2025 00:00,Jun-25,03-06-2025 00:00,Standard,CUST-0092,Aditya Kumar,Consumer,Jaipur,North,Electronics,Wireless Mouse,5,0.05,3817.69,939.07,Credit Card
+532,ORD-2025-0532,03-04-2025 00:00,Apr-25,07-04-2025 00:00,Standard,CUST-0153,Priya Nair,Corporate,Chennai,South,Furniture,Desk Lamp,3,0.15,3463.22,859.91,UPI
+533,ORD-2025-0533,30-03-2025 00:00,Mar-25,01-04-2025 00:00,Standard,CUST-0228,Nikhil Jain,Consumer,Mumbai,West,Office Supplies,File Folder,2,0.05,172.06,60.25,Debit Card
+534,ORD-2025-0534,02-10-2025 00:00,Oct-25,03-10-2025 00:00,Standard,CUST-0150,Meera Shah,Consumer,Bhubaneswar,East,Home & Kitchen,Storage Box,4,0.1,3369.93,511.98,Debit Card
+535,ORD-2025-0535,19-11-2025 00:00,Nov-25,22-11-2025 00:00,Standard,CUST-0206,Pooja Das,Consumer,Kolkata,East,Electronics,Power Bank,2,0,2482.99,637.01,Net Banking
+536,ORD-2025-0536,22-07-2025 00:00,Jul-25,23-07-2025 00:00,Standard,CUST-0198,Sneha Reddy,Small Business,Mumbai,West,Furniture,Office Chair,2,0.05,10472.43,3396.87,UPI
+537,ORD-2025-0537,22-01-2025 00:00,Jan-25,23-01-2025 00:00,Standard,CUST-0051,Divya Rao,Consumer,Jaipur,North,Home & Kitchen,Coffee Mug,1,0,290.02,82.44,Debit Card
+538,ORD-2025-0538,24-09-2025 00:00,Sep-25,28-09-2025 00:00,Standard,CUST-0052,Aarav Sharma,Small Business,Bhubaneswar,East,Home & Kitchen,Water Bottle,5,0.05,2383.49,487.53,Net Banking
+539,ORD-2025-0539,18-08-2025 00:00,Aug-25,21-08-2025 00:00,Standard,CUST-0203,Sanjay Menon,Consumer,Ahmedabad,West,Electronics,Wireless Mouse,1,0.1,726.43,119.6,Debit Card
+540,ORD-2025-0540,23-03-2025 00:00,Mar-25,27-03-2025 00:00,Standard,CUST-0043,Vikram Rao,Consumer,Mysuru,South,Electronics,Wireless Mouse,2,0,1583.42,455.58,UPI
+541,ORD-2025-0541,28-05-2025 00:00,May-25,02-06-2025 00:00,Standard,CUST-0022,Shreya Kapoor,Consumer,Delhi,North,Electronics,Keyboard,2,0.05,2565.22,561.23,UPI
+542,ORD-2025-0542,07-11-2025 00:00,Nov-25,12-11-2025 00:00,Express,CUST-0194,Divya Rao,Consumer,Mumbai,West,Office Supplies,File Folder,1,0.2,72.77,7.55,Cash
+543,ORD-2025-0543,23-02-2025 00:00,Feb-25,25-02-2025 00:00,Standard,CUST-0187,Neha Gupta,Consumer,Kolkata,East,Home & Kitchen,Lunch Box,2,0.1,1239.54,220.82,Debit Card
+544,ORD-2025-0544,02-05-2025 00:00,May-25,04-05-2025 00:00,Express,CUST-0052,Rohan Mehta,Consumer,Lucknow,North,Home & Kitchen,Coffee Mug,3,0.05,834.66,176.04,Cash
+545,ORD-2025-0545,14-02-2025 00:00,Feb-25,18-02-2025 00:00,Standard,CUST-0106,Aditya Kumar,Consumer,Mumbai,West,Home & Kitchen,Storage Box,1,0,898.84,262.59,UPI
+546,ORD-2025-0546,14-06-2025 00:00,Jun-25,19-06-2025 00:00,Standard,CUST-0189,Aarav Sharma,Small Business,Bengaluru,South,Furniture,Folding Chair,4,0.2,5812.1,1221.55,Credit Card
+547,ORD-2025-0547,06-02-2025 00:00,Feb-25,10-02-2025 00:00,Express,CUST-0088,Priya Nair,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,2,0,3877.3,1387.42,Debit Card
+548,ORD-2025-0548,11-02-2025 00:00,Feb-25,16-02-2025 00:00,Same Day,CUST-0069,Rohan Mehta,Consumer,Jaipur,North,Home & Kitchen,Lunch Box,4,0.15,2360.89,209.31,Credit Card
+549,ORD-2025-0549,11-06-2025 00:00,Jun-25,12-06-2025 00:00,Standard,CUST-0070,Arjun Patel,Consumer,Jaipur,North,Furniture,Desk Lamp,1,0,1271.31,393.07,Debit Card
+550,ORD-2025-0550,05-02-2025 00:00,Feb-25,10-02-2025 00:00,Standard,CUST-0208,Manish Yadav,Consumer,Hyderabad,South,Home & Kitchen,Storage Box,2,0.05,1771.3,427.8,Debit Card
+551,ORD-2025-0551,22-10-2025 00:00,Oct-25,27-10-2025 00:00,Express,CUST-0138,Rohan Mehta,Small Business,Lucknow,North,Office Supplies,Pen Set,1,0.05,114.04,32.06,Cash
+552,ORD-2025-0552,01-01-2025 00:00,Jan-25,06-01-2025 00:00,Same Day,CUST-0240,Kiran Joshi,Consumer,Lucknow,North,Furniture,Folding Chair,1,0.05,1703.48,485.35,Credit Card
+553,ORD-2025-0553,03-05-2025 00:00,May-25,04-05-2025 00:00,Standard,CUST-0059,Ishita Roy,Corporate,Bhubaneswar,East,Electronics,Bluetooth Speaker,1,0.1,1750.03,410.73,UPI
+554,ORD-2025-0554,22-12-2025 00:00,Dec-25,24-12-2025 00:00,Standard,CUST-0202,Priya Nair,Small Business,Jaipur,North,Electronics,USB-C Hub,2,0,3105.78,821.43,Net Banking
+555,ORD-2025-0555,01-01-2025 00:00,Jan-25,06-01-2025 00:00,Standard,CUST-0172,Kavya Iyer,Small Business,Mysuru,South,Electronics,Keyboard,2,0,2543.42,489.47,UPI
+556,ORD-2025-0556,04-10-2025 00:00,Oct-25,06-10-2025 00:00,Standard,CUST-0201,Meera Shah,Consumer,Kolkata,East,Office Supplies,Desk Organizer,1,0.25,326.26,36.36,Credit Card
+557,ORD-2025-0557,25-12-2025 00:00,Dec-25,26-12-2025 00:00,Standard,CUST-0221,Aditya Kumar,Corporate,Pune,West,Office Supplies,Calculator,1,0,662.34,181.02,Net Banking
+558,ORD-2025-0558,26-01-2025 00:00,Jan-25,28-01-2025 00:00,Standard,CUST-0066,Priya Nair,Corporate,Delhi,North,Furniture,Study Table,4,0.25,21064.95,2008.83,Net Banking
+559,ORD-2025-0559,11-11-2025 00:00,Nov-25,12-11-2025 00:00,Standard,CUST-0122,Arjun Patel,Corporate,Mumbai,West,Office Supplies,Calculator,1,0.05,616.16,189.68,UPI
+560,ORD-2025-0560,14-02-2025 00:00,Feb-25,15-02-2025 00:00,Standard,CUST-0195,Ishita Roy,Small Business,Lucknow,North,Office Supplies,Desk Organizer,1,0.2,347.38,22.48,Debit Card
+561,ORD-2025-0561,08-10-2025 00:00,Oct-25,13-10-2025 00:00,Express,CUST-0195,Pooja Das,Consumer,Delhi,North,Office Supplies,Pen Set,1,0.05,110.58,35.27,UPI
+562,ORD-2025-0562,14-06-2025 00:00,Jun-25,17-06-2025 00:00,Standard,CUST-0180,Kavya Iyer,Corporate,Jaipur,North,Home & Kitchen,Lunch Box,2,0.1,1311.93,263.86,Credit Card
+563,ORD-2025-0563,20-11-2025 00:00,Nov-25,23-11-2025 00:00,Express,CUST-0077,Divya Rao,Corporate,Kolkata,East,Electronics,USB-C Hub,1,0.1,1286.98,236.77,UPI
+564,ORD-2025-0564,18-03-2025 00:00,Mar-25,23-03-2025 00:00,Standard,CUST-0214,Kiran Joshi,Small Business,Lucknow,North,Electronics,USB-C Hub,1,0.2,1177.29,18.17,Cash
+565,ORD-2025-0565,21-05-2025 00:00,May-25,24-05-2025 00:00,Standard,CUST-0043,Kavya Iyer,Consumer,Bengaluru,South,Furniture,Desk Lamp,3,0,4081.47,1049.16,Credit Card
+566,ORD-2025-0566,18-02-2025 00:00,Feb-25,21-02-2025 00:00,Same Day,CUST-0082,Meera Shah,Small Business,Mumbai,West,Home & Kitchen,Lunch Box,1,0.05,652.03,83.19,Cash
+567,ORD-2025-0567,06-09-2025 00:00,Sep-25,10-09-2025 00:00,Express,CUST-0182,Manish Yadav,Consumer,Lucknow,North,Office Supplies,File Folder,2,0,178.85,40.3,Credit Card
+568,ORD-2025-0568,02-03-2025 00:00,Mar-25,03-03-2025 00:00,Express,CUST-0061,Sanjay Menon,Consumer,Mysuru,South,Home & Kitchen,Water Bottle,2,0.2,822.74,130.33,Debit Card
+569,ORD-2025-0569,10-01-2025 00:00,Jan-25,11-01-2025 00:00,Express,CUST-0203,Nikhil Jain,Consumer,Mysuru,South,Electronics,USB-C Hub,2,0.1,2784.77,784.3,Debit Card
+570,ORD-2025-0570,11-05-2025 00:00,May-25,12-05-2025 00:00,Standard,CUST-0023,Divya Rao,Consumer,Mumbai,West,Office Supplies,Desk Organizer,1,0.15,394.2,90.03,UPI
+571,ORD-2025-0571,10-07-2025 00:00,Jul-25,13-07-2025 00:00,Standard,CUST-0171,Pooja Das,Small Business,Bengaluru,South,Office Supplies,File Folder,2,0.2,148.21,14.87,UPI
+572,ORD-2025-0572,31-12-2025 00:00,Dec-25,04-01-2026 00:00,Same Day,CUST-0240,Arjun Patel,Small Business,Lucknow,North,Electronics,Wireless Mouse,1,0.1,745.23,103.32,UPI
+573,ORD-2025-0573,30-03-2025 00:00,Mar-25,02-04-2025 00:00,Standard,CUST-0025,Kavya Iyer,Small Business,Jaipur,North,Furniture,Bookshelf,1,0.2,3763.65,893.56,UPI
+574,ORD-2025-0574,14-01-2025 00:00,Jan-25,15-01-2025 00:00,Standard,CUST-0175,Pooja Das,Consumer,Pune,West,Office Supplies,Notebook,2,0.2,285.23,28.9,Debit Card
+575,ORD-2025-0575,21-12-2025 00:00,Dec-25,22-12-2025 00:00,Same Day,CUST-0117,Neha Gupta,Small Business,Delhi,North,Office Supplies,Desk Organizer,2,0,856.21,294.71,UPI
+576,ORD-2025-0576,11-07-2025 00:00,Jul-25,15-07-2025 00:00,Express,CUST-0152,Kiran Joshi,Corporate,Bengaluru,South,Home & Kitchen,Water Bottle,2,0,991.29,275.89,Debit Card
+577,ORD-2025-0577,28-01-2025 00:00,Jan-25,29-01-2025 00:00,Standard,CUST-0221,Ishita Roy,Corporate,Kolkata,East,Office Supplies,Notebook,1,0.2,138.63,14.19,UPI
+578,ORD-2025-0578,23-02-2025 00:00,Feb-25,27-02-2025 00:00,Express,CUST-0010,Divya Rao,Small Business,Mumbai,West,Home & Kitchen,Storage Box,5,0.25,3308.12,84.27,Debit Card
+579,ORD-2025-0579,11-04-2025 00:00,Apr-25,15-04-2025 00:00,Express,CUST-0092,Kiran Joshi,Consumer,Mysuru,South,Electronics,Bluetooth Speaker,3,0,5870.4,2263.25,Credit Card
+580,ORD-2025-0580,26-02-2025 00:00,Feb-25,28-02-2025 00:00,Standard,CUST-0070,Vikram Rao,Corporate,Lucknow,North,Home & Kitchen,Coffee Mug,2,0,624.62,220.05,UPI
+581,ORD-2025-0581,05-07-2025 00:00,Jul-25,08-07-2025 00:00,Standard,CUST-0034,Rahul Verma,Corporate,Jaipur,North,Home & Kitchen,Electric Kettle,5,0.15,7765.18,1339.76,Net Banking
+582,ORD-2025-0582,11-08-2025 00:00,Aug-25,16-08-2025 00:00,Express,CUST-0107,Sanjay Menon,Corporate,Bengaluru,South,Office Supplies,Calculator,1,0.15,574.06,135.91,UPI
+583,ORD-2025-0583,14-03-2025 00:00,Mar-25,17-03-2025 00:00,Express,CUST-0186,Kiran Joshi,Small Business,Mysuru,South,Furniture,Study Table,2,0.15,12046.07,2997.66,UPI
+584,ORD-2025-0584,26-08-2025 00:00,Aug-25,28-08-2025 00:00,Standard,CUST-0044,Kiran Joshi,Corporate,Chennai,South,Home & Kitchen,Coffee Mug,1,0.25,217.76,2.39,Debit Card
+585,ORD-2025-0585,09-10-2025 00:00,Oct-25,12-10-2025 00:00,Express,CUST-0240,Vikram Rao,Small Business,Mysuru,South,Electronics,Bluetooth Speaker,2,0.1,3285.93,355.83,UPI
+586,ORD-2025-0586,18-05-2025 00:00,May-25,19-05-2025 00:00,Standard,CUST-0199,Manish Yadav,Consumer,Chennai,South,Electronics,Keyboard,2,0,2710.75,1004.6,Debit Card
+587,ORD-2025-0587,07-02-2025 00:00,Feb-25,08-02-2025 00:00,Express,CUST-0244,Vikram Rao,Small Business,Ahmedabad,West,Office Supplies,Notebook,1,0.1,163.81,31.84,Net Banking
+588,ORD-2025-0588,07-10-2025 00:00,Oct-25,12-10-2025 00:00,Same Day,CUST-0018,Aditya Kumar,Consumer,Bhubaneswar,East,Electronics,Bluetooth Speaker,1,0.2,1573.79,354.63,Credit Card
+589,ORD-2025-0589,27-09-2025 00:00,Sep-25,29-09-2025 00:00,Express,CUST-0240,Vikram Rao,Corporate,Kolkata,East,Electronics,Wireless Mouse,1,0.1,737.34,87.26,Debit Card
+590,ORD-2025-0590,04-01-2025 00:00,Jan-25,09-01-2025 00:00,Same Day,CUST-0139,Neha Gupta,Consumer,Ahmedabad,West,Home & Kitchen,Lunch Box,4,0,2779.29,579.84,UPI
+591,ORD-2025-0591,11-03-2025 00:00,Mar-25,12-03-2025 00:00,Express,CUST-0214,Arjun Patel,Consumer,Mumbai,West,Home & Kitchen,Coffee Mug,2,0.05,577.76,206.95,UPI
+592,ORD-2025-0592,05-03-2025 00:00,Mar-25,07-03-2025 00:00,Standard,CUST-0060,Kiran Joshi,Corporate,Mumbai,West,Office Supplies,Pen Set,1,0,119.16,23.76,Debit Card
+593,ORD-2025-0593,24-10-2025 00:00,Oct-25,25-10-2025 00:00,Same Day,CUST-0065,Pooja Das,Corporate,Kolkata,East,Furniture,Study Table,4,0.1,25309.49,6364.56,UPI
+594,ORD-2025-0594,18-02-2025 00:00,Feb-25,21-02-2025 00:00,Express,CUST-0184,Nikhil Jain,Consumer,Bengaluru,South,Electronics,Wireless Mouse,1,0.25,598.5,44.93,UPI
+595,ORD-2025-0595,26-02-2025 00:00,Feb-25,28-02-2025 00:00,Same Day,CUST-0015,Aarav Sharma,Consumer,Bhubaneswar,East,Home & Kitchen,Storage Box,4,0.2,2960.02,708.05,UPI
+596,ORD-2025-0596,29-03-2025 00:00,Mar-25,30-03-2025 00:00,Standard,CUST-0061,Sanjay Menon,Consumer,Pune,West,Electronics,Power Bank,2,0,2337.09,595.14,UPI
+597,ORD-2025-0597,09-06-2025 00:00,Jun-25,10-06-2025 00:00,Standard,CUST-0085,Neha Gupta,Corporate,Kolkata,East,Electronics,Keyboard,1,0.1,1132.67,312.68,Net Banking
+598,ORD-2025-0598,06-11-2025 00:00,Nov-25,07-11-2025 00:00,Standard,CUST-0150,Aditya Kumar,Corporate,Kolkata,East,Electronics,Wireless Mouse,4,0.05,3040.02,887.34,Credit Card
+599,ORD-2025-0599,16-08-2025 00:00,Aug-25,19-08-2025 00:00,Standard,CUST-0058,Aarav Sharma,Corporate,Hyderabad,South,Furniture,Bookshelf,1,0.25,3616.51,-104.79,UPI
+600,ORD-2025-0600,02-01-2025 00:00,Jan-25,04-01-2025 00:00,Express,CUST-0057,Nikhil Jain,Consumer,Jaipur,North,Electronics,Power Bank,2,0,2429.96,895.48,Credit Card
+601,ORD-2025-0601,14-04-2025 00:00,Apr-25,16-04-2025 00:00,Express,CUST-0031,Aarav Sharma,Small Business,Ahmedabad,West,Office Supplies,Desk Organizer,1,0.1,418.82,87.64,UPI
+602,ORD-2025-0602,03-12-2025 00:00,Dec-25,06-12-2025 00:00,Standard,CUST-0081,Pooja Das,Corporate,Bhubaneswar,East,Office Supplies,Calculator,3,0.2,1484.87,6.91,Credit Card
+603,ORD-2025-0603,02-07-2025 00:00,Jul-25,03-07-2025 00:00,Standard,CUST-0204,Aarav Sharma,Small Business,Kolkata,East,Office Supplies,File Folder,3,0.25,204.47,14.16,Credit Card
+604,ORD-2025-0604,23-09-2025 00:00,Sep-25,28-09-2025 00:00,Standard,CUST-0181,Sneha Reddy,Consumer,Chennai,South,Office Supplies,File Folder,1,0,87.19,19.63,Debit Card
+605,ORD-2025-0605,16-11-2025 00:00,Nov-25,21-11-2025 00:00,Express,CUST-0067,Arjun Patel,Small Business,Delhi,North,Electronics,Keyboard,3,0,3870.37,817.02,UPI
+606,ORD-2025-0606,07-08-2025 00:00,Aug-25,08-08-2025 00:00,Standard,CUST-0151,Sneha Reddy,Corporate,Lucknow,North,Electronics,Power Bank,3,0.1,3185.39,445.95,UPI
+607,ORD-2025-0607,29-01-2025 00:00,Jan-25,02-02-2025 00:00,Standard,CUST-0174,Nikhil Jain,Small Business,Lucknow,North,Office Supplies,Notebook,1,0.1,169.84,23.65,Debit Card
+608,ORD-2025-0608,24-02-2025 00:00,Feb-25,27-02-2025 00:00,Express,CUST-0198,Divya Rao,Consumer,Bengaluru,South,Electronics,USB-C Hub,2,0.2,2425.78,366.67,Credit Card
+609,ORD-2025-0609,18-03-2025 00:00,Mar-25,21-03-2025 00:00,Express,CUST-0211,Kiran Joshi,Consumer,Lucknow,North,Furniture,Desk Lamp,1,0.1,1121.76,302.3,Debit Card
+610,ORD-2025-0610,10-07-2025 00:00,Jul-25,15-07-2025 00:00,Express,CUST-0056,Vikram Rao,Consumer,Delhi,North,Office Supplies,Calculator,2,0.2,1023.03,68.96,Cash
+611,ORD-2025-0611,16-07-2025 00:00,Jul-25,18-07-2025 00:00,Standard,CUST-0218,Aarav Sharma,Small Business,Hyderabad,South,Home & Kitchen,Storage Box,4,0,3497.2,777.57,Cash
+612,ORD-2025-0612,11-02-2025 00:00,Feb-25,15-02-2025 00:00,Standard,CUST-0218,Rohan Mehta,Corporate,Ahmedabad,West,Home & Kitchen,Coffee Mug,2,0.05,582.21,117.69,Net Banking
+613,ORD-2025-0613,21-05-2025 00:00,May-25,23-05-2025 00:00,Standard,CUST-0047,Aditya Kumar,Consumer,Chennai,South,Home & Kitchen,Electric Kettle,3,0.05,5003.82,1566.31,Credit Card
+614,ORD-2025-0614,15-09-2025 00:00,Sep-25,18-09-2025 00:00,Standard,CUST-0070,Nikhil Jain,Corporate,Delhi,North,Electronics,USB-C Hub,2,0.05,2873.99,422.1,UPI
+615,ORD-2025-0615,16-08-2025 00:00,Aug-25,17-08-2025 00:00,Standard,CUST-0173,Sneha Reddy,Consumer,Ahmedabad,West,Home & Kitchen,Lunch Box,4,0.1,2549.26,564.32,Cash
+616,ORD-2025-0616,25-09-2025 00:00,Sep-25,28-09-2025 00:00,Express,CUST-0086,Priya Nair,Consumer,Mumbai,West,Furniture,Bookshelf,1,0.15,4073.28,1171.17,Credit Card
+617,ORD-2025-0617,02-12-2025 00:00,Dec-25,05-12-2025 00:00,Standard,CUST-0009,Rohan Mehta,Consumer,Hyderabad,South,Electronics,Keyboard,2,0.15,2253.68,293.86,Credit Card
+618,ORD-2025-0618,24-10-2025 00:00,Oct-25,29-10-2025 00:00,Standard,CUST-0083,Kavya Iyer,Consumer,Kolkata,East,Furniture,Study Table,2,0.1,12881.55,1697.81,Net Banking
+619,ORD-2025-0619,21-04-2025 00:00,Apr-25,23-04-2025 00:00,Express,CUST-0239,Ananya Singh,Small Business,Mysuru,South,Electronics,Bluetooth Speaker,3,0.05,5596.51,1098.57,Debit Card
+620,ORD-2025-0620,29-01-2025 00:00,Jan-25,02-02-2025 00:00,Standard,CUST-0072,Arjun Patel,Consumer,Pune,West,Electronics,Wireless Mouse,2,0,1637.06,335.9,Debit Card
+621,ORD-2025-0621,29-01-2025 00:00,Jan-25,01-02-2025 00:00,Standard,CUST-0067,Arjun Patel,Corporate,Delhi,North,Office Supplies,Pen Set,4,0.1,431.51,76,UPI
+622,ORD-2025-0622,29-11-2025 00:00,Nov-25,30-11-2025 00:00,Standard,CUST-0209,Sneha Reddy,Consumer,Ahmedabad,West,Office Supplies,Calculator,2,0.2,1033.58,159.28,Debit Card
+623,ORD-2025-0623,16-05-2025 00:00,May-25,19-05-2025 00:00,Standard,CUST-0095,Rohan Mehta,Corporate,Mumbai,West,Home & Kitchen,Coffee Mug,4,0.1,1109.55,322.62,UPI
+624,ORD-2025-0624,30-03-2025 00:00,Mar-25,02-04-2025 00:00,Express,CUST-0207,Kiran Joshi,Corporate,Mumbai,West,Furniture,Folding Chair,2,0.05,3466.91,737.61,Credit Card
+625,ORD-2025-0625,19-12-2025 00:00,Dec-25,24-12-2025 00:00,Same Day,CUST-0067,Vikram Rao,Corporate,Mysuru,South,Home & Kitchen,Lunch Box,2,0.1,1231.98,290.59,Credit Card
+626,ORD-2025-0626,23-10-2025 00:00,Oct-25,24-10-2025 00:00,Standard,CUST-0003,Sneha Reddy,Corporate,Kolkata,East,Furniture,Study Table,1,0.1,6342.89,969.97,UPI
+627,ORD-2025-0627,18-03-2025 00:00,Mar-25,19-03-2025 00:00,Standard,CUST-0104,Sneha Reddy,Corporate,Lucknow,North,Office Supplies,Calculator,4,0.05,2371.2,741.76,UPI
+628,ORD-2025-0628,12-11-2025 00:00,Nov-25,14-11-2025 00:00,Standard,CUST-0218,Priya Nair,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,1,0.05,1726.9,187.14,Net Banking
+629,ORD-2025-0629,09-02-2025 00:00,Feb-25,12-02-2025 00:00,Express,CUST-0086,Sneha Reddy,Small Business,Bengaluru,South,Furniture,Bookshelf,1,0.15,3990.28,713.32,UPI
+630,ORD-2025-0630,13-03-2025 00:00,Mar-25,17-03-2025 00:00,Standard,CUST-0032,Ishita Roy,Corporate,Mumbai,West,Office Supplies,Calculator,2,0.15,1067.86,70.51,UPI
+631,ORD-2025-0631,17-05-2025 00:00,May-25,21-05-2025 00:00,Standard,CUST-0061,Meera Shah,Consumer,Lucknow,North,Furniture,Study Table,3,0,20216.31,5411.93,Net Banking
+632,ORD-2025-0632,26-02-2025 00:00,Feb-25,27-02-2025 00:00,Express,CUST-0013,Sanjay Menon,Consumer,Delhi,North,Home & Kitchen,Storage Box,2,0.2,1442.4,44.3,Credit Card
+633,ORD-2025-0633,11-04-2025 00:00,Apr-25,14-04-2025 00:00,Express,CUST-0228,Pooja Das,Consumer,Mumbai,West,Home & Kitchen,Electric Kettle,1,0,1787.73,336.79,Net Banking
+634,ORD-2025-0634,02-02-2025 00:00,Feb-25,06-02-2025 00:00,Standard,CUST-0028,Ananya Singh,Small Business,Pune,West,Office Supplies,Desk Organizer,2,0.15,772.92,46.81,Debit Card
+635,ORD-2025-0635,24-06-2025 00:00,Jun-25,28-06-2025 00:00,Standard,CUST-0018,Pooja Das,Small Business,Delhi,North,Electronics,Wireless Mouse,2,0.15,1342.17,34.78,UPI
+636,ORD-2025-0636,31-01-2025 00:00,Jan-25,05-02-2025 00:00,Express,CUST-0235,Aditya Kumar,Corporate,Bhubaneswar,East,Office Supplies,Desk Organizer,2,0.1,817.02,146.63,Net Banking
+637,ORD-2025-0637,04-02-2025 00:00,Feb-25,07-02-2025 00:00,Standard,CUST-0160,Shreya Kapoor,Consumer,Pune,West,Office Supplies,Pen Set,2,0.2,188.85,13.14,UPI
+638,ORD-2025-0638,25-07-2025 00:00,Jul-25,26-07-2025 00:00,Standard,CUST-0130,Sanjay Menon,Small Business,Chennai,South,Home & Kitchen,Water Bottle,2,0.15,854.1,147.61,UPI
+639,ORD-2025-0639,25-10-2025 00:00,Oct-25,26-10-2025 00:00,Standard,CUST-0165,Priya Nair,Corporate,Ahmedabad,West,Home & Kitchen,Coffee Mug,4,0,1166.11,224.49,Credit Card
+640,ORD-2025-0640,22-08-2025 00:00,Aug-25,27-08-2025 00:00,Standard,CUST-0108,Neha Gupta,Consumer,Kolkata,East,Furniture,Bookshelf,2,0.05,8803.5,2360.72,Net Banking
+641,ORD-2025-0641,23-10-2025 00:00,Oct-25,26-10-2025 00:00,Standard,CUST-0112,Shreya Kapoor,Consumer,Delhi,North,Electronics,Keyboard,3,0.15,3349.17,253.97,UPI
+642,ORD-2025-0642,31-01-2025 00:00,Jan-25,05-02-2025 00:00,Standard,CUST-0111,Arjun Patel,Consumer,Kolkata,East,Office Supplies,Pen Set,1,0.1,111.48,32.04,UPI
+643,ORD-2025-0643,25-12-2025 00:00,Dec-25,30-12-2025 00:00,Standard,CUST-0163,Neha Gupta,Consumer,Hyderabad,South,Office Supplies,Desk Organizer,3,0.1,1273.65,328.89,Debit Card
+644,ORD-2025-0644,03-08-2025 00:00,Aug-25,07-08-2025 00:00,Standard,CUST-0195,Sanjay Menon,Consumer,Bengaluru,South,Home & Kitchen,Storage Box,5,0,4491.5,912.9,UPI
+645,ORD-2025-0645,01-09-2025 00:00,Sep-25,02-09-2025 00:00,Standard,CUST-0119,Manish Yadav,Consumer,Lucknow,North,Electronics,Power Bank,1,0,1191.36,214.91,Debit Card
+646,ORD-2025-0646,16-07-2025 00:00,Jul-25,21-07-2025 00:00,Standard,CUST-0019,Kiran Joshi,Corporate,Delhi,North,Electronics,Power Bank,1,0.2,1004.99,252.65,UPI
+647,ORD-2025-0647,24-08-2025 00:00,Aug-25,29-08-2025 00:00,Same Day,CUST-0157,Priya Nair,Small Business,Pune,West,Office Supplies,Pen Set,4,0,486,118.43,UPI
+648,ORD-2025-0648,14-12-2025 00:00,Dec-25,17-12-2025 00:00,Standard,CUST-0244,Vikram Rao,Consumer,Pune,West,Furniture,Bookshelf,2,0.15,7457.56,138.01,Credit Card
+649,ORD-2025-0649,10-08-2025 00:00,Aug-25,13-08-2025 00:00,Standard,CUST-0007,Nikhil Jain,Small Business,Lucknow,North,Electronics,Power Bank,4,0,4680.52,1688.84,Debit Card
+650,ORD-2025-0650,16-11-2025 00:00,Nov-25,18-11-2025 00:00,Standard,CUST-0008,Rohan Mehta,Corporate,Chennai,South,Furniture,Folding Chair,3,0,5301.51,1049.78,Net Banking
+651,ORD-2025-0651,15-07-2025 00:00,Jul-25,16-07-2025 00:00,Standard,CUST-0139,Nikhil Jain,Small Business,Jaipur,North,Furniture,Study Table,5,0.1,32142.12,5297.9,Credit Card
+652,ORD-2025-0652,19-03-2025 00:00,Mar-25,23-03-2025 00:00,Standard,CUST-0128,Kavya Iyer,Consumer,Mysuru,South,Office Supplies,File Folder,3,0,279.26,90.32,Debit Card
+653,ORD-2025-0653,28-05-2025 00:00,May-25,30-05-2025 00:00,Standard,CUST-0101,Shreya Kapoor,Consumer,Lucknow,North,Office Supplies,Calculator,2,0.2,1030.69,164.87,Credit Card
+654,ORD-2025-0654,21-01-2025 00:00,Jan-25,24-01-2025 00:00,Standard,CUST-0012,Vikram Rao,Small Business,Mysuru,South,Home & Kitchen,Storage Box,2,0.15,1493.36,71.1,UPI
+655,ORD-2025-0655,05-04-2025 00:00,Apr-25,08-04-2025 00:00,Standard,CUST-0083,Pooja Das,Corporate,Bhubaneswar,East,Electronics,Bluetooth Speaker,3,0.2,4544.66,202.42,Debit Card
+656,ORD-2025-0656,06-10-2025 00:00,Oct-25,10-10-2025 00:00,Standard,CUST-0229,Rohan Mehta,Consumer,Mumbai,West,Office Supplies,File Folder,2,0.1,158.07,12.32,UPI
+657,ORD-2025-0657,09-10-2025 00:00,Oct-25,11-10-2025 00:00,Standard,CUST-0098,Sanjay Menon,Consumer,Lucknow,North,Home & Kitchen,Storage Box,1,0,915.71,208.51,Net Banking
+658,ORD-2025-0658,19-10-2025 00:00,Oct-25,22-10-2025 00:00,Standard,CUST-0068,Kiran Joshi,Consumer,Bengaluru,South,Home & Kitchen,Lunch Box,3,0.15,1862.77,256.6,Credit Card
+659,ORD-2025-0659,05-05-2025 00:00,May-25,09-05-2025 00:00,Express,CUST-0250,Pooja Das,Consumer,Delhi,North,Home & Kitchen,Lunch Box,4,0,2779.44,718.92,UPI
+660,ORD-2025-0660,12-12-2025 00:00,Dec-25,17-12-2025 00:00,Express,CUST-0042,Nikhil Jain,Consumer,Chennai,South,Home & Kitchen,Coffee Mug,2,0,609.05,223.29,UPI
+661,ORD-2025-0661,22-04-2025 00:00,Apr-25,24-04-2025 00:00,Same Day,CUST-0068,Kiran Joshi,Consumer,Bhubaneswar,East,Furniture,Office Chair,3,0.1,15573.84,3104.88,Cash
+662,ORD-2025-0662,16-07-2025 00:00,Jul-25,20-07-2025 00:00,Standard,CUST-0009,Neha Gupta,Small Business,Jaipur,North,Electronics,Keyboard,2,0.1,2380.63,736.86,Credit Card
+663,ORD-2025-0663,10-07-2025 00:00,Jul-25,13-07-2025 00:00,Standard,CUST-0051,Ishita Roy,Small Business,Pune,West,Office Supplies,Pen Set,2,0.15,212.59,48.39,UPI
+664,ORD-2025-0664,11-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0217,Nikhil Jain,Consumer,Hyderabad,South,Home & Kitchen,Lunch Box,2,0.2,1138.3,111.59,UPI
+665,ORD-2025-0665,28-01-2025 00:00,Jan-25,30-01-2025 00:00,Express,CUST-0185,Ananya Singh,Small Business,Chennai,South,Office Supplies,Desk Organizer,5,0.1,1964.03,460.89,UPI
+666,ORD-2025-0666,03-04-2025 00:00,Apr-25,08-04-2025 00:00,Standard,CUST-0017,Neha Gupta,Consumer,Ahmedabad,West,Electronics,Wireless Mouse,1,0,786.25,132.51,UPI
+667,ORD-2025-0667,04-08-2025 00:00,Aug-25,09-08-2025 00:00,Standard,CUST-0134,Rahul Verma,Small Business,Lucknow,North,Furniture,Study Table,2,0.05,13018.28,2723.59,UPI
+668,ORD-2025-0668,03-02-2025 00:00,Feb-25,05-02-2025 00:00,Same Day,CUST-0157,Pooja Das,Consumer,Bengaluru,South,Office Supplies,Pen Set,1,0,123.73,25.79,Credit Card
+669,ORD-2025-0669,03-02-2025 00:00,Feb-25,08-02-2025 00:00,Standard,CUST-0234,Sanjay Menon,Corporate,Bhubaneswar,East,Furniture,Study Table,3,0.2,17465.8,2978.31,Credit Card
+670,ORD-2025-0670,11-09-2025 00:00,Sep-25,16-09-2025 00:00,Express,CUST-0018,Rahul Verma,Corporate,Ahmedabad,West,Electronics,Power Bank,3,0.1,3302.93,502.52,Debit Card
+671,ORD-2025-0671,20-10-2025 00:00,Oct-25,25-10-2025 00:00,Express,CUST-0156,Ishita Roy,Consumer,Pune,West,Electronics,Power Bank,3,0.05,3260.16,748.91,UPI
+672,ORD-2025-0672,25-02-2025 00:00,Feb-25,28-02-2025 00:00,Express,CUST-0191,Neha Gupta,Corporate,Delhi,North,Home & Kitchen,Water Bottle,1,0.05,486.3,174.73,UPI
+673,ORD-2025-0673,29-01-2025 00:00,Jan-25,31-01-2025 00:00,Standard,CUST-0184,Nikhil Jain,Consumer,Pune,West,Furniture,Desk Lamp,3,0.1,3642.58,720.43,UPI
+674,ORD-2025-0674,24-04-2025 00:00,Apr-25,27-04-2025 00:00,Standard,CUST-0013,Pooja Das,Consumer,Ahmedabad,West,Office Supplies,Notebook,4,0.05,707.76,197.82,Net Banking
+675,ORD-2025-0675,20-05-2025 00:00,May-25,22-05-2025 00:00,Standard,CUST-0041,Kiran Joshi,Corporate,Delhi,North,Furniture,Desk Lamp,1,0.15,1117.15,144.35,UPI
+676,ORD-2025-0676,31-08-2025 00:00,Aug-25,03-09-2025 00:00,Express,CUST-0123,Ishita Roy,Corporate,Bhubaneswar,East,Furniture,Folding Chair,2,0.15,3137.3,335.44,Cash
+677,ORD-2025-0677,27-02-2025 00:00,Feb-25,03-03-2025 00:00,Standard,CUST-0024,Kavya Iyer,Consumer,Ahmedabad,West,Home & Kitchen,Storage Box,2,0,1718.75,566.09,Debit Card
+678,ORD-2025-0678,25-12-2025 00:00,Dec-25,30-12-2025 00:00,Express,CUST-0004,Kavya Iyer,Consumer,Delhi,North,Electronics,Power Bank,4,0.2,3953.08,565.37,UPI
+679,ORD-2025-0679,04-09-2025 00:00,Sep-25,06-09-2025 00:00,Express,CUST-0108,Kavya Iyer,Consumer,Kolkata,East,Furniture,Study Table,1,0,7326.6,1933.19,Debit Card
+680,ORD-2025-0680,25-09-2025 00:00,Sep-25,28-09-2025 00:00,Standard,CUST-0089,Divya Rao,Consumer,Hyderabad,South,Home & Kitchen,Lunch Box,4,0.1,2461.52,431.14,Credit Card
+681,ORD-2025-0681,12-03-2025 00:00,Mar-25,15-03-2025 00:00,Standard,CUST-0207,Ishita Roy,Corporate,Bhubaneswar,East,Office Supplies,Pen Set,2,0.15,196.99,27.21,UPI
+682,ORD-2025-0682,18-01-2025 00:00,Jan-25,23-01-2025 00:00,Express,CUST-0222,Pooja Das,Corporate,Delhi,North,Electronics,Bluetooth Speaker,2,0.1,3305.63,447.33,UPI
+683,ORD-2025-0683,22-09-2025 00:00,Sep-25,25-09-2025 00:00,Standard,CUST-0048,Arjun Patel,Consumer,Pune,West,Office Supplies,Calculator,5,0.15,2783.95,536.37,Net Banking
+684,ORD-2025-0684,06-02-2025 00:00,Feb-25,11-02-2025 00:00,Standard,CUST-0196,Manish Yadav,Small Business,Ahmedabad,West,Furniture,Study Table,4,0.2,21425.84,4059.45,Debit Card
+685,ORD-2025-0685,29-12-2025 00:00,Dec-25,30-12-2025 00:00,Standard,CUST-0096,Sanjay Menon,Consumer,Hyderabad,South,Home & Kitchen,Coffee Mug,4,0.05,1096.42,218.12,Debit Card
+686,ORD-2025-0686,24-07-2025 00:00,Jul-25,27-07-2025 00:00,Standard,CUST-0028,Meera Shah,Consumer,Mumbai,West,Electronics,Bluetooth Speaker,1,0.2,1450.27,171.77,UPI
+687,ORD-2025-0687,08-10-2025 00:00,Oct-25,10-10-2025 00:00,Standard,CUST-0136,Divya Rao,Consumer,Kolkata,East,Furniture,Desk Lamp,1,0.15,1068.78,84.37,Debit Card
+688,ORD-2025-0688,25-02-2025 00:00,Feb-25,26-02-2025 00:00,Standard,CUST-0221,Kiran Joshi,Small Business,Chennai,South,Furniture,Office Chair,2,0.2,8532.53,-141.31,UPI
+689,ORD-2025-0689,04-06-2025 00:00,Jun-25,07-06-2025 00:00,Standard,CUST-0012,Shreya Kapoor,Consumer,Mumbai,West,Home & Kitchen,Lunch Box,1,0.1,598.61,134.46,Cash
+690,ORD-2025-0690,30-10-2025 00:00,Oct-25,04-11-2025 00:00,Same Day,CUST-0015,Sneha Reddy,Corporate,Pune,West,Furniture,Study Table,3,0.15,16960.47,2901.16,Debit Card
+691,ORD-2025-0691,02-03-2025 00:00,Mar-25,03-03-2025 00:00,Standard,CUST-0244,Priya Nair,Small Business,Jaipur,North,Electronics,Power Bank,1,0,1195.24,226.79,Credit Card
+692,ORD-2025-0692,03-09-2025 00:00,Sep-25,08-09-2025 00:00,Standard,CUST-0060,Nikhil Jain,Consumer,Chennai,South,Electronics,Wireless Mouse,2,0.05,1547.07,304.79,Debit Card
+693,ORD-2025-0693,26-02-2025 00:00,Feb-25,03-03-2025 00:00,Express,CUST-0179,Pooja Das,Consumer,Ahmedabad,West,Furniture,Study Table,1,0.05,6930.5,1950.97,UPI
+694,ORD-2025-0694,04-01-2025 00:00,Jan-25,09-01-2025 00:00,Same Day,CUST-0245,Rahul Verma,Corporate,Lucknow,North,Office Supplies,Pen Set,1,0.1,109.94,20.3,Debit Card
+695,ORD-2025-0695,19-12-2025 00:00,Dec-25,23-12-2025 00:00,Express,CUST-0007,Sneha Reddy,Consumer,Hyderabad,South,Office Supplies,File Folder,5,0.15,389.16,37.78,Cash
+696,ORD-2025-0696,29-12-2025 00:00,Dec-25,30-12-2025 00:00,Express,CUST-0015,Neha Gupta,Corporate,Bhubaneswar,East,Office Supplies,File Folder,5,0.25,334.57,19.06,Debit Card
+697,ORD-2025-0697,30-04-2025 00:00,Apr-25,04-05-2025 00:00,Same Day,CUST-0197,Arjun Patel,Consumer,Hyderabad,South,Home & Kitchen,Electric Kettle,4,0.15,6107.6,865.99,UPI
+698,ORD-2025-0698,17-07-2025 00:00,Jul-25,20-07-2025 00:00,Standard,CUST-0156,Ishita Roy,Corporate,Mysuru,South,Office Supplies,File Folder,1,0.25,66.34,-1.33,Net Banking
+699,ORD-2025-0699,15-04-2025 00:00,Apr-25,16-04-2025 00:00,Express,CUST-0003,Ananya Singh,Consumer,Bengaluru,South,Electronics,Wireless Mouse,2,0.2,1280.07,74.94,Net Banking
+700,ORD-2025-0700,06-03-2025 00:00,Mar-25,09-03-2025 00:00,Express,CUST-0030,Neha Gupta,Small Business,Kolkata,East,Furniture,Bookshelf,2,0.05,8302.38,1685.17,Credit Card
+701,ORD-2025-0701,15-04-2025 00:00,Apr-25,20-04-2025 00:00,Same Day,CUST-0206,Kavya Iyer,Small Business,Jaipur,North,Furniture,Bookshelf,2,0,9127.67,2373.33,Debit Card
+702,ORD-2025-0702,16-09-2025 00:00,Sep-25,19-09-2025 00:00,Express,CUST-0089,Vikram Rao,Consumer,Bengaluru,South,Office Supplies,Calculator,4,0.1,2371.92,326.18,Credit Card
+703,ORD-2025-0703,18-10-2025 00:00,Oct-25,21-10-2025 00:00,Standard,CUST-0139,Sanjay Menon,Consumer,Bengaluru,South,Electronics,Power Bank,2,0.25,1808.52,-132.44,UPI
+704,ORD-2025-0704,20-10-2025 00:00,Oct-25,21-10-2025 00:00,Standard,CUST-0115,Pooja Das,Consumer,Jaipur,North,Office Supplies,File Folder,2,0.1,165.54,46.25,UPI
+705,ORD-2025-0705,19-04-2025 00:00,Apr-25,21-04-2025 00:00,Standard,CUST-0244,Manish Yadav,Corporate,Hyderabad,South,Office Supplies,File Folder,1,0,89.4,26.18,Credit Card
+706,ORD-2025-0706,04-01-2025 00:00,Jan-25,06-01-2025 00:00,Standard,CUST-0019,Nikhil Jain,Consumer,Chennai,South,Furniture,Study Table,4,0,26692.12,8380.68,UPI
+707,ORD-2025-0707,02-11-2025 00:00,Nov-25,06-11-2025 00:00,Standard,CUST-0039,Priya Nair,Consumer,Kolkata,East,Electronics,Power Bank,1,0.1,1070.1,171.2,UPI
+708,ORD-2025-0708,31-03-2025 00:00,Mar-25,03-04-2025 00:00,Standard,CUST-0209,Rohan Mehta,Small Business,Kolkata,East,Home & Kitchen,Coffee Mug,1,0,285.94,45.93,UPI
+709,ORD-2025-0709,27-03-2025 00:00,Mar-25,30-03-2025 00:00,Standard,CUST-0250,Divya Rao,Consumer,Mumbai,West,Electronics,USB-C Hub,4,0.2,4904.05,220.01,Net Banking
+710,ORD-2025-0710,11-12-2025 00:00,Dec-25,15-12-2025 00:00,Standard,CUST-0225,Pooja Das,Small Business,Bhubaneswar,East,Home & Kitchen,Water Bottle,3,0.2,1175.23,21.44,Debit Card
+711,ORD-2025-0711,15-03-2025 00:00,Mar-25,19-03-2025 00:00,Standard,CUST-0121,Aditya Kumar,Consumer,Bhubaneswar,East,Furniture,Study Table,2,0,13838.23,2410.05,Credit Card
+712,ORD-2025-0712,21-11-2025 00:00,Nov-25,24-11-2025 00:00,Express,CUST-0192,Nikhil Jain,Consumer,Chennai,South,Furniture,Study Table,1,0.1,6570.95,1240.68,Net Banking
+713,ORD-2025-0713,31-10-2025 00:00,Oct-25,05-11-2025 00:00,Standard,CUST-0235,Aarav Sharma,Consumer,Pune,West,Home & Kitchen,Storage Box,1,0,926.51,323.6,UPI
+714,ORD-2025-0714,11-07-2025 00:00,Jul-25,16-07-2025 00:00,Standard,CUST-0014,Pooja Das,Consumer,Ahmedabad,West,Office Supplies,Calculator,2,0,1279.09,444.21,Cash
+715,ORD-2025-0715,16-04-2025 00:00,Apr-25,19-04-2025 00:00,Standard,CUST-0016,Nikhil Jain,Consumer,Chennai,South,Office Supplies,Calculator,2,0,1259.04,423.51,Debit Card
+716,ORD-2025-0716,01-01-2025 00:00,Jan-25,03-01-2025 00:00,Standard,CUST-0108,Vikram Rao,Small Business,Delhi,North,Office Supplies,File Folder,1,0.1,80.81,11.26,Debit Card
+717,ORD-2025-0717,28-10-2025 00:00,Oct-25,31-10-2025 00:00,Standard,CUST-0020,Sanjay Menon,Consumer,Jaipur,North,Home & Kitchen,Electric Kettle,1,0,1715.62,377.06,Credit Card
+718,ORD-2025-0718,14-04-2025 00:00,Apr-25,16-04-2025 00:00,Standard,CUST-0216,Aarav Sharma,Corporate,Delhi,North,Office Supplies,Calculator,5,0,3222.93,957.41,UPI
+719,ORD-2025-0719,14-04-2025 00:00,Apr-25,19-04-2025 00:00,Express,CUST-0222,Priya Nair,Consumer,Ahmedabad,West,Furniture,Study Table,1,0.05,6349.28,1207.12,Debit Card
+720,ORD-2025-0720,26-06-2025 00:00,Jun-25,01-07-2025 00:00,Standard,CUST-0046,Kavya Iyer,Consumer,Jaipur,North,Home & Kitchen,Coffee Mug,3,0,854.75,174.86,UPI
+721,ORD-2025-0721,15-02-2025 00:00,Feb-25,19-02-2025 00:00,Standard,CUST-0003,Ishita Roy,Small Business,Ahmedabad,West,Furniture,Office Chair,1,0.2,4184.85,10.86,UPI
+722,ORD-2025-0722,11-11-2025 00:00,Nov-25,13-11-2025 00:00,Express,CUST-0109,Neha Gupta,Small Business,Ahmedabad,West,Furniture,Folding Chair,4,0,7494.58,2789.02,Net Banking
+723,ORD-2025-0723,05-08-2025 00:00,Aug-25,09-08-2025 00:00,Express,CUST-0095,Pooja Das,Consumer,Lucknow,North,Office Supplies,File Folder,1,0,86.4,25.7,UPI
+724,ORD-2025-0724,21-05-2025 00:00,May-25,24-05-2025 00:00,Standard,CUST-0078,Kavya Iyer,Consumer,Ahmedabad,West,Office Supplies,Notebook,2,0.05,325.6,76.22,UPI
+725,ORD-2025-0725,02-03-2025 00:00,Mar-25,06-03-2025 00:00,Standard,CUST-0095,Arjun Patel,Corporate,Delhi,North,Office Supplies,Pen Set,4,0,477.3,124.9,Credit Card
+726,ORD-2025-0726,06-05-2025 00:00,May-25,10-05-2025 00:00,Express,CUST-0134,Ananya Singh,Corporate,Ahmedabad,West,Furniture,Study Table,2,0.2,10759.75,902.7,Debit Card
+727,ORD-2025-0727,16-08-2025 00:00,Aug-25,20-08-2025 00:00,Express,CUST-0173,Manish Yadav,Corporate,Delhi,North,Electronics,Power Bank,2,0.05,2190.29,552.75,Net Banking
+728,ORD-2025-0728,07-10-2025 00:00,Oct-25,09-10-2025 00:00,Standard,CUST-0170,Arjun Patel,Consumer,Bengaluru,South,Electronics,USB-C Hub,1,0.2,1206.97,175.9,UPI
+729,ORD-2025-0729,30-03-2025 00:00,Mar-25,04-04-2025 00:00,Standard,CUST-0150,Aditya Kumar,Consumer,Jaipur,North,Home & Kitchen,Lunch Box,3,0.25,1620.5,97.41,Debit Card
+730,ORD-2025-0730,09-09-2025 00:00,Sep-25,14-09-2025 00:00,Express,CUST-0217,Divya Rao,Consumer,Hyderabad,South,Furniture,Folding Chair,1,0.15,1551.13,316,Debit Card
+731,ORD-2025-0731,28-06-2025 00:00,Jun-25,03-07-2025 00:00,Standard,CUST-0181,Kiran Joshi,Small Business,Bhubaneswar,East,Office Supplies,Desk Organizer,3,0.1,1222.14,216.41,UPI
+732,ORD-2025-0732,01-05-2025 00:00,May-25,03-05-2025 00:00,Standard,CUST-0201,Arjun Patel,Corporate,Mysuru,South,Home & Kitchen,Electric Kettle,2,0.15,3076.4,462.72,UPI
+733,ORD-2025-0733,06-07-2025 00:00,Jul-25,07-07-2025 00:00,Express,CUST-0147,Manish Yadav,Consumer,Chennai,South,Office Supplies,Notebook,1,0.05,172.69,50.56,Credit Card
+734,ORD-2025-0734,03-03-2025 00:00,Mar-25,08-03-2025 00:00,Standard,CUST-0019,Rohan Mehta,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,2,0.2,2899.09,330.5,Credit Card
+735,ORD-2025-0735,12-08-2025 00:00,Aug-25,17-08-2025 00:00,Standard,CUST-0195,Sneha Reddy,Small Business,Pune,West,Office Supplies,Notebook,3,0,565.71,203.17,Net Banking
+736,ORD-2025-0736,23-05-2025 00:00,May-25,24-05-2025 00:00,Express,CUST-0046,Rahul Verma,Small Business,Mysuru,South,Office Supplies,Desk Organizer,4,0.25,1330.8,-124.19,Cash
+737,ORD-2025-0737,21-05-2025 00:00,May-25,25-05-2025 00:00,Express,CUST-0219,Arjun Patel,Consumer,Delhi,North,Home & Kitchen,Storage Box,2,0.05,1627.9,465.74,Debit Card
+738,ORD-2025-0738,21-05-2025 00:00,May-25,26-05-2025 00:00,Standard,CUST-0133,Kiran Joshi,Small Business,Bhubaneswar,East,Home & Kitchen,Coffee Mug,3,0.15,749.55,57.97,Cash
+739,ORD-2025-0739,26-12-2025 00:00,Dec-25,31-12-2025 00:00,Standard,CUST-0151,Sneha Reddy,Corporate,Mysuru,South,Electronics,USB-C Hub,1,0.1,1399.3,383.3,Credit Card
+740,ORD-2025-0740,31-12-2025 00:00,Dec-25,01-01-2026 00:00,Standard,CUST-0178,Pooja Das,Consumer,Ahmedabad,West,Electronics,Keyboard,1,0.05,1225.76,292.28,Credit Card
+741,ORD-2025-0741,30-10-2025 00:00,Oct-25,01-11-2025 00:00,Express,CUST-0160,Aarav Sharma,Small Business,Chennai,South,Office Supplies,File Folder,2,0.1,160.34,33.33,Debit Card
+742,ORD-2025-0742,09-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0156,Aarav Sharma,Corporate,Delhi,North,Furniture,Study Table,4,0,28526.83,7366.07,Credit Card
+743,ORD-2025-0743,28-12-2025 00:00,Dec-25,02-01-2026 00:00,Express,CUST-0232,Rohan Mehta,Consumer,Mysuru,South,Home & Kitchen,Lunch Box,4,0.1,2398.47,569.74,Cash
+744,ORD-2025-0744,09-03-2025 00:00,Mar-25,14-03-2025 00:00,Standard,CUST-0217,Nikhil Jain,Consumer,Bhubaneswar,East,Home & Kitchen,Coffee Mug,2,0.2,469.33,20.1,Credit Card
+745,ORD-2025-0745,11-02-2025 00:00,Feb-25,12-02-2025 00:00,Standard,CUST-0228,Vikram Rao,Consumer,Delhi,North,Electronics,Bluetooth Speaker,1,0.1,1715.07,405.33,UPI
+746,ORD-2025-0746,03-11-2025 00:00,Nov-25,08-11-2025 00:00,Standard,CUST-0118,Nikhil Jain,Corporate,Mumbai,West,Home & Kitchen,Water Bottle,2,0.1,853.81,149.36,Credit Card
+747,ORD-2025-0747,16-02-2025 00:00,Feb-25,20-02-2025 00:00,Express,CUST-0126,Ananya Singh,Consumer,Mumbai,West,Home & Kitchen,Electric Kettle,1,0.25,1283.9,-167.48,Debit Card
+748,ORD-2025-0748,19-10-2025 00:00,Oct-25,22-10-2025 00:00,Express,CUST-0086,Manish Yadav,Consumer,Bengaluru,South,Home & Kitchen,Lunch Box,2,0.2,1107.7,195.65,UPI
+749,ORD-2025-0749,24-01-2025 00:00,Jan-25,27-01-2025 00:00,Standard,CUST-0190,Neha Gupta,Corporate,Chennai,South,Furniture,Office Chair,2,0.1,10304.81,1623.97,Credit Card
+750,ORD-2025-0750,13-09-2025 00:00,Sep-25,17-09-2025 00:00,Standard,CUST-0084,Divya Rao,Consumer,Chennai,South,Electronics,Bluetooth Speaker,2,0.1,3334.83,888.66,Debit Card
+751,ORD-2025-0751,24-08-2025 00:00,Aug-25,26-08-2025 00:00,Express,CUST-0149,Meera Shah,Small Business,Kolkata,East,Electronics,USB-C Hub,1,0,1528.3,389.47,Credit Card
+752,ORD-2025-0752,06-10-2025 00:00,Oct-25,10-10-2025 00:00,Express,CUST-0038,Manish Yadav,Small Business,Jaipur,North,Office Supplies,Calculator,4,0.1,2273.61,241.87,UPI
+753,ORD-2025-0753,08-05-2025 00:00,May-25,11-05-2025 00:00,Standard,CUST-0014,Ishita Roy,Consumer,Kolkata,East,Electronics,Power Bank,3,0.1,3171.4,739.73,Credit Card
+754,ORD-2025-0754,05-09-2025 00:00,Sep-25,06-09-2025 00:00,Standard,CUST-0038,Arjun Patel,Corporate,Delhi,North,Furniture,Folding Chair,1,0.05,1627.65,483.56,UPI
+755,ORD-2025-0755,16-08-2025 00:00,Aug-25,18-08-2025 00:00,Standard,CUST-0021,Divya Rao,Small Business,Hyderabad,South,Home & Kitchen,Storage Box,3,0.1,2430.22,462.03,Net Banking
+756,ORD-2025-0756,08-06-2025 00:00,Jun-25,13-06-2025 00:00,Express,CUST-0096,Priya Nair,Corporate,Bhubaneswar,East,Home & Kitchen,Lunch Box,1,0.05,687.06,183.06,UPI
+757,ORD-2025-0757,25-10-2025 00:00,Oct-25,29-10-2025 00:00,Express,CUST-0008,Kiran Joshi,Corporate,Pune,West,Office Supplies,Calculator,3,0.1,1772.93,371.65,UPI
+758,ORD-2025-0758,22-03-2025 00:00,Mar-25,25-03-2025 00:00,Express,CUST-0111,Sanjay Menon,Corporate,Mumbai,West,Home & Kitchen,Coffee Mug,2,0,580.54,169.39,Credit Card
+759,ORD-2025-0759,27-04-2025 00:00,Apr-25,29-04-2025 00:00,Express,CUST-0187,Rohan Mehta,Corporate,Mumbai,West,Furniture,Office Chair,1,0.1,5045.74,1258.19,UPI
+760,ORD-2025-0760,20-02-2025 00:00,Feb-25,23-02-2025 00:00,Standard,CUST-0156,Rohan Mehta,Small Business,Bengaluru,South,Home & Kitchen,Storage Box,1,0.05,841.05,126.09,UPI
+761,ORD-2025-0761,21-10-2025 00:00,Oct-25,26-10-2025 00:00,Standard,CUST-0111,Priya Nair,Small Business,Lucknow,North,Home & Kitchen,Water Bottle,2,0.2,773.97,98.35,Debit Card
+762,ORD-2025-0762,09-10-2025 00:00,Oct-25,13-10-2025 00:00,Express,CUST-0100,Nikhil Jain,Consumer,Delhi,North,Furniture,Study Table,4,0,28542.81,8892.71,Net Banking
+763,ORD-2025-0763,08-03-2025 00:00,Mar-25,13-03-2025 00:00,Same Day,CUST-0101,Vikram Rao,Consumer,Ahmedabad,West,Furniture,Study Table,4,0.2,22312.01,1879.72,UPI
+764,ORD-2025-0764,10-07-2025 00:00,Jul-25,11-07-2025 00:00,Standard,CUST-0113,Sneha Reddy,Consumer,Lucknow,North,Office Supplies,Desk Organizer,1,0.2,353.24,73.11,Credit Card
+765,ORD-2025-0765,29-01-2025 00:00,Jan-25,03-02-2025 00:00,Standard,CUST-0134,Kiran Joshi,Consumer,Hyderabad,South,Electronics,Wireless Mouse,3,0,2430.89,575.55,UPI
+766,ORD-2025-0766,05-06-2025 00:00,Jun-25,07-06-2025 00:00,Same Day,CUST-0171,Aditya Kumar,Small Business,Jaipur,North,Furniture,Office Chair,3,0.05,14981.81,3851.85,UPI
+767,ORD-2025-0767,06-01-2025 00:00,Jan-25,08-01-2025 00:00,Same Day,CUST-0013,Sanjay Menon,Corporate,Bhubaneswar,East,Furniture,Desk Lamp,1,0.15,1127.8,304.36,Credit Card
+768,ORD-2025-0768,30-05-2025 00:00,May-25,02-06-2025 00:00,Express,CUST-0031,Nikhil Jain,Small Business,Jaipur,North,Electronics,USB-C Hub,2,0.1,2659.07,756.81,UPI
+769,ORD-2025-0769,09-01-2025 00:00,Jan-25,12-01-2025 00:00,Express,CUST-0016,Arjun Patel,Corporate,Bengaluru,South,Furniture,Desk Lamp,2,0.1,2390.01,632.52,Net Banking
+770,ORD-2025-0770,22-09-2025 00:00,Sep-25,24-09-2025 00:00,Standard,CUST-0010,Rohan Mehta,Small Business,Mumbai,West,Electronics,Bluetooth Speaker,5,0.2,7296.68,1196.63,Net Banking
+771,ORD-2025-0771,22-12-2025 00:00,Dec-25,26-12-2025 00:00,Standard,CUST-0197,Nikhil Jain,Consumer,Ahmedabad,West,Furniture,Office Chair,2,0.1,9446.25,1860.98,Credit Card
+772,ORD-2025-0772,28-08-2025 00:00,Aug-25,01-09-2025 00:00,Standard,CUST-0078,Ishita Roy,Consumer,Delhi,North,Home & Kitchen,Electric Kettle,2,0.15,3072.2,157.77,Credit Card
+773,ORD-2025-0773,25-03-2025 00:00,Mar-25,27-03-2025 00:00,Standard,CUST-0116,Neha Gupta,Consumer,Mysuru,South,Electronics,Bluetooth Speaker,3,0.1,5200.27,1353.56,Net Banking
+774,ORD-2025-0774,05-06-2025 00:00,Jun-25,07-06-2025 00:00,Standard,CUST-0180,Kiran Joshi,Consumer,Lucknow,North,Home & Kitchen,Electric Kettle,2,0.2,3019.12,105.41,UPI
+775,ORD-2025-0775,31-10-2025 00:00,Oct-25,03-11-2025 00:00,Standard,CUST-0220,Pooja Das,Consumer,Jaipur,North,Electronics,Bluetooth Speaker,3,0.1,4906.43,1134.58,UPI
+776,ORD-2025-0776,06-03-2025 00:00,Mar-25,09-03-2025 00:00,Same Day,CUST-0005,Aarav Sharma,Consumer,Lucknow,North,Office Supplies,Pen Set,3,0,354.17,108.65,Credit Card
+777,ORD-2025-0777,08-06-2025 00:00,Jun-25,12-06-2025 00:00,Standard,CUST-0033,Sneha Reddy,Consumer,Lucknow,North,Furniture,Folding Chair,4,0,7220.49,2213.28,Cash
+778,ORD-2025-0778,29-09-2025 00:00,Sep-25,01-10-2025 00:00,Standard,CUST-0186,Divya Rao,Consumer,Ahmedabad,West,Office Supplies,Desk Organizer,1,0,459.81,113.96,UPI
+779,ORD-2025-0779,09-03-2025 00:00,Mar-25,14-03-2025 00:00,Express,CUST-0081,Ananya Singh,Consumer,Lucknow,North,Electronics,Keyboard,3,0,3900.98,1385.19,UPI
+780,ORD-2025-0780,15-07-2025 00:00,Jul-25,20-07-2025 00:00,Standard,CUST-0079,Ishita Roy,Consumer,Delhi,North,Office Supplies,Pen Set,1,0.2,93.39,7.22,UPI
+781,ORD-2025-0781,27-01-2025 00:00,Jan-25,28-01-2025 00:00,Standard,CUST-0026,Vikram Rao,Consumer,Delhi,North,Electronics,Wireless Mouse,2,0.1,1488.58,272.06,UPI
+782,ORD-2025-0782,25-06-2025 00:00,Jun-25,26-06-2025 00:00,Standard,CUST-0101,Priya Nair,Consumer,Mumbai,West,Office Supplies,Notebook,2,0.05,326.53,75.58,Debit Card
+783,ORD-2025-0783,27-06-2025 00:00,Jun-25,30-06-2025 00:00,Standard,CUST-0172,Ananya Singh,Consumer,Mumbai,West,Electronics,Bluetooth Speaker,4,0,7583.54,2112.83,Credit Card
+784,ORD-2025-0784,19-12-2025 00:00,Dec-25,23-12-2025 00:00,Standard,CUST-0218,Sanjay Menon,Small Business,Ahmedabad,West,Home & Kitchen,Electric Kettle,1,0.1,1578.51,382.22,UPI
+785,ORD-2025-0785,21-08-2025 00:00,Aug-25,22-08-2025 00:00,Standard,CUST-0060,Manish Yadav,Consumer,Pune,West,Furniture,Study Table,2,0.05,13623.38,4811.59,Debit Card
+786,ORD-2025-0786,24-06-2025 00:00,Jun-25,28-06-2025 00:00,Standard,CUST-0023,Kiran Joshi,Consumer,Pune,West,Office Supplies,Pen Set,2,0.1,206.69,33.54,UPI
+787,ORD-2025-0787,24-06-2025 00:00,Jun-25,27-06-2025 00:00,Standard,CUST-0195,Kiran Joshi,Consumer,Chennai,South,Home & Kitchen,Electric Kettle,2,0.05,3250.64,822.14,Debit Card
+788,ORD-2025-0788,14-09-2025 00:00,Sep-25,15-09-2025 00:00,Express,CUST-0155,Meera Shah,Consumer,Delhi,North,Electronics,Bluetooth Speaker,2,0,3683.94,944.54,UPI
+789,ORD-2025-0789,17-05-2025 00:00,May-25,18-05-2025 00:00,Standard,CUST-0101,Ananya Singh,Consumer,Delhi,North,Office Supplies,Pen Set,2,0,234.19,74.52,UPI
+790,ORD-2025-0790,19-02-2025 00:00,Feb-25,24-02-2025 00:00,Standard,CUST-0232,Ananya Singh,Consumer,Bhubaneswar,East,Electronics,Bluetooth Speaker,3,0.1,5004.57,1286.8,Credit Card
+791,ORD-2025-0791,03-08-2025 00:00,Aug-25,06-08-2025 00:00,Express,CUST-0072,Ananya Singh,Consumer,Mumbai,West,Electronics,USB-C Hub,3,0.1,3852.36,783.81,Cash
+792,ORD-2025-0792,27-12-2025 00:00,Dec-25,31-12-2025 00:00,Standard,CUST-0044,Rahul Verma,Consumer,Pune,West,Furniture,Study Table,3,0.1,18604.73,5139.43,UPI
+793,ORD-2025-0793,20-07-2025 00:00,Jul-25,23-07-2025 00:00,Same Day,CUST-0066,Aditya Kumar,Consumer,Bengaluru,South,Electronics,Wireless Mouse,1,0.1,693.71,43.19,Debit Card
+794,ORD-2025-0794,17-04-2025 00:00,Apr-25,19-04-2025 00:00,Express,CUST-0159,Ishita Roy,Consumer,Ahmedabad,West,Home & Kitchen,Storage Box,1,0.15,739.36,106.22,Net Banking
+795,ORD-2025-0795,10-11-2025 00:00,Nov-25,14-11-2025 00:00,Express,CUST-0164,Kavya Iyer,Consumer,Hyderabad,South,Office Supplies,Desk Organizer,2,0.05,892.44,236.82,UPI
+796,ORD-2025-0796,25-03-2025 00:00,Mar-25,29-03-2025 00:00,Standard,CUST-0164,Aarav Sharma,Corporate,Mysuru,South,Electronics,Power Bank,1,0.1,1125.04,226.91,UPI
+797,ORD-2025-0797,15-05-2025 00:00,May-25,17-05-2025 00:00,Standard,CUST-0248,Meera Shah,Consumer,Hyderabad,South,Electronics,Wireless Mouse,2,0.05,1532.33,536.54,UPI
+798,ORD-2025-0798,31-03-2025 00:00,Mar-25,04-04-2025 00:00,Express,CUST-0213,Divya Rao,Small Business,Ahmedabad,West,Electronics,Power Bank,3,0,3515.96,819.18,Net Banking
+799,ORD-2025-0799,25-02-2025 00:00,Feb-25,01-03-2025 00:00,Standard,CUST-0238,Kiran Joshi,Small Business,Bhubaneswar,East,Home & Kitchen,Coffee Mug,2,0.05,548.93,59.11,UPI
+800,ORD-2025-0800,04-03-2025 00:00,Mar-25,08-03-2025 00:00,Standard,CUST-0183,Manish Yadav,Consumer,Lucknow,North,Furniture,Bookshelf,2,0.2,7571.78,369.37,UPI
+801,ORD-2025-0801,20-03-2025 00:00,Mar-25,25-03-2025 00:00,Standard,CUST-0198,Arjun Patel,Small Business,Mumbai,West,Home & Kitchen,Coffee Mug,3,0.2,687.36,30.66,Credit Card
+802,ORD-2025-0802,22-05-2025 00:00,May-25,27-05-2025 00:00,Standard,CUST-0092,Ishita Roy,Corporate,Lucknow,North,Home & Kitchen,Storage Box,3,0,2615.41,451.99,Credit Card
+803,ORD-2025-0803,16-10-2025 00:00,Oct-25,18-10-2025 00:00,Standard,CUST-0214,Arjun Patel,Consumer,Ahmedabad,West,Electronics,USB-C Hub,1,0.05,1434.67,258.77,Debit Card
+804,ORD-2025-0804,02-03-2025 00:00,Mar-25,06-03-2025 00:00,Express,CUST-0080,Shreya Kapoor,Consumer,Ahmedabad,West,Office Supplies,File Folder,1,0.05,81.95,11.54,Debit Card
+805,ORD-2025-0805,24-06-2025 00:00,Jun-25,27-06-2025 00:00,Standard,CUST-0195,Shreya Kapoor,Consumer,Jaipur,North,Furniture,Desk Lamp,1,0,1287.47,240.49,UPI
+806,ORD-2025-0806,05-07-2025 00:00,Jul-25,07-07-2025 00:00,Standard,CUST-0015,Ishita Roy,Consumer,Pune,West,Office Supplies,Notebook,3,0.1,474.53,37.36,Credit Card
+807,ORD-2025-0807,05-06-2025 00:00,Jun-25,07-06-2025 00:00,Express,CUST-0108,Aarav Sharma,Consumer,Jaipur,North,Electronics,Wireless Mouse,2,0,1677.82,420.12,UPI
+808,ORD-2025-0808,14-02-2025 00:00,Feb-25,15-02-2025 00:00,Express,CUST-0013,Shreya Kapoor,Consumer,Jaipur,North,Electronics,Keyboard,3,0.2,3023.73,545.44,UPI
+809,ORD-2025-0809,28-06-2025 00:00,Jun-25,30-06-2025 00:00,Standard,CUST-0122,Neha Gupta,Corporate,Mysuru,South,Electronics,USB-C Hub,2,0.1,2631.1,672.69,Debit Card
+810,ORD-2025-0810,07-03-2025 00:00,Mar-25,11-03-2025 00:00,Standard,CUST-0061,Meera Shah,Consumer,Mysuru,South,Electronics,Power Bank,2,0.1,2172.33,342.41,UPI
+811,ORD-2025-0811,20-12-2025 00:00,Dec-25,23-12-2025 00:00,Express,CUST-0019,Sneha Reddy,Corporate,Ahmedabad,West,Home & Kitchen,Coffee Mug,3,0.2,709.69,83.1,Debit Card
+812,ORD-2025-0812,24-06-2025 00:00,Jun-25,25-06-2025 00:00,Standard,CUST-0198,Nikhil Jain,Small Business,Chennai,South,Office Supplies,Notebook,2,0,363,71.55,Net Banking
+813,ORD-2025-0813,06-02-2025 00:00,Feb-25,09-02-2025 00:00,Standard,CUST-0081,Manish Yadav,Corporate,Delhi,North,Home & Kitchen,Electric Kettle,3,0.15,4576.73,296.15,Debit Card
+814,ORD-2025-0814,24-09-2025 00:00,Sep-25,27-09-2025 00:00,Standard,CUST-0110,Neha Gupta,Consumer,Bengaluru,South,Home & Kitchen,Storage Box,4,0.05,3387.79,755.37,UPI
+815,ORD-2025-0815,28-03-2025 00:00,Mar-25,01-04-2025 00:00,Standard,CUST-0241,Priya Nair,Small Business,Kolkata,East,Home & Kitchen,Coffee Mug,1,0.2,242.88,17.3,Debit Card
+816,ORD-2025-0816,08-01-2025 00:00,Jan-25,13-01-2025 00:00,Standard,CUST-0095,Kavya Iyer,Consumer,Mumbai,West,Office Supplies,Desk Organizer,1,0.1,424.98,144.94,UPI
+817,ORD-2025-0817,28-06-2025 00:00,Jun-25,03-07-2025 00:00,Standard,CUST-0122,Kiran Joshi,Consumer,Chennai,South,Office Supplies,File Folder,5,0.2,358.77,33.69,Cash
+818,ORD-2025-0818,02-11-2025 00:00,Nov-25,05-11-2025 00:00,Express,CUST-0013,Shreya Kapoor,Consumer,Jaipur,North,Home & Kitchen,Electric Kettle,3,0,5207.1,1155.22,Net Banking
+819,ORD-2025-0819,08-12-2025 00:00,Dec-25,11-12-2025 00:00,Standard,CUST-0131,Sanjay Menon,Small Business,Lucknow,North,Home & Kitchen,Electric Kettle,2,0.05,3340.9,964.31,Credit Card
+820,ORD-2025-0820,27-07-2025 00:00,Jul-25,31-07-2025 00:00,Same Day,CUST-0180,Aarav Sharma,Consumer,Mysuru,South,Furniture,Office Chair,1,0,5415.43,1470.66,UPI
+821,ORD-2025-0821,24-11-2025 00:00,Nov-25,29-11-2025 00:00,Standard,CUST-0239,Shreya Kapoor,Consumer,Bengaluru,South,Office Supplies,File Folder,2,0.1,160.51,41.3,Debit Card
+822,ORD-2025-0822,01-05-2025 00:00,May-25,03-05-2025 00:00,Express,CUST-0160,Kavya Iyer,Consumer,Chennai,South,Furniture,Office Chair,1,0,5318.46,1796.31,Net Banking
+823,ORD-2025-0823,28-01-2025 00:00,Jan-25,30-01-2025 00:00,Standard,CUST-0228,Pooja Das,Consumer,Delhi,North,Furniture,Bookshelf,4,0,17903.6,4202.46,UPI
+824,ORD-2025-0824,15-12-2025 00:00,Dec-25,19-12-2025 00:00,Standard,CUST-0025,Shreya Kapoor,Consumer,Pune,West,Furniture,Study Table,4,0.2,23023.5,1276.63,Net Banking
+825,ORD-2025-0825,09-09-2025 00:00,Sep-25,12-09-2025 00:00,Standard,CUST-0231,Ishita Roy,Consumer,Delhi,North,Electronics,USB-C Hub,3,0.1,4209.76,671.6,UPI
+826,ORD-2025-0826,08-01-2025 00:00,Jan-25,09-01-2025 00:00,Standard,CUST-0198,Sanjay Menon,Small Business,Hyderabad,South,Home & Kitchen,Water Bottle,2,0.1,899.9,253.21,Credit Card
+827,ORD-2025-0827,08-02-2025 00:00,Feb-25,10-02-2025 00:00,Express,CUST-0196,Rahul Verma,Small Business,Delhi,North,Furniture,Bookshelf,2,0.1,8185.4,1791.02,Cash
+828,ORD-2025-0828,30-08-2025 00:00,Aug-25,03-09-2025 00:00,Express,CUST-0085,Manish Yadav,Consumer,Mysuru,South,Electronics,Wireless Mouse,1,0.1,699.46,55.58,Debit Card
+829,ORD-2025-0829,18-06-2025 00:00,Jun-25,21-06-2025 00:00,Standard,CUST-0180,Nikhil Jain,Consumer,Chennai,South,Furniture,Desk Lamp,1,0,1317.78,323.17,UPI
+830,ORD-2025-0830,06-12-2025 00:00,Dec-25,07-12-2025 00:00,Standard,CUST-0101,Kiran Joshi,Small Business,Ahmedabad,West,Furniture,Folding Chair,3,0.1,4957.06,1296.19,Debit Card
+831,ORD-2025-0831,03-10-2025 00:00,Oct-25,07-10-2025 00:00,Express,CUST-0227,Ananya Singh,Small Business,Kolkata,East,Office Supplies,Notebook,2,0.1,320.2,54.58,UPI
+832,ORD-2025-0832,27-10-2025 00:00,Oct-25,30-10-2025 00:00,Same Day,CUST-0212,Neha Gupta,Corporate,Jaipur,North,Office Supplies,Notebook,1,0.1,159.05,37.85,Net Banking
+833,ORD-2025-0833,28-12-2025 00:00,Dec-25,30-12-2025 00:00,Standard,CUST-0022,Meera Shah,Small Business,Mumbai,West,Electronics,Keyboard,1,0,1355.53,547.09,UPI
+834,ORD-2025-0834,24-08-2025 00:00,Aug-25,29-08-2025 00:00,Standard,CUST-0220,Neha Gupta,Corporate,Bengaluru,South,Furniture,Office Chair,4,0,21771.54,6769.62,Debit Card
+835,ORD-2025-0835,01-01-2025 00:00,Jan-25,05-01-2025 00:00,Standard,CUST-0026,Shreya Kapoor,Corporate,Lucknow,North,Office Supplies,File Folder,2,0,181.53,34.04,Net Banking
+836,ORD-2025-0836,24-09-2025 00:00,Sep-25,29-09-2025 00:00,Express,CUST-0247,Sneha Reddy,Consumer,Pune,West,Furniture,Desk Lamp,1,0.15,1112.66,215.31,UPI
+837,ORD-2025-0837,07-09-2025 00:00,Sep-25,09-09-2025 00:00,Standard,CUST-0095,Kiran Joshi,Consumer,Delhi,North,Electronics,Bluetooth Speaker,1,0.05,1842.56,663.82,Net Banking
+838,ORD-2025-0838,07-10-2025 00:00,Oct-25,09-10-2025 00:00,Express,CUST-0077,Nikhil Jain,Consumer,Bengaluru,South,Electronics,Power Bank,2,0.2,1928.89,403.6,Credit Card
+839,ORD-2025-0839,01-09-2025 00:00,Sep-25,06-09-2025 00:00,Standard,CUST-0030,Priya Nair,Consumer,Ahmedabad,West,Home & Kitchen,Storage Box,1,0.2,704.1,36.42,UPI
+840,ORD-2025-0840,10-11-2025 00:00,Nov-25,11-11-2025 00:00,Same Day,CUST-0098,Divya Rao,Consumer,Hyderabad,South,Home & Kitchen,Storage Box,1,0.1,780.14,96.04,Net Banking
+841,ORD-2025-0841,17-06-2025 00:00,Jun-25,18-06-2025 00:00,Express,CUST-0026,Kavya Iyer,Consumer,Hyderabad,South,Office Supplies,Pen Set,1,0.05,113.26,37.12,Debit Card
+842,ORD-2025-0842,19-03-2025 00:00,Mar-25,21-03-2025 00:00,Express,CUST-0124,Aarav Sharma,Corporate,Ahmedabad,West,Home & Kitchen,Lunch Box,3,0.05,2055.61,601.86,UPI
+843,ORD-2025-0843,03-06-2025 00:00,Jun-25,06-06-2025 00:00,Express,CUST-0112,Rohan Mehta,Consumer,Chennai,South,Electronics,Bluetooth Speaker,1,0.1,1756.42,279.54,UPI
+844,ORD-2025-0844,04-09-2025 00:00,Sep-25,09-09-2025 00:00,Standard,CUST-0236,Shreya Kapoor,Small Business,Mumbai,West,Home & Kitchen,Electric Kettle,1,0.1,1618.64,212.06,UPI
+845,ORD-2025-0845,29-08-2025 00:00,Aug-25,31-08-2025 00:00,Standard,CUST-0043,Ishita Roy,Consumer,Pune,West,Office Supplies,Notebook,1,0,178.12,37.08,Cash
+846,ORD-2025-0846,05-02-2025 00:00,Feb-25,10-02-2025 00:00,Standard,CUST-0091,Ananya Singh,Consumer,Bengaluru,South,Furniture,Folding Chair,1,0.2,1467.67,322.7,Credit Card
+847,ORD-2025-0847,06-07-2025 00:00,Jul-25,09-07-2025 00:00,Standard,CUST-0123,Kiran Joshi,Small Business,Jaipur,North,Furniture,Folding Chair,1,0.05,1768.34,517.54,Debit Card
+848,ORD-2025-0848,08-07-2025 00:00,Jul-25,10-07-2025 00:00,Same Day,CUST-0136,Vikram Rao,Consumer,Ahmedabad,West,Home & Kitchen,Lunch Box,2,0,1434.29,329.04,Debit Card
+849,ORD-2025-0849,19-04-2025 00:00,Apr-25,20-04-2025 00:00,Standard,CUST-0054,Ananya Singh,Consumer,Pune,West,Office Supplies,Notebook,3,0.25,398,31.91,Credit Card
+850,ORD-2025-0850,16-09-2025 00:00,Sep-25,17-09-2025 00:00,Standard,CUST-0175,Meera Shah,Small Business,Jaipur,North,Office Supplies,Calculator,1,0.1,561.79,152.02,UPI
+851,ORD-2025-0851,10-10-2025 00:00,Oct-25,14-10-2025 00:00,Standard,CUST-0247,Aditya Kumar,Consumer,Lucknow,North,Furniture,Bookshelf,1,0,4706.94,1167.79,Debit Card
+852,ORD-2025-0852,25-10-2025 00:00,Oct-25,28-10-2025 00:00,Standard,CUST-0219,Sanjay Menon,Consumer,Bhubaneswar,East,Electronics,Keyboard,2,0.05,2346.92,613.81,Debit Card
+853,ORD-2025-0853,01-03-2025 00:00,Mar-25,02-03-2025 00:00,Standard,CUST-0208,Nikhil Jain,Consumer,Bengaluru,South,Office Supplies,Desk Organizer,1,0,446.93,127.16,Credit Card
+854,ORD-2025-0854,22-06-2025 00:00,Jun-25,24-06-2025 00:00,Same Day,CUST-0196,Aditya Kumar,Consumer,Mumbai,West,Furniture,Office Chair,2,0.1,10334.97,2198.39,Cash
+855,ORD-2025-0855,07-12-2025 00:00,Dec-25,11-12-2025 00:00,Standard,CUST-0112,Ananya Singh,Consumer,Kolkata,East,Home & Kitchen,Storage Box,4,0,3689.06,774.06,UPI
+856,ORD-2025-0856,22-07-2025 00:00,Jul-25,26-07-2025 00:00,Standard,CUST-0191,Rohan Mehta,Consumer,Ahmedabad,West,Electronics,Wireless Mouse,2,0,1545.4,455.21,UPI
+857,ORD-2025-0857,22-12-2025 00:00,Dec-25,26-12-2025 00:00,Standard,CUST-0223,Ishita Roy,Consumer,Chennai,South,Office Supplies,File Folder,2,0.1,160.03,22.87,Net Banking
+858,ORD-2025-0858,20-03-2025 00:00,Mar-25,25-03-2025 00:00,Express,CUST-0142,Ananya Singh,Consumer,Jaipur,North,Electronics,Power Bank,3,0.2,3000.91,346.11,UPI
+859,ORD-2025-0859,17-07-2025 00:00,Jul-25,21-07-2025 00:00,Express,CUST-0130,Nikhil Jain,Corporate,Delhi,North,Electronics,Bluetooth Speaker,3,0.2,4413.46,449.66,Credit Card
+860,ORD-2025-0860,19-09-2025 00:00,Sep-25,23-09-2025 00:00,Standard,CUST-0134,Kiran Joshi,Corporate,Pune,West,Electronics,Power Bank,1,0.2,971.27,129.78,Credit Card
+861,ORD-2025-0861,12-07-2025 00:00,Jul-25,17-07-2025 00:00,Standard,CUST-0095,Meera Shah,Consumer,Lucknow,North,Furniture,Study Table,2,0,13753.34,2489.47,UPI
+862,ORD-2025-0862,02-04-2025 00:00,Apr-25,06-04-2025 00:00,Same Day,CUST-0018,Rahul Verma,Consumer,Kolkata,East,Furniture,Bookshelf,4,0.1,16386.21,4200.04,UPI
+863,ORD-2025-0863,02-08-2025 00:00,Aug-25,06-08-2025 00:00,Express,CUST-0101,Divya Rao,Consumer,Ahmedabad,West,Furniture,Desk Lamp,3,0.2,3125.3,276.53,UPI
+864,ORD-2025-0864,16-02-2025 00:00,Feb-25,19-02-2025 00:00,Standard,CUST-0144,Ishita Roy,Corporate,Pune,West,Home & Kitchen,Water Bottle,3,0.15,1281.6,85.71,Credit Card
+865,ORD-2025-0865,15-03-2025 00:00,Mar-25,16-03-2025 00:00,Same Day,CUST-0052,Sanjay Menon,Consumer,Mumbai,West,Office Supplies,Desk Organizer,2,0.05,860.91,234.08,Credit Card
+866,ORD-2025-0866,15-09-2025 00:00,Sep-25,20-09-2025 00:00,Standard,CUST-0118,Rohan Mehta,Consumer,Lucknow,North,Furniture,Study Table,1,0.2,5555.91,304.58,Credit Card
+867,ORD-2025-0867,20-09-2025 00:00,Sep-25,24-09-2025 00:00,Standard,CUST-0135,Ananya Singh,Consumer,Bengaluru,South,Electronics,Power Bank,1,0,1243.97,353.31,Net Banking
+868,ORD-2025-0868,21-09-2025 00:00,Sep-25,22-09-2025 00:00,Same Day,CUST-0060,Neha Gupta,Consumer,Bengaluru,South,Electronics,Wireless Mouse,1,0.05,785.37,240.68,UPI
+869,ORD-2025-0869,07-11-2025 00:00,Nov-25,11-11-2025 00:00,Standard,CUST-0131,Aarav Sharma,Consumer,Mumbai,West,Home & Kitchen,Electric Kettle,1,0,1733.04,569.81,UPI
+870,ORD-2025-0870,13-12-2025 00:00,Dec-25,14-12-2025 00:00,Same Day,CUST-0078,Meera Shah,Consumer,Ahmedabad,West,Office Supplies,Desk Organizer,1,0.15,399.34,51.75,UPI
+871,ORD-2025-0871,15-03-2025 00:00,Mar-25,17-03-2025 00:00,Standard,CUST-0040,Aarav Sharma,Consumer,Lucknow,North,Electronics,Keyboard,1,0.1,1191.75,283.85,Debit Card
+872,ORD-2025-0872,11-12-2025 00:00,Dec-25,12-12-2025 00:00,Standard,CUST-0243,Nikhil Jain,Consumer,Mysuru,South,Office Supplies,Calculator,3,0.1,1704.09,192.39,UPI
+873,ORD-2025-0873,17-07-2025 00:00,Jul-25,21-07-2025 00:00,Standard,CUST-0214,Neha Gupta,Corporate,Delhi,North,Home & Kitchen,Coffee Mug,1,0.15,262.58,66.75,Credit Card
+874,ORD-2025-0874,26-08-2025 00:00,Aug-25,29-08-2025 00:00,Standard,CUST-0181,Rohan Mehta,Corporate,Bengaluru,South,Furniture,Office Chair,2,0,10821.03,2440.78,UPI
+875,ORD-2025-0875,10-05-2025 00:00,May-25,13-05-2025 00:00,Express,CUST-0031,Pooja Das,Small Business,Bengaluru,South,Home & Kitchen,Water Bottle,1,0.2,419.15,60.3,UPI
+876,ORD-2025-0876,05-04-2025 00:00,Apr-25,07-04-2025 00:00,Express,CUST-0153,Neha Gupta,Corporate,Hyderabad,South,Furniture,Folding Chair,3,0,5398.3,1062.37,UPI
+877,ORD-2025-0877,05-03-2025 00:00,Mar-25,10-03-2025 00:00,Standard,CUST-0122,Vikram Rao,Consumer,Pune,West,Home & Kitchen,Coffee Mug,2,0.1,549.36,98.27,Debit Card
+878,ORD-2025-0878,16-06-2025 00:00,Jun-25,18-06-2025 00:00,Standard,CUST-0067,Priya Nair,Corporate,Pune,West,Furniture,Folding Chair,2,0.2,2752.88,402.67,UPI
+879,ORD-2025-0879,06-04-2025 00:00,Apr-25,09-04-2025 00:00,Express,CUST-0106,Priya Nair,Consumer,Pune,West,Office Supplies,Desk Organizer,1,0.2,347.61,3.61,Credit Card
+880,ORD-2025-0880,28-02-2025 00:00,Feb-25,05-03-2025 00:00,Standard,CUST-0149,Sanjay Menon,Consumer,Lucknow,North,Electronics,Wireless Mouse,2,0,1654.22,495.91,UPI
+881,ORD-2025-0881,24-11-2025 00:00,Nov-25,26-11-2025 00:00,Standard,CUST-0197,Shreya Kapoor,Consumer,Ahmedabad,West,Office Supplies,Notebook,4,0.15,605.98,44.51,Debit Card
+882,ORD-2025-0882,18-09-2025 00:00,Sep-25,23-09-2025 00:00,Standard,CUST-0079,Manish Yadav,Corporate,Jaipur,North,Furniture,Study Table,4,0,28155.01,6829.18,Net Banking
+883,ORD-2025-0883,29-07-2025 00:00,Jul-25,01-08-2025 00:00,Express,CUST-0050,Ishita Roy,Corporate,Delhi,North,Office Supplies,Notebook,2,0,349.38,79.69,Credit Card
+884,ORD-2025-0884,13-02-2025 00:00,Feb-25,16-02-2025 00:00,Standard,CUST-0093,Rahul Verma,Consumer,Mumbai,West,Electronics,Keyboard,1,0.1,1122.36,74.8,Debit Card
+885,ORD-2025-0885,07-03-2025 00:00,Mar-25,12-03-2025 00:00,Standard,CUST-0158,Manish Yadav,Consumer,Chennai,South,Office Supplies,File Folder,1,0.05,81.91,10.71,Debit Card
+886,ORD-2025-0886,09-11-2025 00:00,Nov-25,12-11-2025 00:00,Express,CUST-0116,Sneha Reddy,Corporate,Lucknow,North,Electronics,Wireless Mouse,1,0,800.15,210.69,Credit Card
+887,ORD-2025-0887,13-01-2025 00:00,Jan-25,17-01-2025 00:00,Express,CUST-0172,Pooja Das,Consumer,Mumbai,West,Office Supplies,Calculator,1,0,630.66,111.95,Credit Card
+888,ORD-2025-0888,28-05-2025 00:00,May-25,29-05-2025 00:00,Express,CUST-0227,Manish Yadav,Consumer,Mysuru,South,Furniture,Study Table,1,0.1,6051.37,419.68,UPI
+889,ORD-2025-0889,28-08-2025 00:00,Aug-25,30-08-2025 00:00,Standard,CUST-0009,Aditya Kumar,Small Business,Ahmedabad,West,Electronics,Bluetooth Speaker,1,0.1,1705.81,527.3,Net Banking
+890,ORD-2025-0890,23-08-2025 00:00,Aug-25,26-08-2025 00:00,Standard,CUST-0212,Aditya Kumar,Small Business,Mysuru,South,Home & Kitchen,Lunch Box,2,0.2,1101.63,162.02,Net Banking
+891,ORD-2025-0891,31-08-2025 00:00,Aug-25,05-09-2025 00:00,Express,CUST-0224,Ishita Roy,Corporate,Mysuru,South,Electronics,Keyboard,4,0.05,4928.98,1339.68,Debit Card
+892,ORD-2025-0892,06-04-2025 00:00,Apr-25,08-04-2025 00:00,Express,CUST-0156,Meera Shah,Corporate,Pune,West,Electronics,Wireless Mouse,2,0,1589.71,299.32,Debit Card
+893,ORD-2025-0893,17-09-2025 00:00,Sep-25,20-09-2025 00:00,Express,CUST-0115,Kavya Iyer,Small Business,Lucknow,North,Furniture,Desk Lamp,1,0,1308.27,436.97,Credit Card
+894,ORD-2025-0894,30-07-2025 00:00,Jul-25,31-07-2025 00:00,Standard,CUST-0159,Aditya Kumar,Small Business,Mumbai,West,Home & Kitchen,Lunch Box,1,0.1,606.32,90.28,Debit Card
+895,ORD-2025-0895,15-12-2025 00:00,Dec-25,17-12-2025 00:00,Express,CUST-0244,Neha Gupta,Consumer,Mysuru,South,Home & Kitchen,Lunch Box,2,0.1,1245.02,247.88,Net Banking
+896,ORD-2025-0896,22-02-2025 00:00,Feb-25,24-02-2025 00:00,Standard,CUST-0135,Manish Yadav,Consumer,Hyderabad,South,Electronics,USB-C Hub,1,0.15,1317.78,248.71,UPI
+897,ORD-2025-0897,08-12-2025 00:00,Dec-25,12-12-2025 00:00,Standard,CUST-0052,Rohan Mehta,Consumer,Bhubaneswar,East,Electronics,Keyboard,1,0,1354.1,347.29,Debit Card
+898,ORD-2025-0898,18-01-2025 00:00,Jan-25,23-01-2025 00:00,Express,CUST-0127,Neha Gupta,Consumer,Pune,West,Electronics,Wireless Mouse,2,0,1539.41,339.43,Credit Card
+899,ORD-2025-0899,14-12-2025 00:00,Dec-25,19-12-2025 00:00,Standard,CUST-0153,Ananya Singh,Consumer,Delhi,North,Electronics,Keyboard,1,0.05,1272.69,458.63,Credit Card
+900,ORD-2025-0900,15-01-2025 00:00,Jan-25,19-01-2025 00:00,Express,CUST-0077,Pooja Das,Consumer,Chennai,South,Office Supplies,File Folder,5,0.1,385.29,56.99,Credit Card
+901,ORD-2025-0901,16-09-2025 00:00,Sep-25,18-09-2025 00:00,Express,CUST-0135,Rohan Mehta,Corporate,Ahmedabad,West,Office Supplies,Calculator,2,0.1,1123.81,117.88,Credit Card
+902,ORD-2025-0902,09-07-2025 00:00,Jul-25,12-07-2025 00:00,Express,CUST-0006,Ananya Singh,Consumer,Delhi,North,Electronics,Bluetooth Speaker,3,0.2,4780.62,937.94,Credit Card
+903,ORD-2025-0903,16-10-2025 00:00,Oct-25,20-10-2025 00:00,Standard,CUST-0152,Pooja Das,Consumer,Lucknow,North,Furniture,Desk Lamp,4,0.1,4888.28,1226.74,Net Banking
+904,ORD-2025-0904,01-03-2025 00:00,Mar-25,04-03-2025 00:00,Express,CUST-0193,Pooja Das,Consumer,Mumbai,West,Home & Kitchen,Storage Box,1,0.05,812.9,125.62,Cash
+905,ORD-2025-0905,10-07-2025 00:00,Jul-25,14-07-2025 00:00,Express,CUST-0096,Neha Gupta,Corporate,Chennai,South,Home & Kitchen,Lunch Box,4,0.2,2224.94,348.27,UPI
+906,ORD-2025-0906,21-06-2025 00:00,Jun-25,24-06-2025 00:00,Standard,CUST-0020,Aditya Kumar,Consumer,Ahmedabad,West,Electronics,Power Bank,3,0.1,3354.62,509.92,Credit Card
+907,ORD-2025-0907,15-07-2025 00:00,Jul-25,16-07-2025 00:00,Same Day,CUST-0195,Neha Gupta,Consumer,Kolkata,East,Home & Kitchen,Electric Kettle,3,0,5165.94,1194.34,Credit Card
+908,ORD-2025-0908,28-09-2025 00:00,Sep-25,29-09-2025 00:00,Express,CUST-0234,Neha Gupta,Corporate,Chennai,South,Electronics,Power Bank,2,0,2450.28,510.95,Debit Card
+909,ORD-2025-0909,03-09-2025 00:00,Sep-25,05-09-2025 00:00,Standard,CUST-0158,Rohan Mehta,Corporate,Jaipur,North,Home & Kitchen,Electric Kettle,1,0.15,1555.34,83.69,Cash
+910,ORD-2025-0910,16-02-2025 00:00,Feb-25,20-02-2025 00:00,Standard,CUST-0018,Shreya Kapoor,Corporate,Mumbai,West,Office Supplies,File Folder,2,0,184.31,44.5,Cash
+911,ORD-2025-0911,15-12-2025 00:00,Dec-25,19-12-2025 00:00,Express,CUST-0162,Kiran Joshi,Consumer,Mumbai,West,Home & Kitchen,Coffee Mug,4,0.15,1004.78,229.4,Credit Card
+912,ORD-2025-0912,09-12-2025 00:00,Dec-25,13-12-2025 00:00,Express,CUST-0147,Ananya Singh,Consumer,Bengaluru,South,Furniture,Bookshelf,2,0,9118.43,2636.44,Credit Card
+913,ORD-2025-0913,14-07-2025 00:00,Jul-25,17-07-2025 00:00,Express,CUST-0082,Rahul Verma,Consumer,Bengaluru,South,Home & Kitchen,Water Bottle,1,0.1,449.56,87.38,Credit Card
+914,ORD-2025-0914,12-02-2025 00:00,Feb-25,17-02-2025 00:00,Express,CUST-0049,Aditya Kumar,Corporate,Bhubaneswar,East,Furniture,Bookshelf,1,0.15,3850.96,667.44,Net Banking
+915,ORD-2025-0915,10-03-2025 00:00,Mar-25,13-03-2025 00:00,Standard,CUST-0158,Sanjay Menon,Corporate,Bengaluru,South,Home & Kitchen,Electric Kettle,2,0.2,2970.82,347.26,UPI
+916,ORD-2025-0916,13-01-2025 00:00,Jan-25,15-01-2025 00:00,Standard,CUST-0155,Kiran Joshi,Consumer,Pune,West,Office Supplies,Calculator,4,0.1,2401.56,444.1,UPI
+917,ORD-2025-0917,21-10-2025 00:00,Oct-25,26-10-2025 00:00,Same Day,CUST-0082,Ishita Roy,Consumer,Mysuru,South,Electronics,Keyboard,1,0.25,1011.24,153.97,Debit Card
+918,ORD-2025-0918,31-05-2025 00:00,May-25,05-06-2025 00:00,Standard,CUST-0169,Aarav Sharma,Consumer,Mysuru,South,Furniture,Folding Chair,2,0.15,2908.81,348.43,UPI
+919,ORD-2025-0919,18-02-2025 00:00,Feb-25,22-02-2025 00:00,Standard,CUST-0223,Arjun Patel,Consumer,Chennai,South,Electronics,Keyboard,1,0,1326.08,503.05,Net Banking
+920,ORD-2025-0920,22-02-2025 00:00,Feb-25,25-02-2025 00:00,Standard,CUST-0061,Arjun Patel,Consumer,Chennai,South,Home & Kitchen,Coffee Mug,2,0.1,562.26,119.39,Debit Card
+921,ORD-2025-0921,15-06-2025 00:00,Jun-25,18-06-2025 00:00,Same Day,CUST-0097,Nikhil Jain,Consumer,Chennai,South,Furniture,Bookshelf,3,0,13468.53,3013.57,Credit Card
+922,ORD-2025-0922,26-12-2025 00:00,Dec-25,30-12-2025 00:00,Standard,CUST-0129,Rahul Verma,Consumer,Kolkata,East,Electronics,Keyboard,2,0.05,2439.24,375.59,Cash
+923,ORD-2025-0923,20-03-2025 00:00,Mar-25,23-03-2025 00:00,Standard,CUST-0219,Vikram Rao,Corporate,Bengaluru,South,Furniture,Folding Chair,1,0.25,1369.98,247.81,Credit Card
+924,ORD-2025-0924,01-12-2025 00:00,Dec-25,04-12-2025 00:00,Same Day,CUST-0117,Nikhil Jain,Small Business,Hyderabad,South,Home & Kitchen,Coffee Mug,3,0.05,871.67,240.24,Net Banking
+925,ORD-2025-0925,18-02-2025 00:00,Feb-25,21-02-2025 00:00,Standard,CUST-0002,Nikhil Jain,Consumer,Mumbai,West,Electronics,Keyboard,2,0.2,2071.53,342.4,UPI
+926,ORD-2025-0926,11-09-2025 00:00,Sep-25,13-09-2025 00:00,Express,CUST-0150,Shreya Kapoor,Consumer,Delhi,North,Furniture,Office Chair,1,0.1,4707.07,1110.95,Debit Card
+927,ORD-2025-0927,18-01-2025 00:00,Jan-25,19-01-2025 00:00,Standard,CUST-0005,Vikram Rao,Corporate,Delhi,North,Electronics,Power Bank,1,0.1,1070.6,125.89,Credit Card
+928,ORD-2025-0928,12-07-2025 00:00,Jul-25,13-07-2025 00:00,Standard,CUST-0099,Pooja Das,Consumer,Hyderabad,South,Office Supplies,Pen Set,1,0.2,92.04,1.25,Debit Card
+929,ORD-2025-0929,17-06-2025 00:00,Jun-25,18-06-2025 00:00,Standard,CUST-0190,Shreya Kapoor,Small Business,Hyderabad,South,Electronics,Bluetooth Speaker,3,0,5747.92,1436.17,UPI
+930,ORD-2025-0930,06-02-2025 00:00,Feb-25,09-02-2025 00:00,Same Day,CUST-0209,Rahul Verma,Small Business,Pune,West,Home & Kitchen,Water Bottle,4,0.1,1727.62,370.6,Credit Card
+931,ORD-2025-0931,08-02-2025 00:00,Feb-25,09-02-2025 00:00,Standard,CUST-0148,Meera Shah,Consumer,Mysuru,South,Electronics,Power Bank,1,0.1,1068.26,88.45,Credit Card
+932,ORD-2025-0932,05-04-2025 00:00,Apr-25,06-04-2025 00:00,Express,CUST-0134,Divya Rao,Consumer,Jaipur,North,Electronics,USB-C Hub,2,0.05,2900.32,884.19,Cash
+933,ORD-2025-0933,31-12-2025 00:00,Dec-25,01-01-2026 00:00,Express,CUST-0015,Sneha Reddy,Consumer,Bhubaneswar,East,Electronics,Wireless Mouse,3,0,2451.2,814.3,Credit Card
+934,ORD-2025-0934,10-08-2025 00:00,Aug-25,15-08-2025 00:00,Express,CUST-0185,Ishita Roy,Corporate,Chennai,South,Furniture,Desk Lamp,3,0,4069.73,1090.15,UPI
+935,ORD-2025-0935,16-11-2025 00:00,Nov-25,21-11-2025 00:00,Express,CUST-0036,Sanjay Menon,Consumer,Chennai,South,Office Supplies,Calculator,2,0.05,1211.33,175.36,Cash
+936,ORD-2025-0936,20-06-2025 00:00,Jun-25,22-06-2025 00:00,Standard,CUST-0110,Rahul Verma,Consumer,Lucknow,North,Home & Kitchen,Water Bottle,1,0.05,494.49,149.04,UPI
+937,ORD-2025-0937,31-01-2025 00:00,Jan-25,02-02-2025 00:00,Standard,CUST-0171,Sanjay Menon,Small Business,Lucknow,North,Furniture,Office Chair,3,0,16847.63,5405.63,UPI
+938,ORD-2025-0938,17-09-2025 00:00,Sep-25,21-09-2025 00:00,Express,CUST-0026,Sneha Reddy,Consumer,Mysuru,South,Electronics,Power Bank,2,0,2399.53,627.84,UPI
+939,ORD-2025-0939,15-07-2025 00:00,Jul-25,17-07-2025 00:00,Express,CUST-0045,Shreya Kapoor,Corporate,Mysuru,South,Office Supplies,File Folder,2,0,188.16,70.07,Debit Card
+940,ORD-2025-0940,29-05-2025 00:00,May-25,30-05-2025 00:00,Standard,CUST-0006,Sneha Reddy,Consumer,Mumbai,West,Furniture,Study Table,2,0.05,13081.86,4059.2,UPI
+941,ORD-2025-0941,30-07-2025 00:00,Jul-25,03-08-2025 00:00,Express,CUST-0178,Shreya Kapoor,Consumer,Lucknow,North,Furniture,Folding Chair,2,0.15,3144.39,804.55,Credit Card
+942,ORD-2025-0942,30-08-2025 00:00,Aug-25,03-09-2025 00:00,Standard,CUST-0168,Kiran Joshi,Consumer,Ahmedabad,West,Office Supplies,Pen Set,2,0.15,200.64,10.41,Credit Card
+943,ORD-2025-0943,23-05-2025 00:00,May-25,28-05-2025 00:00,Same Day,CUST-0162,Kiran Joshi,Small Business,Kolkata,East,Home & Kitchen,Storage Box,2,0,1777.33,361.77,Debit Card
+944,ORD-2025-0944,09-07-2025 00:00,Jul-25,10-07-2025 00:00,Same Day,CUST-0118,Ishita Roy,Corporate,Mumbai,West,Home & Kitchen,Lunch Box,4,0.2,2205.98,350.86,UPI
+945,ORD-2025-0945,15-02-2025 00:00,Feb-25,20-02-2025 00:00,Standard,CUST-0156,Divya Rao,Corporate,Hyderabad,South,Home & Kitchen,Water Bottle,3,0.1,1341.69,330.6,UPI
+946,ORD-2025-0946,21-10-2025 00:00,Oct-25,25-10-2025 00:00,Same Day,CUST-0118,Kavya Iyer,Consumer,Pune,West,Electronics,Bluetooth Speaker,1,0.05,1800.75,471.2,Debit Card
+947,ORD-2025-0947,09-11-2025 00:00,Nov-25,11-11-2025 00:00,Same Day,CUST-0093,Sneha Reddy,Consumer,Hyderabad,South,Electronics,Keyboard,3,0.05,3658.19,851.62,UPI
+948,ORD-2025-0948,08-06-2025 00:00,Jun-25,13-06-2025 00:00,Standard,CUST-0124,Ananya Singh,Corporate,Mumbai,West,Electronics,Bluetooth Speaker,3,0.05,5624.2,1050.88,Cash
+949,ORD-2025-0949,04-07-2025 00:00,Jul-25,05-07-2025 00:00,Standard,CUST-0187,Nikhil Jain,Corporate,Bengaluru,South,Furniture,Folding Chair,4,0.15,6053.47,993.17,UPI
+950,ORD-2025-0950,21-01-2025 00:00,Jan-25,26-01-2025 00:00,Express,CUST-0137,Vikram Rao,Consumer,Lucknow,North,Electronics,Keyboard,1,0.15,1138.7,302.56,Debit Card
+951,ORD-2025-0951,25-12-2025 00:00,Dec-25,30-12-2025 00:00,Same Day,CUST-0094,Pooja Das,Consumer,Bhubaneswar,East,Electronics,Power Bank,4,0.2,3823.09,-39.78,Net Banking
+952,ORD-2025-0952,07-04-2025 00:00,Apr-25,09-04-2025 00:00,Standard,CUST-0162,Divya Rao,Consumer,Bhubaneswar,East,Furniture,Study Table,2,0,13573.6,4850.34,UPI
+953,ORD-2025-0953,23-07-2025 00:00,Jul-25,25-07-2025 00:00,Standard,CUST-0180,Ishita Roy,Small Business,Mysuru,South,Furniture,Study Table,2,0.15,12199.64,1390.96,UPI
+954,ORD-2025-0954,30-06-2025 00:00,Jun-25,05-07-2025 00:00,Express,CUST-0210,Shreya Kapoor,Corporate,Lucknow,North,Home & Kitchen,Lunch Box,1,0,697.27,201.07,Debit Card
+955,ORD-2025-0955,05-12-2025 00:00,Dec-25,09-12-2025 00:00,Standard,CUST-0050,Vikram Rao,Consumer,Bhubaneswar,East,Electronics,Bluetooth Speaker,2,0.05,3721.41,1241.58,UPI
+956,ORD-2025-0956,20-07-2025 00:00,Jul-25,21-07-2025 00:00,Standard,CUST-0066,Rohan Mehta,Consumer,Hyderabad,South,Office Supplies,Calculator,3,0.1,1819.52,480.79,UPI
+957,ORD-2025-0957,25-05-2025 00:00,May-25,27-05-2025 00:00,Standard,CUST-0069,Divya Rao,Consumer,Chennai,South,Home & Kitchen,Lunch Box,2,0.1,1201.86,332.24,UPI
+958,ORD-2025-0958,02-08-2025 00:00,Aug-25,06-08-2025 00:00,Same Day,CUST-0092,Pooja Das,Corporate,Mumbai,West,Electronics,Keyboard,1,0,1262.53,377.85,Cash
+959,ORD-2025-0959,22-12-2025 00:00,Dec-25,25-12-2025 00:00,Express,CUST-0111,Aditya Kumar,Consumer,Bhubaneswar,East,Home & Kitchen,Storage Box,2,0.2,1392.79,108.93,UPI
+960,ORD-2025-0960,04-08-2025 00:00,Aug-25,09-08-2025 00:00,Express,CUST-0029,Sneha Reddy,Corporate,Bhubaneswar,East,Office Supplies,Notebook,2,0.05,358.92,127.46,Net Banking
+961,ORD-2025-0961,06-09-2025 00:00,Sep-25,11-09-2025 00:00,Standard,CUST-0052,Ananya Singh,Corporate,Hyderabad,South,Office Supplies,File Folder,1,0.1,83.21,17.14,Net Banking
+962,ORD-2025-0962,26-08-2025 00:00,Aug-25,28-08-2025 00:00,Same Day,CUST-0074,Vikram Rao,Corporate,Mumbai,West,Electronics,Power Bank,1,0,1233.41,379.29,Cash
+963,ORD-2025-0963,25-05-2025 00:00,May-25,26-05-2025 00:00,Same Day,CUST-0099,Ananya Singh,Consumer,Jaipur,North,Furniture,Study Table,1,0.1,6602.74,2175.13,Net Banking
+964,ORD-2025-0964,24-01-2025 00:00,Jan-25,28-01-2025 00:00,Express,CUST-0001,Priya Nair,Small Business,Lucknow,North,Electronics,Power Bank,4,0.15,4196.01,960.62,Net Banking
+965,ORD-2025-0965,30-01-2025 00:00,Jan-25,01-02-2025 00:00,Standard,CUST-0232,Pooja Das,Small Business,Hyderabad,South,Home & Kitchen,Lunch Box,3,0.15,1869.24,402.16,Net Banking
+966,ORD-2025-0966,21-06-2025 00:00,Jun-25,25-06-2025 00:00,Express,CUST-0215,Aarav Sharma,Consumer,Mysuru,South,Home & Kitchen,Water Bottle,4,0.1,1737.07,499.49,UPI
+967,ORD-2025-0967,11-07-2025 00:00,Jul-25,12-07-2025 00:00,Standard,CUST-0131,Sneha Reddy,Small Business,Kolkata,East,Furniture,Study Table,3,0,20995.34,6562.15,Debit Card
+968,ORD-2025-0968,22-08-2025 00:00,Aug-25,25-08-2025 00:00,Standard,CUST-0229,Meera Shah,Small Business,Lucknow,North,Electronics,Bluetooth Speaker,2,0,3895.35,948.13,Debit Card
+969,ORD-2025-0969,17-02-2025 00:00,Feb-25,21-02-2025 00:00,Express,CUST-0181,Sneha Reddy,Consumer,Mysuru,South,Electronics,Keyboard,5,0.2,5062.4,81.54,Debit Card
+970,ORD-2025-0970,07-01-2025 00:00,Jan-25,12-01-2025 00:00,Express,CUST-0042,Kiran Joshi,Consumer,Chennai,South,Office Supplies,Pen Set,3,0.2,284.78,48.22,Credit Card
+971,ORD-2025-0971,13-04-2025 00:00,Apr-25,14-04-2025 00:00,Standard,CUST-0117,Ishita Roy,Corporate,Bengaluru,South,Electronics,Bluetooth Speaker,1,0.15,1587.37,306.51,UPI
+972,ORD-2025-0972,18-05-2025 00:00,May-25,22-05-2025 00:00,Standard,CUST-0069,Arjun Patel,Consumer,Mysuru,South,Electronics,Power Bank,4,0.05,4649.59,1330.63,Credit Card
+973,ORD-2025-0973,04-08-2025 00:00,Aug-25,05-08-2025 00:00,Express,CUST-0095,Sneha Reddy,Small Business,Delhi,North,Home & Kitchen,Electric Kettle,2,0.1,3220.01,812.16,Credit Card
+974,ORD-2025-0974,10-09-2025 00:00,Sep-25,14-09-2025 00:00,Standard,CUST-0215,Ananya Singh,Corporate,Mumbai,West,Office Supplies,Notebook,3,0.2,435.15,56.99,Credit Card
+975,ORD-2025-0975,13-01-2025 00:00,Jan-25,15-01-2025 00:00,Express,CUST-0167,Rahul Verma,Consumer,Kolkata,East,Electronics,Power Bank,1,0.25,938.69,119.31,Debit Card
+976,ORD-2025-0976,10-03-2025 00:00,Mar-25,13-03-2025 00:00,Express,CUST-0154,Ishita Roy,Small Business,Jaipur,North,Office Supplies,Notebook,2,0.2,276.92,-13.07,UPI
+977,ORD-2025-0977,04-12-2025 00:00,Dec-25,09-12-2025 00:00,Standard,CUST-0066,Aditya Kumar,Corporate,Lucknow,North,Electronics,Bluetooth Speaker,4,0.05,7558.42,2181.22,UPI
+978,ORD-2025-0978,27-01-2025 00:00,Jan-25,31-01-2025 00:00,Standard,CUST-0135,Priya Nair,Corporate,Bhubaneswar,East,Home & Kitchen,Water Bottle,2,0.2,821.26,52.31,Credit Card
+979,ORD-2025-0979,06-09-2025 00:00,Sep-25,08-09-2025 00:00,Standard,CUST-0103,Neha Gupta,Corporate,Kolkata,East,Home & Kitchen,Lunch Box,2,0.25,1012.84,68.42,Credit Card
+980,ORD-2025-0980,05-10-2025 00:00,Oct-25,07-10-2025 00:00,Standard,CUST-0115,Manish Yadav,Consumer,Bengaluru,South,Office Supplies,File Folder,1,0,87.41,27.86,Debit Card
+981,ORD-2025-0981,25-04-2025 00:00,Apr-25,28-04-2025 00:00,Express,CUST-0062,Ishita Roy,Consumer,Pune,West,Office Supplies,Notebook,2,0.1,323.25,33.78,Debit Card
+982,ORD-2025-0982,24-01-2025 00:00,Jan-25,26-01-2025 00:00,Standard,CUST-0117,Neha Gupta,Consumer,Ahmedabad,West,Electronics,Wireless Mouse,2,0.05,1564.79,556.82,Debit Card
+983,ORD-2025-0983,16-07-2025 00:00,Jul-25,17-07-2025 00:00,Standard,CUST-0096,Ishita Roy,Consumer,Mumbai,West,Furniture,Bookshelf,1,0.15,3846.56,167.4,Net Banking
+984,ORD-2025-0984,07-12-2025 00:00,Dec-25,09-12-2025 00:00,Express,CUST-0039,Vikram Rao,Small Business,Bhubaneswar,East,Home & Kitchen,Lunch Box,1,0.2,541.64,92.73,UPI
+985,ORD-2025-0985,16-03-2025 00:00,Mar-25,21-03-2025 00:00,Standard,CUST-0099,Shreya Kapoor,Consumer,Lucknow,North,Office Supplies,Desk Organizer,3,0.15,1158.4,58.44,Net Banking
+986,ORD-2025-0986,21-09-2025 00:00,Sep-25,22-09-2025 00:00,Express,CUST-0138,Kiran Joshi,Consumer,Pune,West,Furniture,Study Table,1,0.05,6392.43,1566.38,Cash
+987,ORD-2025-0987,11-05-2025 00:00,May-25,16-05-2025 00:00,Express,CUST-0073,Ananya Singh,Consumer,Bhubaneswar,East,Furniture,Study Table,3,0,20275.22,3236.04,Credit Card
+988,ORD-2025-0988,16-02-2025 00:00,Feb-25,18-02-2025 00:00,Standard,CUST-0135,Rahul Verma,Consumer,Delhi,North,Electronics,Bluetooth Speaker,1,0,1963.29,564.21,Cash
+989,ORD-2025-0989,07-02-2025 00:00,Feb-25,08-02-2025 00:00,Standard,CUST-0127,Aarav Sharma,Consumer,Hyderabad,South,Furniture,Folding Chair,2,0.05,3474.29,753.38,UPI
+990,ORD-2025-0990,02-10-2025 00:00,Oct-25,03-10-2025 00:00,Standard,CUST-0151,Arjun Patel,Corporate,Mumbai,West,Home & Kitchen,Lunch Box,2,0,1426.36,387.91,UPI
+991,ORD-2025-0991,14-06-2025 00:00,Jun-25,19-06-2025 00:00,Standard,CUST-0225,Kiran Joshi,Consumer,Bhubaneswar,East,Home & Kitchen,Water Bottle,4,0.2,1563.72,54.94,Debit Card
+992,ORD-2025-0992,26-04-2025 00:00,Apr-25,27-04-2025 00:00,Same Day,CUST-0243,Rohan Mehta,Consumer,Jaipur,North,Electronics,Power Bank,2,0.05,2304.73,573.85,UPI
+993,ORD-2025-0993,20-03-2025 00:00,Mar-25,21-03-2025 00:00,Standard,CUST-0017,Divya Rao,Consumer,Bengaluru,South,Electronics,Keyboard,2,0.05,2459.89,797.02,UPI
+994,ORD-2025-0994,11-12-2025 00:00,Dec-25,16-12-2025 00:00,Express,CUST-0189,Nikhil Jain,Corporate,Bhubaneswar,East,Furniture,Office Chair,1,0,5242.15,1167.23,UPI
+995,ORD-2025-0995,06-01-2025 00:00,Jan-25,07-01-2025 00:00,Same Day,CUST-0057,Rahul Verma,Corporate,Jaipur,North,Home & Kitchen,Water Bottle,1,0,479.26,148.98,Debit Card
+996,ORD-2025-0996,03-08-2025 00:00,Aug-25,07-08-2025 00:00,Standard,CUST-0227,Shreya Kapoor,Corporate,Pune,West,Office Supplies,Notebook,1,0.1,169.94,35.56,UPI
+997,ORD-2025-0997,26-01-2025 00:00,Jan-25,28-01-2025 00:00,Standard,CUST-0134,Meera Shah,Corporate,Mysuru,South,Electronics,Keyboard,2,0.1,2417.17,307.21,Debit Card
+998,ORD-2025-0998,16-06-2025 00:00,Jun-25,20-06-2025 00:00,Standard,CUST-0246,Meera Shah,Consumer,Mysuru,South,Furniture,Bookshelf,5,0,23604.62,5834.03,Credit Card
+999,ORD-2025-0999,15-01-2025 00:00,Jan-25,16-01-2025 00:00,Same Day,CUST-0197,Divya Rao,Consumer,Lucknow,North,Office Supplies,Calculator,1,0.25,487.31,28.29,UPI
+1000,ORD-2025-1000,18-12-2025 00:00,Dec-25,22-12-2025 00:00,Express,CUST-0007,Meera Shah,Consumer,Mysuru,South,Office Supplies,File Folder,4,0.05,347.8,123.37,Debit Card
